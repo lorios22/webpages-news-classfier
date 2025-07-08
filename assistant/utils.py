@@ -47,7 +47,7 @@ def load_classification_rules() -> str:
         rules = []
         
         # Load first rules document
-        rules_path1 = "news_classifier_webpages/improvements/Definitions of Key Judgment Terms For Crypto News Article Classification System.txt"
+        rules_path1 = "improvements/Definitions of Key Judgment Terms For Crypto News Article Classification System.txt"
         with open(rules_path1, "r", encoding='utf-8') as f:
             rules.append(f.read())
             

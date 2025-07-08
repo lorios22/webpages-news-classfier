@@ -1,0 +1,414 @@
+name: CI/CD Pipeline - News Classifier
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    # Run security scan daily at 2 AM UTC
+    - cron: '0 2 * * *'
+
+env:
+  PYTHON_VERSION: 3.11
+  NODE_VERSION: 18
+
+jobs:
+  # Job 1: Code Quality and Security
+  code-quality:
+    runs-on: ubuntu-latest
+    name: Code Quality & Security
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+        
+    - name: Cache pip dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+          
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        pip install black isort flake8 bandit safety mypy pytest-cov
+        
+    - name: Run Black (Code Formatting)
+      run: |
+        black --check --diff .
+        
+    - name: Run isort (Import Sorting)
+      run: |
+        isort --check-only --diff .
+        
+    - name: Run flake8 (Linting)
+      run: |
+        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
+        
+    - name: Run Bandit (Security Linting)
+      run: |
+        bandit -r . -f json -o bandit-report.json || true
+        
+    - name: Run Safety (Dependency Security Check)
+      run: |
+        safety check --json --output safety-report.json || true
+        
+    - name: Run MyPy (Type Checking)
+      run: |
+        mypy . --ignore-missing-imports --no-strict-optional
+        
+    - name: Upload security reports
+      uses: actions/upload-artifact@v3
+      if: always()
+      with:
+        name: security-reports
+        path: |
+          bandit-report.json
+          safety-report.json
+
+  # Job 2: Unit and Integration Tests
+  test:
+    runs-on: ubuntu-latest
+    name: Run Tests
+    needs: code-quality
+    
+    strategy:
+      matrix:
+        python-version: [3.9, 3.10, 3.11]
+        
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ matrix.python-version }}
+        
+    - name: Cache pip dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ matrix.python-version }}-${{ hashFiles('**/requirements.txt') }}
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        pip install pytest pytest-cov pytest-asyncio pytest-mock
+        playwright install
+        
+    - name: Create test environment file
+      run: |
+        cat > .env.test << EOF
+        OPENAI_API_KEY=test_key_${{ github.run_id }}
+        SLACK_BOT_TOKEN=xoxb-test-token
+        SLACK_CHANNEL_ID_WEBSCRAPPER=test_channel_1
+        SLACK_CHANNEL_ID_TO_POST_CLASSIFIED_NEWS_WEBPAGES=test_channel_2
+        EOF
+        
+    - name: Run MVP Fixes Tests
+      env:
+        PYTHONPATH: ${{ github.workspace }}
+      run: |
+        python -m pytest test_mvp_fixes.py -v --tb=short --durations=10
+        
+    - name: Run Unit Tests
+      env:
+        PYTHONPATH: ${{ github.workspace }}
+      run: |
+        python -m pytest tests/unit/ -v --cov=domain --cov=application --cov=infrastructure --cov-report=xml --cov-report=html
+        
+    - name: Run Integration Tests
+      env:
+        PYTHONPATH: ${{ github.workspace }}
+      run: |
+        python -m pytest tests/integration/ -v --tb=short
+        
+    - name: Upload coverage reports
+      uses: codecov/codecov-action@v3
+      with:
+        file: ./coverage.xml
+        fail_ci_if_error: true
+        
+    - name: Upload test artifacts
+      uses: actions/upload-artifact@v3
+      if: always()
+      with:
+        name: test-results-${{ matrix.python-version }}
+        path: |
+          htmlcov/
+          pytest-report.xml
+
+  # Job 3: End-to-End Tests
+  e2e-tests:
+    runs-on: ubuntu-latest
+    name: End-to-End Tests
+    needs: test
+    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/develop'
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        playwright install
+        
+    - name: Create test environment
+      run: |
+        cat > .env.e2e << EOF
+        OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY_TEST }}
+        SLACK_BOT_TOKEN=${{ secrets.SLACK_BOT_TOKEN_TEST }}
+        SLACK_CHANNEL_ID_WEBSCRAPPER=${{ secrets.SLACK_CHANNEL_ID_TEST }}
+        SLACK_CHANNEL_ID_TO_POST_CLASSIFIED_NEWS_WEBPAGES=${{ secrets.SLACK_CHANNEL_ID_TEST }}
+        EOF
+        
+    - name: Run E2E Tests
+      env:
+        PYTHONPATH: ${{ github.workspace }}
+      run: |
+        python -m pytest tests/e2e/ -v --tb=short --durations=10
+        
+    - name: Upload E2E artifacts
+      uses: actions/upload-artifact@v3
+      if: always()
+      with:
+        name: e2e-results
+        path: |
+          tests/e2e/screenshots/
+          tests/e2e/videos/
+
+  # Job 4: Performance Tests
+  performance:
+    runs-on: ubuntu-latest
+    name: Performance Tests
+    needs: test
+    if: github.ref == 'refs/heads/main'
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        pip install locust memory-profiler
+        
+    - name: Run Performance Tests
+      run: |
+        python -m pytest tests/performance/ -v
+        
+    - name: Memory Profile Test
+      run: |
+        python -m memory_profiler scripts/performance_test.py
+        
+    - name: Upload performance reports
+      uses: actions/upload-artifact@v3
+      with:
+        name: performance-results
+        path: |
+          performance-report.json
+          memory-profile.txt
+
+  # Job 5: Build and Deploy (Staging)
+  build-and-deploy-staging:
+    runs-on: ubuntu-latest
+    name: Build & Deploy to Staging
+    needs: [code-quality, test, e2e-tests]
+    if: github.ref == 'refs/heads/develop' && github.event_name == 'push'
+    
+    environment:
+      name: staging
+      url: https://staging.news-classifier.example.com
+      
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+        
+    - name: Build application
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        python -m py_compile $(find . -name "*.py")
+        
+    - name: Create deployment package
+      run: |
+        tar -czf news-classifier-staging.tar.gz \
+          --exclude='.git' \
+          --exclude='__pycache__' \
+          --exclude='*.pyc' \
+          --exclude='.pytest_cache' \
+          --exclude='tests/' \
+          .
+          
+    - name: Deploy to staging
+      run: |
+        echo "🚀 Deploying to staging environment..."
+        echo "Package: news-classifier-staging.tar.gz"
+        echo "Environment: staging"
+        echo "Branch: ${{ github.ref_name }}"
+        # Here you would add actual deployment commands
+        # e.g., SCP to server, Docker deployment, etc.
+        
+    - name: Run staging smoke tests
+      run: |
+        echo "🧪 Running staging smoke tests..."
+        python scripts/staging_smoke_tests.py
+        
+    - name: Notify deployment success
+      uses: 8398a7/action-slack@v3
+      if: success()
+      with:
+        status: success
+        channel: '#deployments'
+        text: '✅ Staging deployment successful for ${{ github.ref_name }}'
+      env:
+        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+
+  # Job 6: Deploy to Production
+  deploy-production:
+    runs-on: ubuntu-latest
+    name: Deploy to Production
+    needs: [code-quality, test, e2e-tests, performance]
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    
+    environment:
+      name: production
+      url: https://news-classifier.example.com
+      
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+        
+    - name: Build production package
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        python -m py_compile $(find . -name "*.py")
+        
+    - name: Create production package
+      run: |
+        tar -czf news-classifier-production.tar.gz \
+          --exclude='.git' \
+          --exclude='__pycache__' \
+          --exclude='*.pyc' \
+          --exclude='.pytest_cache' \
+          --exclude='tests/' \
+          .
+          
+    - name: Deploy with Blue-Green strategy
+      run: |
+        echo "🔄 Starting Blue-Green deployment..."
+        echo "1. Creating new green environment..."
+        echo "2. Running health checks..."
+        echo "3. Switching traffic to green..."
+        echo "4. Monitoring for 5 minutes..."
+        echo "5. Decommissioning blue environment..."
+        # Actual deployment commands would go here
+        
+    - name: Run production health checks
+      run: |
+        echo "🏥 Running production health checks..."
+        python scripts/production_health_checks.py
+        
+    - name: Monitor deployment
+      run: |
+        echo "📊 Monitoring deployment for 5 minutes..."
+        python scripts/deployment_monitor.py --duration=300
+        
+    - name: Notify deployment success
+      uses: 8398a7/action-slack@v3
+      if: success()
+      with:
+        status: success
+        channel: '#deployments'
+        text: '🎉 Production deployment successful! Version: ${{ github.sha }}'
+      env:
+        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        
+    - name: Rollback on failure
+      if: failure()
+      run: |
+        echo "❌ Deployment failed, initiating rollback..."
+        python scripts/rollback.py --environment=production
+        
+    - name: Notify deployment failure
+      uses: 8398a7/action-slack@v3
+      if: failure()
+      with:
+        status: failure
+        channel: '#deployments'
+        text: '🚨 Production deployment failed and rolled back. Check logs.'
+      env:
+        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+
+  # Job 7: Security Scan (Scheduled)
+  security-scan:
+    runs-on: ubuntu-latest
+    name: Security Scan
+    if: github.event_name == 'schedule'
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Run Trivy vulnerability scanner
+      uses: aquasecurity/trivy-action@master
+      with:
+        scan-type: 'fs'
+        scan-ref: '.'
+        format: 'sarif'
+        output: 'trivy-results.sarif'
+        
+    - name: Upload Trivy scan results
+      uses: github/codeql-action/upload-sarif@v2
+      with:
+        sarif_file: 'trivy-results.sarif'
+        
+    - name: Run dependency check
+      run: |
+        python -m pip install --upgrade pip
+        pip install safety
+        safety check --json --output dependency-scan.json || true
+        
+    - name: Upload security artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: security-scan-results
+        path: |
+          trivy-results.sarif
+          dependency-scan.json 

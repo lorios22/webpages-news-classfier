@@ -1,0 +1,18 @@
+{
+  "start_time": "2025-07-08T13:43:09.589595",
+  "stages": {
+    "tests": {
+      "duration": 28.55268383026123,
+      "status": "success",
+      "message": "All tests passed"
+    },
+    "url_extraction": {
+      "duration": 0.5299923419952393,
+      "status": "success",
+      "urls_extracted": 0,
+      "message": "Extracted 0 URLs"
+    }
+  },
+  "errors": [],
+  "warnings": []
+}

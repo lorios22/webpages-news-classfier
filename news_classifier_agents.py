@@ -1,4 +1,10 @@
 import json
+import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
 from typing import Dict, List, Optional
 from typing_extensions import Literal, TypedDict
 
@@ -17,10 +23,12 @@ from assistant.prompts import (input_preprocessor_instructions, context_evaluato
                              historical_reflection_instructions, consolidation_instructions,
                              human_reasoning_instructions, consensus_instructions,
                              reflective_validator_instructions, validator_instructions,
-                             metadata_ranking_instructions, summary_instructions)
+                             summary_instructions)
 from assistant.utils import (clean_and_structure_content, load_classification_rules, 
                            verify_claim, extract_claims, consolidate_score, 
                            human_like_adjustment)
+from duplicate_detection import duplicate_detector
+from fin_integration import fin_integration
 
 def summary_agent(state: ClassifierState, config: RunnableConfig):
     """Generate a concise summary and title of the webpage content"""
@@ -46,12 +54,82 @@ def summary_agent(state: ClassifierState, config: RunnableConfig):
         "agent_responses": state.agent_responses
     }
 
+def check_summary_override(content: str) -> bool:
+    """
+    Check if Summary Agent can extract coherent content from potentially skipped content.
+    Returns True if content should be processed (skip override), False otherwise.
+    """
+    try:
+        llm = ChatOpenAI(model="o3-mini")
+        
+        override_prompt = """You are evaluating if content should be processed despite spam flags.
+
+Can you extract a coherent title and summary from this content?
+
+Respond with JSON:
+{
+  "coherent": true/false,
+  "reasoning": "Brief explanation",
+  "extracted_title": "Title if coherent, null otherwise"
+}
+"""
+        
+        result = llm.invoke([
+            SystemMessage(content=override_prompt),
+            HumanMessage(content=content)
+        ])
+        
+        result_dict = json.loads(result.content)
+        return result_dict.get("coherent", False)
+        
+    except Exception as e:
+        print(f"Error in summary override check: {e}")
+        return False
+
+def truncate_long_content(content: str, max_tokens: int = 3000) -> str:
+    """
+    Truncate content if it exceeds max_tokens, preserving the most important parts.
+    """
+    # Rough estimation: 1 token ≈ 4 characters
+    max_chars = max_tokens * 4
+    
+    if len(content) <= max_chars:
+        return content
+    
+    # Try to truncate intelligently - keep beginning and end
+    truncated = content[:max_chars - 200] + "\n\n[Content truncated for analysis...]"
+    print(f"Content truncated from {len(content)} to {len(truncated)} characters for analysis.")
+    return truncated
+
 def clean_webpage_content(content: str) -> str:
     """
     Cleans webpage content by removing unnecessary elements and formatting.
+    Enhanced to prevent context bleed from navigation and multi-article pages.
     """
     # Remove HTML tags
     content = re.sub(r'<[^>]+>', '', content)
+    
+    # Remove common navigation and boilerplate elements that cause context bleed
+    nav_patterns = [
+        r'skip to main content',
+        r'skip navigation',
+        r'breaking[:：]\s*[^.!?]*',  # Remove BREAKING news tickers
+        r'this article is more than \d+ months old',
+        r'advertisement',
+        r'sponsored content',
+        r'subscribe to newsletter',
+        r'follow us on',
+        r'share this article',
+        r'related articles?',
+        r'more from this author',
+        r'trending now',
+        r'most popular',
+        r'you might also like',
+        r'recommended for you'
+    ]
+    
+    for pattern in nav_patterns:
+        content = re.sub(pattern, '', content, flags=re.IGNORECASE)
     
     # Remove extra whitespace
     content = re.sub(r'\s+', ' ', content)
@@ -61,6 +139,12 @@ def clean_webpage_content(content: str) -> str:
     
     # Remove URLs
     content = re.sub(r'https?://\S+', '', content)
+    
+    # Remove email addresses
+    content = re.sub(r'\S+@\S+\.\S+', '', content)
+    
+    # Remove repeated punctuation that might confuse analysis
+    content = re.sub(r'[.!?]{3,}', '...', content)
     
     return content.strip()
 
@@ -73,9 +157,29 @@ def input_preprocessor(state: ClassifierState, config: RunnableConfig):
     # Clean the webpage content
     cleaned_content = clean_webpage_content(raw_content)
     
+    # Check for duplicates first
+    is_duplicate, duplicate_id = duplicate_detector.is_duplicate(cleaned_content)
+    if is_duplicate:
+        print(f"\nDuplicate content detected - matches {duplicate_id}")
+        preprocessor_state = {
+            "skip": True,
+            "skip_reason": f"Duplicate content (matches {duplicate_id})",
+            "cleaned_content": cleaned_content,
+            "is_duplicate": True,
+            "duplicate_id": duplicate_id
+        }
+        state.preprocessor_state = preprocessor_state
+        state.agent_responses = getattr(state, 'agent_responses', {})
+        state.agent_responses['input_preprocessor'] = preprocessor_state
+        return {
+            "preprocessor_state": state.preprocessor_state,
+            "agent_responses": state.agent_responses
+        }
+    
     # Apply pre-filters to determine if content should be skipped
     should_skip = False
     skip_reason = None
+    spam_flag_count = 0
     
     # Check minimum content length
     if len(cleaned_content.split()) < 50:
@@ -83,34 +187,65 @@ def input_preprocessor(state: ClassifierState, config: RunnableConfig):
         skip_reason = "Content too short (minimum 50 words required)"
         print(f"\nSkipping content - {skip_reason}")
     
-    # Check for spam indicators
+    # Enhanced spam detection - require multiple indicators and context
     spam_indicators = ['buy now', 'click here', 'limited time', 'special offer', 'discount', 'sale']
-    if any(indicator in cleaned_content.lower() for indicator in spam_indicators):
+    credible_patterns = ['regulation', 'section', 'business wire', 'press release', 'earnings', 'sec filing']
+    
+    # Count spam indicators
+    for indicator in spam_indicators:
+        if indicator in cleaned_content.lower():
+            spam_flag_count += 1
+    
+    # Check for credible source patterns
+    has_credible_pattern = any(pattern in cleaned_content.lower() for pattern in credible_patterns)
+    
+    # More sophisticated spam logic - require multiple flags AND no credible patterns
+    if spam_flag_count >= 2 and not has_credible_pattern and len(cleaned_content.split()) < 200:
         should_skip = True
-        skip_reason = "Spam indicators detected in content"
-        print(f"\nSkipping content - {skip_reason}")
+        skip_reason = f"Multiple spam indicators detected ({spam_flag_count} flags) without credible content markers"
+        print(f"\nInitial spam flag - {skip_reason}")
+        
+        # Check if Summary Agent can extract coherent content (override mechanism)
+        if check_summary_override(cleaned_content):
+            should_skip = False
+            skip_reason = None
+            print("Skip overridden - Summary Agent found coherent content")
+        else:
+            print("Skip confirmed - No coherent content found")
+    
+    # Store initial skip decision for potential override
+    initial_skip = should_skip
     
     # If content should be skipped, return early with skip flag
     if should_skip:
         preprocessor_state = {
             "skip": True,
             "skip_reason": skip_reason,
-            "cleaned_content": cleaned_content
+            "cleaned_content": cleaned_content,
+            "initial_skip": initial_skip,
+            "spam_flag_count": spam_flag_count
         }
         state.preprocessor_state = preprocessor_state
         state.agent_responses = getattr(state, 'agent_responses', {})
         state.agent_responses['input_preprocessor'] = preprocessor_state
-    return {
+        return {
             "preprocessor_state": state.preprocessor_state,
             "agent_responses": state.agent_responses
         }
     
     print("\nContent passed preprocessor filters - continuing with analysis")
     
+    # Add content to duplicate detection memory for future checks
+    article_id = duplicate_detector.add_content(cleaned_content)
+    print(f"Content added to duplicate memory with ID: {article_id}")
+    
     # If content passes filters, return cleaned and structured data
     preprocessor_state = {
         "skip": False,
-        "cleaned_content": cleaned_content
+        "cleaned_content": cleaned_content,
+        "initial_skip": initial_skip,
+        "spam_flag_count": spam_flag_count,
+        "article_id": article_id
     }
     state.preprocessor_state = preprocessor_state
     state.agent_responses = getattr(state, 'agent_responses', {})
@@ -131,6 +266,9 @@ def context_evaluator(state: ClassifierState, config: RunnableConfig):
         content = state.content
     else:
         content = preprocessor_state.get('cleaned_content', state.content)
+    
+    # Truncate long content to prevent token overflow
+    content = truncate_long_content(content)
         
     # Load classification rules
     rules = load_classification_rules()
@@ -185,7 +323,7 @@ Output a JSON with:
         if context_score < 3.0:
             should_continue = False
     
-    state.context_evaluator_state = result.content
+        state.context_evaluator_state = result.content
         
         if not should_continue:
             state.skip_further_analysis = True
@@ -206,7 +344,7 @@ Output a JSON with:
 def fact_checker(state: ClassifierState, config: RunnableConfig):
     """
     Verifies factual claims in the webpage content using GPT-4.
-    Identifies false or misleading claims and assesses their impact on credibility.
+    Enhanced with FIN integration for credibility scoring.
     """
     # Extract preprocessed content
     preprocessor_state = state.preprocessor_state
@@ -215,24 +353,37 @@ def fact_checker(state: ClassifierState, config: RunnableConfig):
     else:
         content = preprocessor_state.get('cleaned_content', state.content)
     
+    # Get FIN analysis for enhanced fact-checking
+    fin_analysis = fin_integration.get_comprehensive_analysis(content)
+    source_credibility = fin_analysis['source_credibility']['source_credibility']
+    fin_fact_check = fin_analysis['fact_check']
+    
     # Load classification rules
     rules = load_classification_rules()
     
-    fact_checker_prompt = """You are a fact-checking expert. Verify factual claims in the webpage content.
+    fact_checker_prompt = f"""You are a fact-checking expert. Verify factual claims in the webpage content.
+
+Additional context from FIN system:
+- Source credibility: {source_credibility}/100 ({fin_analysis['source_credibility']['classification']})
+- FIN fact-check score: {fin_fact_check['fact_check_score']}/100
+- Market impact: {fin_analysis['sentiment_analysis']['market_impact']}
 
 Identify and verify each factual claim:
 - Label FALSE claims that are inaccurate
 - Label TRUE claims that are supported
 - Label UNVERIFIED claims that cannot be verified
 
+Consider the source credibility when assessing claims.
+
 Format response as JSON:
-{
+{{
   "claims": [
-    {"text": "claim text", "veracity": "TRUE/FALSE/UNVERIFIED"}
+    {{"text": "claim text", "veracity": "TRUE/FALSE/UNVERIFIED"}}
   ],
   "cred_impact": "How findings affect credibility",
-  "credibility_score": number between 1.0 and 10.0
-}
+  "credibility_score": number between 1.0 and 10.0,
+  "fin_enhanced": true
+}}
 """
     
     llm = ChatOpenAI(model="gpt-4")
@@ -242,19 +393,35 @@ Format response as JSON:
         HumanMessage(content=content)
     ])
     
-    state.fact_checker_state = result.content
+    # Combine LLM result with FIN analysis
+    enhanced_result = {
+        "llm_analysis": result.content,
+        "fin_analysis": fin_analysis,
+        "combined_credibility": (fin_fact_check['fact_check_score'] / 100) * 10  # Convert to 1-10 scale
+    }
+    
+    state.fact_checker_state = json.dumps(enhanced_result)
 
     try:
         result_dict = json.loads(result.content)
-        credibility_score = float(result_dict.get("credibility_score", 5.0))
-        state.fact_checker_score = credibility_score
+        # Use FIN-enhanced credibility if available
+        if 'fin_enhanced' in result_dict:
+            credibility_score = float(result_dict.get("credibility_score", 5.0))
+            # Blend with FIN score
+            blended_score = (credibility_score + enhanced_result["combined_credibility"]) / 2
+            state.fact_checker_score = blended_score
+        else:
+            credibility_score = float(result_dict.get("credibility_score", 5.0))
+            state.fact_checker_score = credibility_score
     except Exception as e:
         print(f"Error parsing fact checker result: {e}")
-        state.fact_checker_score = 5.0
+        # Fall back to FIN score if LLM parsing fails
+        state.fact_checker_score = enhanced_result["combined_credibility"]
 
     return {
         "fact_checker_state": state.fact_checker_state,
-        "fact_checker_score": getattr(state, 'fact_checker_score', 5.0)
+        "fact_checker_score": getattr(state, 'fact_checker_score', 5.0),
+        "fin_analysis": fin_analysis
     }
 
 def depth_analyzer(state: ClassifierState, config: RunnableConfig):
@@ -451,7 +618,8 @@ def historical_reflection(state: ClassifierState, config: RunnableConfig):
 
 def human_reasoning(state: ClassifierState, config: RunnableConfig):
     """
-    Applies human-like reasoning to evaluate content quality and relevance
+    Applies human-like reasoning to evaluate content quality and relevance.
+    Enhanced with FIN sentiment and market impact analysis.
     """
     llm = ChatOpenAI(model="o3-mini")
         
@@ -462,26 +630,39 @@ def human_reasoning(state: ClassifierState, config: RunnableConfig):
     else:
         content = preprocessor_state.get('cleaned_content', state.content)
     
-    human_reasoning_prompt = """You are a human evaluator. Rate this content's quality and value from 1-10:
+    # Get FIN analysis for enhanced human reasoning
+    fin_analysis = fin_integration.get_comprehensive_analysis(content)
+    sentiment_data = fin_analysis['sentiment_analysis']
+    source_cred = fin_analysis['source_credibility']
+    
+    human_reasoning_prompt = f"""You are a human evaluator. Rate this content's quality and value from 1-10:
+
+FIN Market Intelligence:
+- Sentiment: {sentiment_data['sentiment']} (confidence: {sentiment_data['confidence']:.2f})
+- Market Impact: {sentiment_data['market_impact']}
+- Crypto Relevance: {sentiment_data['crypto_mentions']} mentions
+- Source Classification: {source_cred['classification']} ({source_cred['source_credibility']}/100)
 
 Consider:
 - Readability and clarity
 - Practical value to readers
 - Engagement level
-- Trustworthiness
+- Trustworthiness (informed by source credibility)
 - Overall quality
+- Potential bias (especially if sentiment seems artificially inflated)
 
 Format as JSON:
-{
+{{
     "human_score": number between 1.0 and 10.0,
-    "reasoning": {
+    "reasoning": {{
         "readability": "high|medium|low",
         "practical_value": "high|medium|low",
         "engagement": "high|medium|low",
         "trust": "high|medium|low"
-    },
-    "explanation": "Brief explanation of score"
-}
+    }},
+    "explanation": "Brief explanation of score",
+    "fin_informed": true
+}}
 """
     
     result = llm.invoke([
@@ -489,19 +670,43 @@ Format as JSON:
         HumanMessage(content=content)
     ])
     
+    # Combine with FIN insights
+    enhanced_result = {
+        "llm_analysis": result.content,
+        "fin_insights": {
+            "sentiment": sentiment_data,
+            "source_credibility": source_cred,
+            "market_context": fin_analysis['sentiment_analysis']['market_impact']
+        }
+    }
+    
     try:
         result_dict = json.loads(result.content)
         human_score = float(result_dict.get("human_score", 5.0))
+        
+        # Adjust score based on FIN analysis
+        if source_cred['source_credibility'] < 60:  # Low credibility source
+            human_score = max(1.0, human_score - 1.0)  # Reduce score
+        elif source_cred['source_credibility'] > 90:  # High credibility source
+            human_score = min(10.0, human_score + 0.5)  # Slight boost
+            
         state.human_reasoning_score = human_score
     except Exception as e:
         print(f"Error parsing human reasoning result: {e}")
-        state.human_reasoning_score = 5.0
+        # Default score adjusted by source credibility
+        base_score = 5.0
+        if source_cred['source_credibility'] > 80:
+            base_score = 6.0
+        elif source_cred['source_credibility'] < 60:
+            base_score = 4.0
+        state.human_reasoning_score = base_score
     
-    state.human_reasoning_state = result.content
+    state.human_reasoning_state = json.dumps(enhanced_result)
     
     return {
         "human_reasoning_state": state.human_reasoning_state,
-        "human_reasoning_score": state.human_reasoning_score
+        "human_reasoning_score": state.human_reasoning_score,
+        "fin_insights": enhanced_result["fin_insights"]
     }
     
 def reflective_validator(state: ClassifierState, config: RunnableConfig):
@@ -714,7 +919,8 @@ def consensus_agent(state: ClassifierState, config: RunnableConfig):
         if hasattr(state, 'fact_checker_state'):
             try:
                 fact_dict = json.loads(state.fact_checker_state)
-                fact_score = float(fact_dict.get("credibility_score", 5.0))
+                # Use the blended score from fact_checker
+                fact_score = float(fact_dict.get("combined_credibility", 5.0))
                 print(f"Fact score extracted: {fact_score}")
             except Exception as e:
                 print(f"Error parsing fact_checker_state: {e}")
