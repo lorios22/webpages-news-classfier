@@ -1,9 +1,9 @@
 {
   "articles": [
     {
-      "id": "article_1_20250708_140552",
+      "id": "article_1_20250708_142110",
       "url": null,
-      "timestamp": "2025-07-08T14:05:52.942603",
+      "timestamp": "2025-07-08T14:21:10.354686",
       "title": "Bitcoin reaches new all-time high as institutional adoption increases",
       "first_paragraph": "Bitcoin reaches new all-time high as institutional adoption increases",
       "content_hash": "97cf8d420b679c8aac5673591eaa7437",
@@ -11,9 +11,9 @@
       "char_count": 69
     },
     {
-      "id": "article_2_20250708_140552",
+      "id": "article_2_20250708_142110",
       "url": null,
-      "timestamp": "2025-07-08T14:05:52.947052",
+      "timestamp": "2025-07-08T14:21:10.360759",
       "title": "LONDON, January 8, 2025 -- Business Wire BlackRock's iShares Bitcoin Trust ETF has attracted signifi",
       "first_paragraph": "LONDON, January 8, 2025 -- Business Wire BlackRock's iShares Bitcoin Trust ETF has attracted significant institutional interest, with over $2 billion in inflows since launch. According to industry sou",
       "content_hash": "7fa3edbc3cd78e0ccd1d11a892c79e5e",

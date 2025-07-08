@@ -1,0 +1,34 @@
+{
+  "start_time": "2025-07-08T14:13:42.931859",
+  "stages": {
+    "tests": {
+      "duration": 75.78864002227783,
+      "status": "success",
+      "message": "All tests passed"
+    },
+    "url_extraction": {
+      "duration": 0.9361331462860107,
+      "status": "success",
+      "urls_extracted": 70,
+      "message": "Extracted 70 URLs"
+    },
+    "content_scraping": {
+      "duration": 355.31720304489136,
+      "status": "success",
+      "articles_scraped": 70,
+      "message": "Scraped 70 articles"
+    },
+    "cleanup": {
+      "duration": 0.001953125,
+      "status": "success",
+      "message": "Cleanup completed"
+    }
+  },
+  "errors": [
+    "AI classification error: cannot access local variable 'results' where it is not associated with a value"
+  ],
+  "warnings": [],
+  "end_time": "2025-07-08T14:20:55.772040",
+  "total_duration": 432.840181,
+  "status": "completed_with_errors"
+}
