@@ -1,0 +1,2138 @@
+ENHANCED CRYPTO & MACRO NEWS ANALYSIS REPORT
+================================================================================
+
+Generated: 2025-07-13 00:25:21.381380
+Pipeline Version: 3.0.0
+Total Articles Processed: 98
+Crypto Articles: 87
+Macro Articles: 11
+AI Agent Responses: 1274
+Success Rate: 100.0%
+
+================================================================================
+
+ARTICLE 1: Indian Crypto Exchange CoinDCX Denies Moving User Funds After WazirX Allegations
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/policy/2025/07/12/indian-crypto-exchange-coindcx-denies-moving-user-funds-after-wazirx-allegations
+Published: Sat, 12 Jul 2025 20:29:22 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.6/10
+  Credibility Score: 7.4/10
+  Depth Score: 7.7/10
+  Relevance Score: 9.1/10
+  Human Reasoning: 7.2/10
+  Overall Score: 7.8/10
+
+Description: 
+Content Preview: PolicyShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailIndian Crypto Exchange CoinDCX Denies Moving User Funds After WazirX AllegationsCoinDCXs CEO, Sumit Gupta, refuted allegations of moving user funds to non-compliant entities in Lithuania.ByOmkar GodboleJul 12, 2025, 8:29 p.m.What to know:CoinDCXs CEO, Sumit Gupta, refuted allegations of moving user funds to non-compliant e...
+
+================================================================================
+
+ARTICLE 2: Stellar Performance From XLM as It Posts Top 24H Percentage Gain Among Top 20 Cryptos
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/markets/2025/07/12/stellar-s-xlm-jumps-6-to-lead-top-20-crypto-rankings
+Published: Sat, 12 Jul 2025 18:18:32 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.3/10
+  Credibility Score: 8.4/10
+  Depth Score: 9.4/10
+  Relevance Score: 9.6/10
+  Human Reasoning: 7.0/10
+  Overall Score: 8.3/10
+
+Description: 
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailStellar Performance From XLM as It Posts Top 24H Percentage Gain Among Top 20 CryptosOn Saturday, Stellars XLM surged 6 to 0.3880, making it the top performer by percent change among the top 20 cryptocurrencies by market cap.BySiamak Masnavi,CD AnalyticsEdited byAoyon AshrafJul 12, 2025, 6:18 p.m.Stellars XLM climbed from...
+
+================================================================================
+
+ARTICLE 3: Another BTC Mining Firm Moves Into Ethereum Reserve, Hailing ETH as ‘Digital Gold’
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/markets/2025/07/12/another-btc-mining-firm-moves-into-ethereum-reserve-hailing-eth-as-digital-gold
+Published: Sat, 12 Jul 2025 16:48:14 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.9/10
+  Credibility Score: 8.4/10
+  Depth Score: 8.1/10
+  Relevance Score: 9.1/10
+  Human Reasoning: 7.2/10
+  Overall Score: 8.1/10
+
+Description: 
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailAnother BTC Mining Firm Moves Into Ethereum Reserve, Hailing ETH as Digital GoldThe investment adds to the growing public ether treasuries, which currently hold over 1.34 million ETH, according to a public tracker.ByFrancisco RodriguesEdited byAoyon AshrafJul 12, 2025, 4:48 p.m.(Philip OroniUnsplash)What to know:BTC Digit...
+
+================================================================================
+
+ARTICLE 4: Pump.fun Swiftly Raises $500M in Public Sale at $4B Fully Diluted Valuation
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/markets/2025/07/12/pumpfun-swiftly-raises-500m-in-public-sale-at-4b-fully-diluted-valuation
+Published: Sat, 12 Jul 2025 15:31:03 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.2/10
+  Credibility Score: 8.0/10
+  Depth Score: 8.3/10
+  Relevance Score: 10.0/10
+  Human Reasoning: 9.3/10
+  Overall Score: 8.8/10
+
+Description: 
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailPump.fun Swiftly Raises 500M in Public Sale at 4B Fully Diluted ValuationAll 125 billion tokens sold at 0.004 each, giving PUMP a 4B fully diluted valuation; post-sale tokens stay initially frozen for up to 72 hours.ByFrancisco RodriguesEdited byAoyon AshrafUpdatedJul 12, 2025, 3:54 p.m.PublishedJul 12, 2025, 3:31 p.m.(Da...
+
+================================================================================
+
+ARTICLE 5: Tether to Halt USDT on Omni, BCH, Kusama, EOS, Algorand as Focus Shifts to Layer 2s
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/web3/2025/07/12/tether-to-halt-usdt-on-omni-bch-kusama-eos-algorand-as-focus-shifts-to-layer-2s
+Published: Sat, 12 Jul 2025 15:16:30 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.8/10
+  Credibility Score: 8.3/10
+  Depth Score: 9.0/10
+  Relevance Score: 8.8/10
+  Human Reasoning: 9.4/10
+  Overall Score: 8.9/10
+
+Description: 
+Content Preview: Web3ShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailTether to Halt USDT on Omni, BCH, Kusama, EOS, Algorand as Focus Shifts to Layer 2sThe decision is due to declining usage of USDT on these networks over the past two years and as the company moves its focus to newer platforms such as Layer 2s.ByFrancisco Rodrigues,AI BoostEdited byAoyon AshrafJul 12, 2025, 3:16 p.m.(Jesse Ha...
+
+================================================================================
+
+ARTICLE 6: Coinbase’s Pudgy Penguin Avatar Change, ETF Hopes Ignite 60% PENGU Rally
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/markets/2025/07/12/coinbases-pudgy-penguin-avatar-change-etf-hopes-ignite-60-pengu-rally
+Published: Sat, 12 Jul 2025 14:22:58 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.7/10
+  Credibility Score: 8.2/10
+  Depth Score: 8.0/10
+  Relevance Score: 9.6/10
+  Human Reasoning: 7.6/10
+  Overall Score: 8.4/10
+
+Description: 
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailCoinbases Pudgy Penguin Avatar Change, ETF Hopes Ignite 60 PENGU RallyThe move also lifted the floor price of Pudgy Penguin NFTs and increased volume by nearly 690.ByFrancisco RodriguesEdited byAoyon AshrafJul 12, 2025, 2:22 p.m.(Screenshot: OpenSea)What to know:Coinbase changed its profile picture to a Pudgy Penguins NFT...
+
+================================================================================
+
+ARTICLE 7: Bitcoin, Ether Tentative, XRP Steady as Trump Announces 30% Tariff on EU and Mexico
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/markets/2025/07/12/bitcoin-ether-tentative-xrp-steady-as-trump-announces-30-tariff-on-eu-and-mexico
+Published: Sat, 12 Jul 2025 13:40:57 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.5/10
+  Credibility Score: 9.1/10
+  Depth Score: 8.6/10
+  Relevance Score: 8.5/10
+  Human Reasoning: 8.6/10
+  Overall Score: 8.7/10
+
+Description: 
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailBitcoin, Ether Tentative, XRP Steady as Trump Announces 30 Tariff on EU and MexicoMajor coins traded tentatively as Trump escalated trade tensions.ByOmkar GodboleUpdatedJul 12, 2025, 4:56 p.m.PublishedJul 12, 2025, 1:40 p.m.President Donald Trump (The White House)What to know:Major cryptocurrencies traded slightly weak as...
+
+================================================================================
+
+ARTICLE 8: ‘We Expect Bitcoin to Top $200K by the End of Year’, Says Bitwise CIO
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/markets/2025/07/12/we-expect-bitcoin-to-top-usd200k-by-the-end-of-year-says-bitwise-cio
+Published: Sat, 12 Jul 2025 13:05:54 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.7/10
+  Credibility Score: 9.4/10
+  Depth Score: 7.8/10
+  Relevance Score: 9.3/10
+  Human Reasoning: 8.1/10
+  Overall Score: 8.5/10
+
+Description: 
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailWe Expect Bitcoin to Top 200K by the End of Year, Says Bitwise CIOWith the bitcoin price reaching a new all-time high earlier this week, crypto industry leaders and analysts are starting to expect a lot more from BTC in 2025.BySiamak Masnavi,CD AnalyticsEdited byAoyon AshrafUpdatedJul 12, 2025, 4:49 p.m.PublishedJul 12, 2...
+
+================================================================================
+
+ARTICLE 9: Crypto Traders Eye $130K Bitcoin as Majors Price-Action Shows Market Structure Shift
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/markets/2025/07/12/crypto-traders-eye-130k-bitcoin-as-majors-price-action-shows-market-structure-shift
+Published: Sat, 12 Jul 2025 07:34:55 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.4/10
+  Credibility Score: 6.6/10
+  Depth Score: 9.3/10
+  Relevance Score: 9.3/10
+  Human Reasoning: 7.7/10
+  Overall Score: 8.1/10
+
+Description: 
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailCrypto Traders Eye 130K Bitcoin as Majors Price-Action Shows Market Structure ShiftDogecoin has rallied 23 over the past week, driven by increased retail participation through platforms like Robinhood and Binance. XRP volumes have spiked on Korean exchanges, while Cardano, TRX, and AVAX are all trading firmly in the green...
+
+================================================================================
+
+ARTICLE 10: DOGE Surges 9% Before Sharp Reversal as $0.213 Resistance Halts Rally
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/markets/2025/07/12/doge-surges-9-before-sharp-reversal-as-0213-resistance-halts-rally
+Published: Sat, 12 Jul 2025 06:51:44 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.7/10
+  Credibility Score: 8.5/10
+  Depth Score: 8.7/10
+  Relevance Score: 9.9/10
+  Human Reasoning: 9.0/10
+  Overall Score: 9.0/10
+
+Description: 
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailDOGE Surges 9 Before Sharp Reversal as 0.213 Resistance Halts RallyMarket-wide crypto strength lifts Dogecoin, but coordinated profit-taking caps intraday breakout.ByShaurya Malwa,CD AnalyticsUpdatedJul 12, 2025, 6:51 a.m.PublishedJul 12, 2025, 6:51 a.m.(CoinDesk Data)What to know:Dogecoin advanced 8.6 intraday but closed...
+
+================================================================================
+
+ARTICLE 11: Why is XRP Up Today? Whale-Driven Rally Sends Ripple to Nearly $3
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/markets/2025/07/12/why-is-xrp-up-today-whale-driven-rally-sends-ripple-to-nearly-3
+Published: Sat, 12 Jul 2025 06:32:58 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.5/10
+  Credibility Score: 6.6/10
+  Depth Score: 7.7/10
+  Relevance Score: 9.0/10
+  Human Reasoning: 7.5/10
+  Overall Score: 7.7/10
+
+Description: 
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailWhy is XRP Up Today? Whale-Driven Rally Sends Ripple to Nearly 3Intraday volatility surged 14 as volume spiked above 375M; analysts eye breakout extension to 3.40.ByShaurya Malwa,CD AnalyticsUpdatedJul 12, 2025, 6:33 a.m.PublishedJul 12, 2025, 6:32 a.m.(CoinDesk Data)What to know:XRP surged 8 to 2.78, peaking at 2.96, bef...
+
+================================================================================
+
+ARTICLE 12: Ethereum ETFs See Inflow Surge as BlackRock’s ETHA Draws in Record $300M in a Day
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/markets/2025/07/11/ethereum-etfs-see-inflow-surge-as-blackrocks-etha-draws-in-record-300m-in-a-day
+Published: Fri, 11 Jul 2025 20:20:57 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.4/10
+  Credibility Score: 9.1/10
+  Depth Score: 9.3/10
+  Relevance Score: 9.7/10
+  Human Reasoning: 7.6/10
+  Overall Score: 8.8/10
+
+Description: 
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailEthereum ETFs See Inflow Surge as BlackRocks ETHA Draws in Record 300M in a DayInvestors are pouring capital into U.S.-listed ether ETFs, helping push the assets price to 3,000.ByKrisztian SandorEdited byAoyon AshrafJul 11, 2025, 8:20 p.m.Ethereum (Unsplash)What to know:Ethereums ether (ETH) is experiencing a surge in inv...
+
+================================================================================
+
+ARTICLE 13: State of Crypto: Previewing Congress' 'Crypto Week'
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/policy/2025/07/11/state-of-crypto-previewing-congress-crypto-week
+Published: Fri, 11 Jul 2025 19:54:11 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.7/10
+  Credibility Score: 6.5/10
+  Depth Score: 8.3/10
+  Relevance Score: 9.5/10
+  Human Reasoning: 7.8/10
+  Overall Score: 8.0/10
+
+Description: 
+Content Preview: PolicyShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailState of Crypto: Previewing Congress Crypto WeekOn deck: Stablecoin, market structure and central bank digital currency bills.ByNikhilesh DeEdited byBenjamin SchillerJul 11, 2025, 7:54 p.m.(Chip SomodevillaGetty Images)U.S. lawmakers may actually get a crypto bill to the presidents desk. The House is set to vote on market ...
+
+================================================================================
+
+ARTICLE 14: Strategy, Metaplanet and Others Sit on Billions in Bitcoin Gains — and They’re Not Selling
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/markets/2025/07/11/strategy-metaplanet-and-others-sit-on-billions-in-bitcoin-gains-and-they-re-not-selling
+Published: Fri, 11 Jul 2025 18:01:02 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.9/10
+  Credibility Score: 9.5/10
+  Depth Score: 9.0/10
+  Relevance Score: 9.1/10
+  Human Reasoning: 7.2/10
+  Overall Score: 8.7/10
+
+Description: 
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailStrategy, Metaplanet and Others Sit on Billions in Bitcoin Gains  and Theyre Not SellingBitcoin is trading at all-time highs, and major holders like Strategy and El Salvador are sitting on massive unrealized profits.ByHelene Braun,James Van Straten,AI BoostEdited bySheldon Reback,Aoyon AshrafJul 11, 2025, 6:01 p.m.(Xavier...
+
+================================================================================
+
+ARTICLE 15: Weekly Recap: Bitcoin Hits ATH as Dozens of Treasuries Bloom
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/news-analysis/2025/07/11/weekly-recap-bitcoin-hits-ath-as-dozens-of-treasuries-bloom
+Published: Fri, 11 Jul 2025 17:06:13 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.8/10
+  Credibility Score: 9.1/10
+  Depth Score: 8.6/10
+  Relevance Score: 9.7/10
+  Human Reasoning: 7.5/10
+  Overall Score: 8.7/10
+
+Description: 
+Content Preview: News AnalysisShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailWeekly Recap: Bitcoin Hits ATH as Dozens of Treasuries BloomMeanwhile, Congress geared up for an historic Crypto Week next week.ByBenjamin SchillerUpdatedJul 11, 2025, 5:26 p.m.PublishedJul 11, 2025, 5:06 p.m.This week, bitcoin hit anew all-time-high(above 118K)on the back of strongETF flowsand at least 280 million ...
+
+================================================================================
+
+ARTICLE 16: SOL: Nasdaq-Listed Firm Secures $200M in Financing, with Over $150M Tied to Solana Treasury Strategy
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/markets/2025/07/11/sol-nasdaq-listed-firm-secures-usd200m-in-financing-with-over-usd150m-tied-to-solana-treasury-strategy
+Published: Fri, 11 Jul 2025 16:04:19 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.7/10
+  Credibility Score: 8.4/10
+  Depth Score: 7.7/10
+  Relevance Score: 9.9/10
+  Human Reasoning: 7.5/10
+  Overall Score: 8.4/10
+
+Description: 
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailSOL: Nasdaq-Listed Firm Secures 200M in Financing, with Over 150M Tied to Solana Treasury StrategySolana advances from 156.45 to 166.65 amid heightened trading activity and corporate accumulation strategies signalling sustained upward trajectory.BySiamak Masnavi,CD AnalyticsEdited byAoyon AshrafUpdatedJul 11, 2025, 6:18 p...
+
+================================================================================
+
+ARTICLE 17: Tether/Circle Stablecoin Supply Growth Signals Strong Liquidity Backing Crypto Rally
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/markets/2025/07/11/tethercircle-stablecoin-supply-growth-signals-strong-liquidity-backing-crypto-rally
+Published: Fri, 11 Jul 2025 15:34:23 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.1/10
+  Credibility Score: 9.3/10
+  Depth Score: 8.9/10
+  Relevance Score: 9.3/10
+  Human Reasoning: 7.2/10
+  Overall Score: 8.4/10
+
+Description: 
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailTetherCircle Stablecoin Supply Growth Signals Strong Liquidity Backing Crypto RallyThe market capitalization of the two largest stablecoins  USDT and USDC  reached new records this week, a sign that capital is flowing into digital asset markets.ByKrisztian SandorEdited byStephen AlpherUpdatedJul 11, 2025, 5:16 p.m.Publish...
+
+================================================================================
+
+ARTICLE 18: Robinhood Probed by Florida AG’s Office Over Allegedly ‘Deceptive’ Crypto Pricing Claims
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/policy/2025/07/11/robinhood-probed-by-florida-ag-s-office-over-allegedly-deceptive-crypto-pricing-claims
+Published: Fri, 11 Jul 2025 14:56:13 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.8/10
+  Credibility Score: 7.3/10
+  Depth Score: 8.2/10
+  Relevance Score: 8.6/10
+  Human Reasoning: 7.7/10
+  Overall Score: 8.1/10
+
+Description: 
+Content Preview: PolicyShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailRobinhood Probed by Florida AGs Office Over Allegedly Deceptive Crypto Pricing ClaimsThe Florida Attorney General said there is evidence that crypto trading on Robinhood is actually more expensive due to its payment for order flow (PFOF) model.ByCheyenne LigonEdited byNikhilesh DeJul 11, 2025, 2:56 p.m.Robinhood Crypto is ...
+
+================================================================================
+
+ARTICLE 19: Grayscale Challenges SEC’s Delay of GDLC ETF Launch, Calls Stay Order Unlawful
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/policy/2025/07/11/grayscale-challenges-sec-s-delay-of-gdlc-etf-launch-calls-stay-order-unlawful
+Published: Fri, 11 Jul 2025 14:49:34 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.2/10
+  Credibility Score: 8.5/10
+  Depth Score: 8.2/10
+  Relevance Score: 8.6/10
+  Human Reasoning: 8.1/10
+  Overall Score: 8.3/10
+
+Description: 
+Content Preview: PolicyShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailGrayscale Challenges SECs Delay of GDLC ETF Launch, Calls Stay Order UnlawfulThe asset manager says the SECs surprise pause on its approved multi-asset crypto ETF is unlawful and hurting investors.ByHelene Braun,AI BoostEdited byNikhilesh DeJul 11, 2025, 2:49 p.m.David LaValle, senior managing director and global head of E...
+
+================================================================================
+
+ARTICLE 20: Defi Tokens Are Soaring, Leaving Behind OG Coins Like LTC, BCH and XMR
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/markets/2025/07/11/defi-tokens-are-soaring-leaving-behind-og-coins-like-ltc-bch-and-xmr
+Published: Fri, 11 Jul 2025 14:21:14 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.1/10
+  Credibility Score: 7.5/10
+  Depth Score: 8.5/10
+  Relevance Score: 9.3/10
+  Human Reasoning: 8.1/10
+  Overall Score: 8.1/10
+
+Description: 
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailDefi Tokens Are Soaring, Leaving Behind OG Coins Like LTC, BCH and XMRAs bitcoin reaches a record high, tokens associated with DeFi and layer-2 networks are outperforming.ByOliver KnightEdited bySheldon RebackJul 11, 2025, 2:21 p.m.After bitcoin, now its altcoins turn to surge. (WikiImagesPixabay)What to know:Since BTC to...
+
+================================================================================
+
+ARTICLE 21: Spot Bitcoin ETFs See $1B of Inflows as IBIT Becomes Fastest Fund to Hit $80B in Assets
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/markets/2025/07/11/spot-bitcoin-etfs-see-usd1b-inflows-as-ibit-becomes-fastest-fund-to-hit-usd80b-in-assets
+Published: Fri, 11 Jul 2025 14:00:50 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.4/10
+  Credibility Score: 7.6/10
+  Depth Score: 7.9/10
+  Relevance Score: 9.1/10
+  Human Reasoning: 7.5/10
+  Overall Score: 7.9/10
+
+Description: 
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailSpot Bitcoin ETFs See 1B of Inflows as IBIT Becomes Fastest Fund to Hit 80B in AssetsByHelene Braun,AI BoostEdited byStephen AlpherJul 11, 2025, 2:00 p.m.(Javier GhersiGetty Images)What to know:Spot bitcoin ETFs recorded over 1 billion in daily inflows on Thursday as BTC surged to a new record, a rare milestone in their b...
+
+================================================================================
+
+ARTICLE 22: CoinDesk 20 Performance Update: HBAR Surges 13.5% as All Assets Trade Higher
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/coindesk-indices/2025/07/11/coindesk-20-performance-update-hbar-surges-13-5-as-all-assets-trade-higher
+Published: Fri, 11 Jul 2025 13:23:26 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.8/10
+  Credibility Score: 7.5/10
+  Depth Score: 8.9/10
+  Relevance Score: 8.6/10
+  Human Reasoning: 7.5/10
+  Overall Score: 8.1/10
+
+Description: 
+Content Preview: CoinDesk IndicesShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailCoinDesk 20 Performance Update: HBAR Surges 13.5 as All Assets Trade HigherCardano (ADA) joined Hedera (HBAR) as a top performer, rising 12.6 from Thrusday.ByCoinDesk IndicesJul 11, 2025, 1:23 p.m.CoinDesk Indicespresents its daily market update, highlighting the performance of leaders and laggards in theCoinDesk...
+
+================================================================================
+
+ARTICLE 23: Ethereum Foundation Sells 10,000 ETH to SharpLink in First-Such OTC Deal
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/markets/2025/07/11/ethereum-foundation-sells-10000-eth-to-sharplink-in-first-such-otc-deal
+Published: Fri, 11 Jul 2025 12:38:47 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.9/10
+  Credibility Score: 6.9/10
+  Depth Score: 8.8/10
+  Relevance Score: 8.8/10
+  Human Reasoning: 8.2/10
+  Overall Score: 8.3/10
+
+Description: 
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailEthereum Foundation Sells 10,000 ETH to SharpLink in First-Such OTC DealThe company is positioning ETH as its primary treasury reserve asset and said it plans to stake and restake the acquired ETH, effectively removing it from circulation.ByShaurya MalwaEdited byParikshit MishraUpdatedJul 11, 2025, 2:03 p.m.PublishedJul 1...
+
+================================================================================
+
+ARTICLE 24: Shiba Inu's 18% Monthly Price Gain Signals Potential Double Bottom Rally
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/markets/2025/07/11/shiba-inu-s-18-monthly-price-gain-signals-potential-double-bottom-rally
+Published: Fri, 11 Jul 2025 12:38:01 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.4/10
+  Credibility Score: 8.8/10
+  Depth Score: 9.2/10
+  Relevance Score: 9.2/10
+  Human Reasoning: 9.2/10
+  Overall Score: 9.0/10
+
+Description: 
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailShiba Inus 18 Monthly Price Gain Signals Potential Double Bottom RallyShiba Inus price has rallied 18 this month, marking its best performance since November, driven by increased risk-taking in the crypto market.ByOmkar Godbole,CD AnalyticsJul 11, 2025, 12:38 p.m.SHIBs price. (CoinDesk)What to know:Shiba Inus price has ra...
+
+================================================================================
+
+ARTICLE 25: PEPE Jumps 14% as Whales Pile In, Bitcoin Breaks $118K in Broad Crypto Rally
+------------------------------------------------------------
+Source: coindesk | Category: crypto
+URL: https://www.coindesk.com/markets/2025/07/11/pepe-jumps-14-as-whales-pile-in-bitcoin-breaks-118k-in-broad-crypto-rally
+Published: Fri, 11 Jul 2025 12:02:17 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.1/10
+  Credibility Score: 9.3/10
+  Depth Score: 9.1/10
+  Relevance Score: 9.8/10
+  Human Reasoning: 9.3/10
+  Overall Score: 9.1/10
+
+Description: 
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailPEPE Jumps 14 as Whales Pile In, Bitcoin Breaks 118K in Broad Crypto RallyThe top 100 addresses increased their holdings by 2.3 over the past month, while exchange holdings have dropped by 2.17.ByCD Analytics,Francisco RodriguesEdited byParikshit MishraJul 11, 2025, 12:02 p.m.(CoinDesk Data)What to know:PEPE surged 14 in ...
+
+================================================================================
+
+ARTICLE 26: Worst Spate of Downgrades Since 2021 Signals Pain
+------------------------------------------------------------
+Source: yahoo_finance_crypto | Category: macro
+URL: https://finance.yahoo.com/news/worst-spate-downgrades-since-2021-190000465.html?.tsrc=rss
+Published: Sat, 12 Jul 2025 19:00:00 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.1/10
+  Credibility Score: 8.7/10
+  Depth Score: 8.7/10
+  Relevance Score: 9.6/10
+  Human Reasoning: 9.1/10
+  Overall Score: 8.8/10
+
+Description: (Bloomberg) -- Credit rating downgrades are becoming more frequent, the latest sign that companies are starting to perform worse and raising fresh questions about whether corporate debt valuations should be as high as they are. Most Read from BloombergSinger Akon’s Failed Futuristic City in Senegal Ends Up a $1 Billion ResortWhy Did Cars Get So Hard to See Out Of?Can Americans Just Stop Building New Highways?How German Cities Are Rethinking Women’s Safety — With TaxisPhiladelphia Trash Piles Up
+Content Preview: Worst Spate of Downgrades Since 2021 Signals PainRachel Graf and Caleb MutuaSat, Jul 12, 2025, 3:00 PM6 min readIn This Article:WFC0.23C-0.40BAC-0.51DB-1.17MCO-1.22(Bloomberg) -- Credit rating downgrades are becoming more frequent, the latest sign that companies are starting to perform worse and raising fresh questions about whether corporate debt valuations should be as high as they are.Most Read...
+
+================================================================================
+
+ARTICLE 27: Is Circle Internet Stock a Millionaire Maker?
+------------------------------------------------------------
+Source: yahoo_finance_crypto | Category: macro
+URL: https://www.fool.com/investing/2025/07/12/is-circle-internet-stock-a-millionaire-maker/?.tsrc=rss
+Published: Sat, 12 Jul 2025 17:07:00 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.7/10
+  Credibility Score: 9.3/10
+  Depth Score: 8.7/10
+  Relevance Score: 9.1/10
+  Human Reasoning: 8.0/10
+  Overall Score: 8.8/10
+
+Description: Circle's USDC is the second most popular stablecoin on the market.  Circle's revenue is highly dependent on factors completely outside of its control.  Since its initial public offering (IPO) last month, Circle Internet Group (NYSE: CRCL) stock has skyrocketed 140% as excitement builds around the possibility that stablecoins could see widespread adoption across traditional finance.
+Content Preview: Since its initial public offering (IPO) last month,Circle Internet Group(CRCL-7.84)stock has skyrocketed 140 as excitement builds around the possibility that stablecoins could see widespread adoption across traditional finance. Considering the company issuesUSDC(USDC-0.01), one of the most popular stablecoins around, many investors believe Circles stock is just getting started. So, could Circle In...
+
+================================================================================
+
+ARTICLE 28: Get Up to Speed on Stablecoins and Why They're the Hottest Thing in Crypto This Summer
+------------------------------------------------------------
+Source: yahoo_finance_crypto | Category: crypto
+URL: https://www.fool.com/investing/2025/07/12/get-up-to-speed-on-stablecoins/?.tsrc=rss
+Published: Sat, 12 Jul 2025 15:27:00 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.5/10
+  Credibility Score: 8.0/10
+  Depth Score: 8.1/10
+  Relevance Score: 8.7/10
+  Human Reasoning: 7.4/10
+  Overall Score: 8.1/10
+
+Description: Think you know everything about cryptocurrencies? Find out why stablecoins are getting so much attention in the investing world right now.
+Content Preview: Astablecoinis a pretty simple idea. It uses a blockchain ledger, like any cryptocurrency, to represent the real-time value of a specific asset. In most cases,stablecoins are tied to a fiat currencysuch as the U.S. dollar or the euro.That may sound simple and almost boring, but stablecoins are actually a hot topic right now. Lets take a look at the recent surge in stablecoin buzz.Image source: Gett...
+
+================================================================================
+
+ARTICLE 29: Risk of Powell Ouster Is Underpriced, Deutsche Bank Strategist Says
+------------------------------------------------------------
+Source: yahoo_finance_crypto | Category: macro
+URL: https://finance.yahoo.com/news/risk-powell-ouster-underpriced-deutsche-151935867.html?.tsrc=rss
+Published: Sat, 12 Jul 2025 15:19:35 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.7/10
+  Credibility Score: 7.8/10
+  Depth Score: 8.7/10
+  Relevance Score: 9.9/10
+  Human Reasoning: 8.9/10
+  Overall Score: 8.6/10
+
+Description: (Bloomberg) -- President Donald Trump’s potential dismissal of Federal Reserve Chair Jerome Powell is a major and underpriced risk that could trigger a selloff in the US dollar and Treasuries, a Deutsche Bank AG strategist said.Most Read from BloombergSinger Akon’s Failed Futuristic City in Senegal Ends Up a $1 Billion ResortWhy Did Cars Get So Hard to See Out Of?Can Americans Just Stop Building New Highways?How German Cities Are Rethinking Women’s Safety — With TaxisPhiladelphia Trash Piles Up
+Content Preview: Risk of Powell Ouster Is Underpriced, Deutsche Bank Strategist Says1 2Risk of Powell Ouster Is Underpriced, Deutsche Bank Strategist SaysSimon KennedySat, Jul 12, 2025, 12:19 PM2 min readIn This Article:DBUSDXEURXEURUSDXCHFX(Bloomberg) -- President Donald Trumps potential dismissal of Federal Reserve Chair Jerome Powell is a major and underpriced risk that could trigger a selloff in the US dollar ...
+
+================================================================================
+
+ARTICLE 30: Stocks fall as Trump ramps up tariff threats
+------------------------------------------------------------
+Source: yahoo_finance_crypto | Category: macro
+URL: https://finance.yahoo.com/news/traders-brush-off-trump-threats-031221112.html?.tsrc=rss
+Published: Fri, 11 Jul 2025 21:07:25 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.3/10
+  Credibility Score: 7.0/10
+  Depth Score: 8.5/10
+  Relevance Score: 9.7/10
+  Human Reasoning: 7.6/10
+  Overall Score: 8.0/10
+
+Description: European and US stock markets retreated Friday as US President Donald Trump ramped up his trade offensive, threatening a 35-percent levy on Canada.Trump dialed up his trade war rhetoric Thursday, warning that Canada faced a 35-percent tax, while other countries would be handed blanket tariffs of up to 20 percent, from the current 10 percent.
+Content Preview: Stocks fall as Trump ramps up tariff threatsAFPFri, Jul 11, 2025, 6:07 PM3 min readIn This Article:BTC-USD-0.15USDX0.00CLF2.82SPX-0.33US President Donald Trump says his tariffs are aimed at ending decades of the United States being ripped off (ANDREW CABALLERO-REYNOLDS)European and US stock markets retreated Friday as US President Donald Trump ramped up his trade offensive, threatening a 35-percen...
+
+================================================================================
+
+ARTICLE 31: How does a weaker dollar impact US vacationers?
+------------------------------------------------------------
+Source: yahoo_finance_crypto | Category: macro
+URL: https://www.foxbusiness.com/economy/how-does-weaker-dollar-impact-us-vacationers?.tsrc=rss
+Published: Fri, 11 Jul 2025 20:31:52 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.2/10
+  Credibility Score: 7.8/10
+  Depth Score: 9.4/10
+  Relevance Score: 9.0/10
+  Human Reasoning: 9.4/10
+  Overall Score: 8.8/10
+
+Description: Americans traveling overseas face higher costs as the U.S. dollar weakens against foreign currencies, squeezing budgets for hotels, food and transportation abroad.
+Content Preview: closevideoTravel expert credits the economy for driving record-breaking travel expected for July 4Fox News senior correspondent Jonathan Serrie reports on what could be causing Americans to break July 4 travel records on Varney  Co.The decline in the value of the U.S. dollar this year has made Americans vacations abroad more expensive than in recent years, which could stretchtravelers budgetsmore ...
+
+================================================================================
+
+ARTICLE 32: Dollar Gains on Tariff Escalation
+------------------------------------------------------------
+Source: yahoo_finance_crypto | Category: macro
+URL: https://www.barchart.com/story/news/33357473/dollar-gains-on-tariff-escalation?.tsrc=rss
+Published: Fri, 11 Jul 2025 19:50:30 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.0/10
+  Credibility Score: 6.8/10
+  Depth Score: 8.2/10
+  Relevance Score: 10.0/10
+  Human Reasoning: 8.8/10
+  Overall Score: 8.4/10
+
+Description: The dollar index (DXY00 ) on Friday rose by +0.21%, and edged to a new 2.5-week high. The dollar moved higher due to a slump in stocks, which boosted some liquidity demand for the dollar. Also, President Trump's threats to boost tariffs on Canada and other US trading partners risk...
+Content Preview: Stocks MenuStocksMarket PulseStock Market OverviewMarket MomentumMarket PerformanceTop 100 StocksTodays Price SurprisesNew Highs  LowsEconomic OverviewEarnings Within 7 DaysEarnings  DividendsStock ScreenerBarchart Trade PicksTodays Top Stock PickAll Top Stock PicksPerformance LeadersPercent ChangePrice ChangeRange ChangeGap Up  Gap Down3, 4, 5 Day GainersBefore  After MarketsPre-Market TradingPos...
+
+================================================================================
+
+ARTICLE 33: World’s 6 largest stablecoins: Top cryptocurrencies that maintain a stable price
+------------------------------------------------------------
+Source: yahoo_finance_crypto | Category: crypto
+URL: https://finance.yahoo.com/news/world-6-largest-stablecoins-top-151000657.html?.tsrc=rss
+Published: Fri, 11 Jul 2025 19:14:31 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.1/10
+  Credibility Score: 7.8/10
+  Depth Score: 9.1/10
+  Relevance Score: 8.7/10
+  Human Reasoning: 7.1/10
+  Overall Score: 8.2/10
+
+Description: The stablecoin market is dominated by two giant players — Tether and USDC.
+Content Preview: Worlds 6 largest stablecoins: Top cryptocurrencies that maintain a stable priceLogan JacobyFri, Jul 11, 2025, 3:14 PM9 min readIn This Article:USDT-USDUSDC-USDUSDE29470-USDETH-USDDAI-USDStablecoins have become an essential part of the cryptocurrency ecosystem. Designed to maintain a fixed value, these tokens provide a reliable way for traders to manage risk, reduce transaction fees and even earn p...
+
+================================================================================
+
+ARTICLE 34: MIT Economist Rebuts Bitcoin Hype: No Imminent Threat To The Dollar As A Means Of Payment
+------------------------------------------------------------
+Source: yahoo_finance_crypto | Category: macro
+URL: https://finance.yahoo.com/news/mit-economist-rebuts-bitcoin-hype-154604796.html?.tsrc=rss
+Published: Fri, 11 Jul 2025 15:46:04 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.5/10
+  Credibility Score: 9.4/10
+  Depth Score: 8.7/10
+  Relevance Score: 8.6/10
+  Human Reasoning: 7.7/10
+  Overall Score: 8.4/10
+
+Description: Bitcoin as a widely accepted means of payment or a replacement for the dollar remains nothing but a pipe dream, according to Massachusetts Institute of Technology economics professor Olivier Blanchard. “We are not close to [sic] shift to bitcoin as a ...
+Content Preview: MIT Economist Rebuts Bitcoin Hype: No Imminent Threat To The Dollar As A Means Of PaymentDavid OkoyaFri, Jul 11, 2025, 12:46 PM4 min readIn This Article:BTC-USDUSDXBenzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.Bitcoin as a widely accepted means of payment or a replacement for the dollar remains nothing but a pipe dream, according to Massachuset...
+
+================================================================================
+
+ARTICLE 35: It’s not just Bitcoin: Altcoin XRP’s price is also rising. Here’s a possible reason why
+------------------------------------------------------------
+Source: yahoo_finance_crypto | Category: crypto
+URL: https://www.fastcompany.com/91366701/xrp-price-rises-today-news-bitcoin-record-high-heres-why?.tsrc=rss
+Published: Fri, 11 Jul 2025 15:15:00 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.8/10
+  Credibility Score: 8.0/10
+  Depth Score: 9.1/10
+  Relevance Score: 9.1/10
+  Human Reasoning: 7.9/10
+  Overall Score: 8.6/10
+
+Description: The cryptocurrency is up over 13% today after Ripple CEO Brad Garlinghouse made an appearance at a Washington event.
+Content Preview: Earlier today, Bitcoinhit an all-time high of over 118,000 per token, giving many crypto investors hope that the digital coin king may soon surpass the psychologically important barrier of 120,000.But Bitcoin isnt the only cryptocurrency significantly on the rise today. The altcoin XRP is also up todaymore than 13 over the past 24 hours as of the time of this writing. Heres a possible reason why.W...
+
+================================================================================
+
+ARTICLE 36: Bitcoin tops $118,000 for the first time, as the cryptocurrency continues to climb to new heights
+------------------------------------------------------------
+Source: yahoo_finance_crypto | Category: crypto
+URL: https://finance.yahoo.com/news/bitcoin-tops-118-000-first-123713505.html?.tsrc=rss
+Published: Fri, 11 Jul 2025 12:37:13 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.7/10
+  Credibility Score: 9.4/10
+  Depth Score: 9.0/10
+  Relevance Score: 9.0/10
+  Human Reasoning: 9.2/10
+  Overall Score: 9.1/10
+
+Description: Bitcoin has reached yet another all-time high, surpassing $118,000 for the first time on Friday — as a flood of money continues to move into spot bitcoin ETFs, all while U.S. President Donald Trump's crypto-friendly influence makes its way through Washington.  The world’s most popular cryptocurrency later fell slightly under the $118,000 mark in the afternoon — but was still dancing close to the threshold around 4 p.m. ET, sitting about $8,000 higher than it was a month ago and more than double its price this time last year.  Last month, the Senate passed legislation that would regulate a form of cryptocurrency known as stablecoins, the first of what the industry hopes will be a wave of bills to bolster its legitimacy and reassure consumers.
+Content Preview: Bitcoin tops 118,000 for the first time, as the cryptocurrency continues to climb to new heightsMICHELLE CHAPMAN and WYATTE GRANTHAM-PHILIPSFri, Jul 11, 2025, 9:37 AM3 min readIn This Article:BTC-USDUSDXBitcoinhas reached yet another all-time high, surpassing 118,000 for the first time on Friday  as a flood of money continues to move into spot bitcoin ETFs, all while U.S. President Donald Trumpscr...
+
+================================================================================
+
+ARTICLE 37: Trump tariff threats heat up, currency trade, bitcoin's highs: 3 Things
+------------------------------------------------------------
+Source: yahoo_finance_crypto | Category: crypto
+URL: https://finance.yahoo.com/video/trump-tariff-threats-heat-currency-120211564.html?.tsrc=rss
+Published: Fri, 11 Jul 2025 12:02:11 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.3/10
+  Credibility Score: 8.9/10
+  Depth Score: 9.4/10
+  Relevance Score: 9.9/10
+  Human Reasoning: 7.3/10
+  Overall Score: 8.6/10
+
+Description: Ahead of the opening bell, Ramzan Karmali outline three stories Wall Street is watching on Friday, July 11. US stock futures (ES=F, NQ=F, YM=F) slide after President Trump threatened a 35% tariff on imports from Canada as well as a 15% to 20% base tariff for most trading partners. Amid trade talks, the US dollar (DX=F) is in focus as the Canadian dollar (6C=F) and the euro (6E=F) stumble. Bitcoin (BTC-USD) is trading at record highs. To watch more expert insights and analysis on the latest market action, check out more Morning Brief: Market Sunrise here.
+Content Preview: Trump tariff threats heat up, currency trade, bitcoins highs: 3 ThingsYahoo FinanceFri, Jul 11, 2025, 9:02 AMIn This Article:BTC-USDEURUSDXUSDXCADXCADUSDXAhead of the opening bell,Ramzan Karmalioutline three stories Wall Street is watching on Friday, July 11.US stock futures (ESF,NQF,YMF) slide after President Trump threatened a 35 tariff on imports from Canada as well as a 15 to 20 base tariff fo...
+
+================================================================================
+
+ARTICLE 38: Why Are So Many Crypto Games Shutting Down? Experts Weigh In
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329820/why-crypto-games-shutting-down-experts-weigh-in
+Published: Sat, 12 Jul 2025 19:01:02 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.4/10
+  Credibility Score: 6.6/10
+  Depth Score: 8.0/10
+  Relevance Score: 9.6/10
+  Human Reasoning: 8.5/10
+  Overall Score: 8.0/10
+
+Description: Experts say launching tokens for crypto games applies unnecessary pressure on development—and makes failures even more public.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 39: As Bitcoin Matures, Volatility Drops—So Expect Slower Climbs, Say Experts
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329835/as-bitcoin-matures-volatility-drops-expect-slower-climbs-experts
+Published: Sat, 12 Jul 2025 17:01:02 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.8/10
+  Credibility Score: 6.7/10
+  Depth Score: 7.9/10
+  Relevance Score: 9.7/10
+  Human Reasoning: 7.6/10
+  Overall Score: 7.9/10
+
+Description: Bitcoin to the moon? Not so fast, experts say, as the asset has matured and is now being used by traders for more sophisticated bets.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 40: Grok 4 Basic Review: $30 a Month for This? Elon Musk's AI Now Thinks Like Him
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329866/grok-4-basic-review-elon-musk-ai-thinks-like-him
+Published: Sat, 12 Jul 2025 15:05:39 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.8/10
+  Credibility Score: 7.3/10
+  Depth Score: 9.4/10
+  Relevance Score: 9.3/10
+  Human Reasoning: 7.1/10
+  Overall Score: 8.2/10
+
+Description: While Elon Musk's $300 “Heavy” model puts up record-breaking benchmark scores, the basic Grok 4 struggles to keep up with competitors.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 41: The SEC Chair Who Sued Ripple Is Now Prosecuting Roman Storm
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329691/sec-chair-who-sued-ripple-now-prosecuting-roman-storm
+Published: Sat, 12 Jul 2025 13:01:02 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.7/10
+  Credibility Score: 7.0/10
+  Depth Score: 8.5/10
+  Relevance Score: 9.4/10
+  Human Reasoning: 6.6/10
+  Overall Score: 8.0/10
+
+Description: Jay Clayton, President Trump’s onetime SEC head, is now top prosecutor at the DOJ office set to take Roman Storm to trial on Monday.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 42: House Democrats Struggle to Approach 'Crypto Week' With Unified Front
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329850/house-democrats-struggle-approach-crypto-week-unified-front
+Published: Fri, 11 Jul 2025 22:09:25 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.8/10
+  Credibility Score: 6.7/10
+  Depth Score: 9.1/10
+  Relevance Score: 9.6/10
+  Human Reasoning: 7.4/10
+  Overall Score: 8.3/10
+
+Description: Some Democrats are pledging to punish other party members who support what they see as “Trump’s crypto corruption.” Leadership has largely stayed out of the fight.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 43: Coinbase, Strategy, Other Bitcoin and Crypto Stocks Soar in Record-Setting Week
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329740/coinbase-strategy-bitcoin-and-crypto-stocks-soar-record-week
+Published: Fri, 11 Jul 2025 21:58:35 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.7/10
+  Credibility Score: 7.3/10
+  Depth Score: 7.7/10
+  Relevance Score: 8.9/10
+  Human Reasoning: 7.5/10
+  Overall Score: 7.8/10
+
+Description: Crypto-focused companies benefited from the surge in crypto markets this week.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 44: Tether to End USDT Redemptions on Bitcoin Cash, Algorand and Beyond
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329857/tether-to-end-usdt-redemptions-on-bitcoin-cash-algorand-and-beyond
+Published: Fri, 11 Jul 2025 21:31:25 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.4/10
+  Credibility Score: 7.5/10
+  Depth Score: 8.3/10
+  Relevance Score: 9.1/10
+  Human Reasoning: 6.9/10
+  Overall Score: 8.0/10
+
+Description: Stablecoin issuer Tether is ending support for USDT on five "legacy" blockchains after previously halting minting on those networks.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 45: Solana Treasury Firm Upexi Raises $200 Million to Boost SOL Stash
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329838/solana-treasury-firm-upexi-raises-200-million-boost-sol-stash
+Published: Fri, 11 Jul 2025 20:25:12 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.8/10
+  Credibility Score: 8.5/10
+  Depth Score: 8.2/10
+  Relevance Score: 9.8/10
+  Human Reasoning: 7.6/10
+  Overall Score: 8.4/10
+
+Description: Publicly traded Upexi is poised to boast the largest Solana treasury stash once its latest funding round is completed.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 46: Public Keys: CoreWeave Fusion Dance, $1 Billion Day for Bitcoin ETFs and Strategy's Bye Week
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329825/public-keys-coreweave-1-billion-bitcoin-etfs-strategy-week-off
+Published: Fri, 11 Jul 2025 20:05:26 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.1/10
+  Credibility Score: 7.2/10
+  Depth Score: 7.9/10
+  Relevance Score: 8.7/10
+  Human Reasoning: 7.9/10
+  Overall Score: 7.8/10
+
+Description: Core Scientific and CoreWeave announce a massive $9B merger while Bitcoin ETFs see their second-biggest day ever with $1.17B in inflows.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 47: Grok 4 Predicts Dodgers for World Series Win—But Other AIs Aren't So Sure
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329698/grok-4-predicts-dodgers-world-series-win-other-ais-not-sure
+Published: Fri, 11 Jul 2025 19:02:14 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.7/10
+  Credibility Score: 7.5/10
+  Depth Score: 8.6/10
+  Relevance Score: 9.2/10
+  Human Reasoning: 7.6/10
+  Overall Score: 8.1/10
+
+Description: Elon Musk's new model crunched Polymarket odds and picked the Dodgers, but ChatGPT and DeepSeek favor the Tigers as a better value for bettors.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 48: GMX Hacker Goes White-Hat, Returns $40 Million—Sends Rest to Tornado Cash
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329821/gmx-hacker-white-hat-returns-40-million-sends-rest-tornado-cash
+Published: Fri, 11 Jul 2025 18:24:46 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.2/10
+  Credibility Score: 6.6/10
+  Depth Score: 8.6/10
+  Relevance Score: 9.7/10
+  Human Reasoning: 7.8/10
+  Overall Score: 8.2/10
+
+Description: After returning funds to GMX, it appeared a would-be hacker sent $5 million in Ethereum to the coin mixer.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 49: SEC's Halt of ETF Holding XRP and Solana Has Investors 'Suffering Harm', Grayscale Says
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329819/secs-halt-etf-xrp-solana-investors-suffering-harm-grayscale
+Published: Fri, 11 Jul 2025 18:00:27 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.4/10
+  Credibility Score: 7.1/10
+  Depth Score: 8.3/10
+  Relevance Score: 8.7/10
+  Human Reasoning: 7.4/10
+  Overall Score: 8.0/10
+
+Description: Grayscale said in a letter on Tuesday that it may take legal action if the SEC continues to hold up the debut of its multi-token fund on NYSE Arca.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 50: XRP Price Spike Outpaces Bitcoin as Open Interest Nears 6-Month High
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329814/xrp-price-spike-outpaces-bitcoin-open-interest-6-month-high
+Published: Fri, 11 Jul 2025 17:18:30 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.8/10
+  Credibility Score: 8.0/10
+  Depth Score: 7.8/10
+  Relevance Score: 8.8/10
+  Human Reasoning: 8.4/10
+  Overall Score: 8.2/10
+
+Description: Bitcoin keeps pushing to new highs, but the Ripple-linked XRP has actually surged more over the past day while open interest soars.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 51: SharpLink Shares Rise After Firm Buys $30 Million in ETH From Ethereum Foundation
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329744/sharplink-rises-treasury-buys-30-million-eth-ethereum-foundation
+Published: Fri, 11 Jul 2025 16:38:41 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.3/10
+  Credibility Score: 7.4/10
+  Depth Score: 8.4/10
+  Relevance Score: 9.3/10
+  Human Reasoning: 8.4/10
+  Overall Score: 8.2/10
+
+Description: The Ethereum treasury company is only second to the Ethereum Foundation in the size of its holdings.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 52: Dogecoin Barks Up Huge Gains as Meme Coin Traders Await Pump.fun Token Sale
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329754/dogecoin-barks-meme-coin-traders-await-pump-fun-sale
+Published: Fri, 11 Jul 2025 16:12:06 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.7/10
+  Credibility Score: 8.1/10
+  Depth Score: 8.7/10
+  Relevance Score: 9.3/10
+  Human Reasoning: 8.5/10
+  Overall Score: 8.5/10
+
+Description: Meme coins, led by Dogecoin, are jumping higher Friday as Bitcoin hits new highs—and the Pump.fun Solana token sale is only hours away.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 53: BTC & ETH SOAR, S&P HITS ATH, MOG LEADS MEMES
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/videos/interviews/F3YFwCDO/btc-eth-soar-sp-hits-ath-mog-leads-memes
+Published: Fri, 11 Jul 2025 15:24:54 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.0/10
+  Credibility Score: 8.2/10
+  Depth Score: 8.9/10
+  Relevance Score: 9.6/10
+  Human Reasoning: 8.1/10
+  Overall Score: 8.6/10
+
+Description: BTC hits ATH, ETH breaks $3k on huge ETF inflows. One of biggest BTC short liquidation event in years. China may be reassessing crypto stance. IBIT hits record $76b AUM. Trump talks up impact of tariffs in crypto, stocks rally. US treasury removes crypto broker reporting rules. K Wave Media raises $1b to buy BTC. Companies bought $17.7b BTC in Q2. BIT Mining to raise $300m to buy SOL. ETH Foundation sells $3.5m ETH. Sharplink up 35% in 5 days as ETH treasury play. GameSquare buys $5m ETH. Coinbase, Perplexity collab on real time data. Robinhood launches ETH, SOL staking in the US. Rate on OKX USDT ‘Simple Earn’ jumps to 53%. Germany’s NRW issues blockchain bond. PlasmaFDN X account hacked
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 54: Will Pump.fun's Solana Token Pump After Launch? Experts Weigh In
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329699/pump-fun-solana-token-pump
+Published: Fri, 11 Jul 2025 15:01:22 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.5/10
+  Credibility Score: 7.6/10
+  Depth Score: 7.6/10
+  Relevance Score: 9.7/10
+  Human Reasoning: 6.8/10
+  Overall Score: 7.8/10
+
+Description: At its earliest, Pump.fun's token will become tradable on Monday and traders are starting to question whether it'll pump or dump.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 55: Bitcoin ETFs Post Second-Biggest Day Ever: Why It Matters
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329677/bitcoin-etfs-post-second-biggest-day-ever-why-it-matters
+Published: Fri, 11 Jul 2025 12:12:35 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.0/10
+  Credibility Score: 7.2/10
+  Depth Score: 9.2/10
+  Relevance Score: 9.7/10
+  Human Reasoning: 7.3/10
+  Overall Score: 8.3/10
+
+Description: BlackRock’s IBIT led Thursday’s ETF inflows with $448.5 million, as capital consolidated into top issuers despite outflows from GBTC.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 56: Bitcoin Price Reaches Pivotal Moment—Is $120K Next?
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329674/bitcoin-price-reaches-pivotal-moment-is-120k-next
+Published: Fri, 11 Jul 2025 11:08:40 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.5/10
+  Credibility Score: 7.8/10
+  Depth Score: 9.2/10
+  Relevance Score: 8.8/10
+  Human Reasoning: 7.6/10
+  Overall Score: 8.4/10
+
+Description: Bitcoin hit a new all-time high above $118,000 as institutions drove the rally—while analysts predicted a $120K target by month-end.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 57: $1.14B in Crypto Shorts Rekt as Ethereum Tops $3K For First Time Since February
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329673/1-14b-in-crypto-shorts-rekt-as-ethereum-tops-3k-for-first-time-since-february
+Published: Fri, 11 Jul 2025 10:47:56 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.5/10
+  Credibility Score: 6.6/10
+  Depth Score: 8.7/10
+  Relevance Score: 9.9/10
+  Human Reasoning: 7.6/10
+  Overall Score: 8.1/10
+
+Description: Ethereum topped $3,000 for the first time since February, following the largest single day for ETH exchange-traded fund inflows.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 58: Malicious Pull Request Inserted Into Ethereum Code Extension: Research
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329667/malicious-pull-request-inserted-into-ethereum-code-extension-research
+Published: Fri, 11 Jul 2025 10:17:53 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.6/10
+  Credibility Score: 7.7/10
+  Depth Score: 8.4/10
+  Relevance Score: 9.2/10
+  Human Reasoning: 8.4/10
+  Overall Score: 8.3/10
+
+Description: Cybersecurity firm ReversingLabs uncovered two lines of malicious code in an update forETHCode, an open source suite of tools.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 59: Florida AG Investigates Robinhood Over Crypto Pricing Claims
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329664/florida-ag-investigates-robinhood-crypto-pricing
+Published: Fri, 11 Jul 2025 06:08:19 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.5/10
+  Credibility Score: 6.8/10
+  Depth Score: 8.3/10
+  Relevance Score: 8.6/10
+  Human Reasoning: 8.2/10
+  Overall Score: 8.1/10
+
+Description: Florida's AG said Robinhood's payment-for-order-flow model may mislead users by hiding true crypto costs behind marketing claims.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 60: What Crypto Derivatives Say About Bitcoin's Record Price
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329661/crypto-derivatives-bitcoins-record-price
+Published: Fri, 11 Jul 2025 05:48:46 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.4/10
+  Credibility Score: 6.5/10
+  Depth Score: 9.3/10
+  Relevance Score: 8.7/10
+  Human Reasoning: 7.7/10
+  Overall Score: 7.9/10
+
+Description: Despite Bitcoin’s push to a new all-time high, the price outlook remains cautiously optimistic, Decrypt was told.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 61: SIM Swapper Who Stole $20 Million in Crypto Resentenced to 12 Years in Prison
+------------------------------------------------------------
+Source: decrypt | Category: crypto
+URL: https://decrypt.co/329658/sim-swapper-20-million-crypto-resentenced-12-years-prison
+Published: Fri, 11 Jul 2025 04:12:06 +0000
+Quality Score: 100/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.6/10
+  Credibility Score: 7.5/10
+  Depth Score: 8.5/10
+  Relevance Score: 9.6/10
+  Human Reasoning: 6.0/10
+  Overall Score: 7.8/10
+
+Description: Truglia’s original 18-month term was dramatically increased after he failed to pay restitution to crypto investor Michael Terpin.
+Content Preview: Coin PricesBTC117,631.00-0.13ETH2,951.52-0.49XRP2.77-1.66BNB687.06-1.00SOL161.17-1.46USDC0.999902-0.00DOGE0.197826-3.15TRX0.302299-1.12STETH2,949.61-0.50ADA0.717487-2.22HYPE47.372.19WBTC117,392.00-0.07XLM0.4147655.67WSTETH3,560.39-0.39SUI3.41-1.10LINK15.12-2.07BCH507.03-4.65AVAX21.000.38HBAR0.200519-0.18LEO9.08-0.16WEETH3,161.09-0.50SHIB0.00001319-2.12TON3.010.25WETH2,951.51-0.51USDS0.999686-0.02L...
+
+================================================================================
+
+ARTICLE 62: Stablecoins Are on the Rise. Bond Investors Should Pay Attention.
+------------------------------------------------------------
+Source: yahoo_finance_crypto | Category: crypto
+URL: https://finance.yahoo.com/m/fa70425b-0f45-334f-8c13-0f7227de2aa8/stablecoins-are-on-the-rise..html?.tsrc=rss
+Published: Sat, 12 Jul 2025 17:28:00 +0000
+Quality Score: 96/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.1/10
+  Credibility Score: 8.4/10
+  Depth Score: 6.0/10
+  Relevance Score: 7.7/10
+  Human Reasoning: 9.4/10
+  Overall Score: 7.7/10
+
+Description: Stablecoins, with their roots in the buzzy, freewheeling world of cryptocurrencies, may have an outsize impact on one of America’s most staid yet critical asset classes: Treasury bonds.  Circle’s main competitor, Tether, held a combined $113.6 billion in Treasury bills and overnight repurchase agreements as of the end of March.
+Content Preview: Stablecoins Are on the Rise. Bond Investors Should Pay Attention.Stablecoins Are on the Rise. Bond Investors Should Pay Attention.Barrons.comNate WolfSat, Jul 12, 2025, 2:28 PM5 min readIn This Article:CRCLUSDXStablecoins, with their roots in the buzzy, freewheeling world of cryptocurrencies, may have an outsize impact on one of Americas most staid yet critical asset classes: Treasury bonds. Circl...
+
+================================================================================
+
+ARTICLE 63: Trump Keeps Pushing Powell to Lower Interest Rates. It Could Backfire.
+------------------------------------------------------------
+Source: yahoo_finance_crypto | Category: macro
+URL: https://finance.yahoo.com/m/6e906f80-29e9-3032-8c7b-ec2f3a9e2f57/trump-keeps-pushing-powell-to.html?.tsrc=rss
+Published: Fri, 11 Jul 2025 16:41:00 +0000
+Quality Score: 94/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.2/10
+  Credibility Score: 7.2/10
+  Depth Score: 7.3/10
+  Relevance Score: 7.9/10
+  Human Reasoning: 6.8/10
+  Overall Score: 7.3/10
+
+Description: The president’s attacks on the independence of the Federal Reserve could further harm the dollar’s status as the preeminent international reserve currency, making credit dearer rather than cheaper.
+Content Preview: Trump Keeps Pushing Powell to Lower Interest Rates. It Could Backfire.Trump Keeps Pushing Powell to Lower Interest Rates. It Could Backfire.Barrons.comRandall W. ForsythFri, Jul 11, 2025, 1:41 PM7 min readIn This Article:NVDAELUSDXThe presidents attacks on the independence of the Federal Reserve could further harm the dollars status as the preeminent international reserve currency, making credit d...
+
+================================================================================
+
+ARTICLE 64: Cardano Price Prediction: ADA Prepares to Break Out of Descending Channel Pattern – Is $100 ADA Next?
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/cardano-price-prediction-ada-prepares-to-break-out-of-descending-channel-pattern-is-100-ada-next/
+Published: Fri, 11 Jul 2025 16:51:25 +0000
+Quality Score: 87/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.1/10
+  Credibility Score: 8.1/10
+  Depth Score: 7.4/10
+  Relevance Score: 9.8/10
+  Human Reasoning: 8.2/10
+  Overall Score: 8.1/10
+
+Description: <p class="whitespace-normal break-words">Cardano's price has rocketed 15% to $0.7185, positioning for further gains as Bitcoin reaches $118,000 all-time highs, with analysts projecting an ambitious $100 target for ADA due to its "Made in America" cryptocurrency status and potential ETF listings.</p>
+<p>The post <a href="https://cryptonews.com/news/cardano-price-prediction-ada-prepares-to-break-out-of-descending-channel-pattern-is-100-ada-next/">Cardano Price Prediction: ADA Prepares to Break Out of Descending Channel Pattern – Is $100 ADA Next?</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p class="whitespace-normal break-words">Cardano's price has rocketed 15% to $0.7185, positioning for further gains as Bitcoin reaches $118,000 all-time highs, with analysts projecting an ambitious $100 target for ADA due to its "Made in America" cryptocurrency status and potential ETF listings.</p>
+<p>The post <a href="https://cryptonews.com/news/cardano-price-prediction-ada-prepares-to-break-out...
+
+================================================================================
+
+ARTICLE 65: Pi Coin Price Prediction: Crashing Toward All-Time Low – Is PI Going to $0?
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/pi-coin-price-prediction-crashing-toward-all-time-low-is-pi-going-to-0/
+Published: Fri, 11 Jul 2025 18:21:50 +0000
+Quality Score: 86/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.1/10
+  Credibility Score: 6.9/10
+  Depth Score: 6.9/10
+  Relevance Score: 8.9/10
+  Human Reasoning: 6.9/10
+  Overall Score: 7.3/10
+
+Description: <p class="whitespace-normal break-words">Pi Coin continues its relentless decline despite the broader cryptocurrency market experiencing unprecedented gains, trading at $0.465 dangerously close to its all-time low of $0.400, while Bitcoin reaches new highs of $118,000 and Ethereum breaks $3,000.</p>
+<p>The post <a href="https://cryptonews.com/news/pi-coin-price-prediction-crashing-toward-all-time-low-is-pi-going-to-0/">Pi Coin Price Prediction: Crashing Toward All-Time Low – Is PI Going to $0?</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p class="whitespace-normal break-words">Pi Coin continues its relentless decline despite the broader cryptocurrency market experiencing unprecedented gains, trading at $0.465 dangerously close to its all-time low of $0.400, while Bitcoin reaches new highs of $118,000 and Ethereum breaks $3,000.</p>
+<p>The post <a href="https://cryptonews.com/news/pi-coin-price-prediction-crashing-toward-all-time-...
+
+================================================================================
+
+ARTICLE 66: Nasdaq-Listed Company Sharplink Bets $25 Million on Ethereum – ETH Price to $10,000 Soon?
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/nasdaq-listed-company-sharplink-bets-25-million-on-ethereum-eth-price-to-10000-soon/
+Published: Fri, 11 Jul 2025 16:45:22 +0000
+Quality Score: 85/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.8/10
+  Credibility Score: 6.5/10
+  Depth Score: 7.0/10
+  Relevance Score: 9.0/10
+  Human Reasoning: 6.1/10
+  Overall Score: 7.3/10
+
+Description: <p>When SharpLink, with Joseph Lubin at the helm, locks 10,000 ETH from the Ethereum Foundation into its treasury, it signals that mainstream finance trusts Ethereum as a stable and long-term asset.</p>
+<p>The post <a href="https://cryptonews.com/news/nasdaq-listed-company-sharplink-bets-25-million-on-ethereum-eth-price-to-10000-soon/">Nasdaq-Listed Company Sharplink Bets $25 Million on Ethereum – ETH Price to $10,000 Soon?</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p>When SharpLink, with Joseph Lubin at the helm, locks 10,000 ETH from the Ethereum Foundation into its treasury, it signals that mainstream finance trusts Ethereum as a stable and long-term asset.</p>
+<p>The post <a href="https://cryptonews.com/news/nasdaq-listed-company-sharplink-bets-25-million-on-ethereum-eth-price-to-10000-soon/">Nasdaq-Listed Company Sharplink Bets $25 Million on Ethereum –...
+
+================================================================================
+
+ARTICLE 67: Bitcoin Price Prediction: The Dollar’s Dip, BTC’s Rise – Is $300,000 Within Reach This Year?
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/bitcoin-price-prediction-the-dollars-dip-btcs-rise-is-300000-within-reach-this-year/
+Published: Sat, 12 Jul 2025 08:27:11 +0000
+Quality Score: 84/100
+Relevance Score: 100/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.1/10
+  Credibility Score: 8.0/10
+  Depth Score: 6.8/10
+  Relevance Score: 9.6/10
+  Human Reasoning: 8.4/10
+  Overall Score: 8.0/10
+
+Description: <p>Bitcoin holds above $117K as ETF hopes rise and the dollar dips. Could weakening USD, Fed uncertainty, and bullish momentum push BTC toward $300,000?</p>
+<p>The post <a href="https://cryptonews.com/news/bitcoin-price-prediction-the-dollars-dip-btcs-rise-is-300000-within-reach-this-year/">Bitcoin Price Prediction: The Dollar&#8217;s Dip, BTC&#8217;s Rise – Is $300,000 Within Reach This Year?</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p>Bitcoin holds above $117K as ETF hopes rise and the dollar dips. Could weakening USD, Fed uncertainty, and bullish momentum push BTC toward $300,000?</p>
+<p>The post <a href="https://cryptonews.com/news/bitcoin-price-prediction-the-dollars-dip-btcs-rise-is-300000-within-reach-this-year/">Bitcoin Price Prediction: The Dollar&#8217;s Dip, BTC&#8217;s Rise – Is $300,000 Within Reach This Year?</a>...
+
+================================================================================
+
+ARTICLE 68: Canadian Dollar Knocked on Tariff Threat. The Euro Could Be Next.
+------------------------------------------------------------
+Source: yahoo_finance_crypto | Category: macro
+URL: https://finance.yahoo.com/m/bc5907b3-1d13-3b18-a55c-115074ba5af9/canadian-dollar-knocked-on.html?.tsrc=rss
+Published: Fri, 11 Jul 2025 11:35:33 +0000
+Quality Score: 97/100
+Relevance Score: 85/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.4/10
+  Credibility Score: 8.3/10
+  Depth Score: 5.6/10
+  Relevance Score: 8.9/10
+  Human Reasoning: 7.7/10
+  Overall Score: 7.8/10
+
+Description: The Canadian dollar was sliding following President Trump's threat of a 35% tariff against Canada.  The U.S. dollar was up 0.3% to 1.3691 Canadian dollars early Friday, after hitting a high of 1.3731 overnight.  Trump announced the tariff level in a letter but it won’t apply to goods that comply with the nations’ free-trade agreement, the U.S.-Mexico-Canada Agreement.
+Content Preview: Canadian Dollar Knocked on Tariff Threat. The Euro Could Be Next.Canadian Dollar Knocked on Tariff Threat. The Euro Could Be Next.Barrons.comAdam ClarkFri, Jul 11, 2025, 8:35 AM1 min readIn This Article:CADXEURXUSDXThe Canadian dollar was sliding following President Trumps threat of a 35 tariff against Canada. The U.S. dollar was up 0.3 to 1.3691 Canadian dollars early Friday, after hitting a high...
+
+================================================================================
+
+ARTICLE 69: Weekly Crypto Regulation Roundup: Trump Slams Musk, Tim Scott Backs Blockchain, and Broker Rule Gets Buried
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/weekly-crypto-regulation-roundup-trump-slams-musk-tim-scott-backs-blockchain-and-broker-rule-gets-buried/
+Published: Fri, 11 Jul 2025 17:43:42 +0000
+Quality Score: 88/100
+Relevance Score: 85/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.0/10
+  Credibility Score: 8.2/10
+  Depth Score: 6.1/10
+  Relevance Score: 7.8/10
+  Human Reasoning: 7.9/10
+  Overall Score: 7.4/10
+
+Description: <p>This past week has seen U.S. crypto policy thrust back into the spotlight — but not just in the legislative chambers. A political feud between two of the most influential names in tech and governance — Donald Trump and Elon Musk — spilled out onto social media, while regulatory milestones unfolded in the Senate and Treasury Department. </p>
+<p>The post <a href="https://cryptonews.com/news/weekly-crypto-regulation-roundup-trump-slams-musk-tim-scott-backs-blockchain-and-broker-rule-gets-buried/">Weekly Crypto Regulation Roundup: Trump Slams Musk, Tim Scott Backs Blockchain, and Broker Rule Gets Buried</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p>This past week has seen U.S. crypto policy thrust back into the spotlight — but not just in the legislative chambers. A political feud between two of the most influential names in tech and governance — Donald Trump and Elon Musk — spilled out onto social media, while regulatory milestones unfolded in the Senate and Treasury Department. </p>
+<p>The post <a href="https://cryptonews.com/news/weekl...
+
+================================================================================
+
+ARTICLE 70: Will Ethereum Price Sustain the $3,000 Support or Face Corrections?
+------------------------------------------------------------
+Source: beincrypto | Category: crypto
+URL: https://beincrypto.com/ethereum-price-3000-support-wait-could-extend/
+Published: Sat, 12 Jul 2025 12:30:00 +0000
+Quality Score: 86/100
+Relevance Score: 85/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.7/10
+  Credibility Score: 8.0/10
+  Depth Score: 7.0/10
+  Relevance Score: 9.0/10
+  Human Reasoning: 6.0/10
+  Overall Score: 7.5/10
+
+Description: <p>Ethereum's price surge faces resistance from profit-taking, but strong support at $2,500 may stabilize ETH, pushing it toward higher targets.</p>
+<p>Ask ChatGPT<br />
+Ethereum's price surge faces resistance from profit-taking, but strong support at $2,500 may stabilize ETH, pushing it toward higher targets.</p>
+<p>The post <a href="https://beincrypto.com/ethereum-price-3000-support-wait-could-extend/">Will Ethereum Price Sustain the $3,000 Support or Face Corrections?</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+Content Preview: <p>Ethereum's price surge faces resistance from profit-taking, but strong support at $2,500 may stabilize ETH, pushing it toward higher targets.</p>
+<p>Ask ChatGPT<br />
+Ethereum's price surge faces resistance from profit-taking, but strong support at $2,500 may stabilize ETH, pushing it toward higher targets.</p>
+<p>The post <a href="https://beincrypto.com/ethereum-price-3000-support-wait-could-e...
+
+================================================================================
+
+ARTICLE 71: Ethereum Price Prediction: ETH Leads the Charge Above $3,000 – Has Crypto Summer Season Officially Begun?
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/ethereum-price-prediction-eth-leads-the-charge-above-3000-has-crypto-summer-season-officially-begun/
+Published: Sat, 12 Jul 2025 08:52:38 +0000
+Quality Score: 84/100
+Relevance Score: 85/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.8/10
+  Credibility Score: 7.9/10
+  Depth Score: 6.4/10
+  Relevance Score: 8.8/10
+  Human Reasoning: 6.1/10
+  Overall Score: 7.4/10
+
+Description: <p>Ethereum breaks past $3,000 as ETF inflows soar and institutional demand rises. Is this the start of a broader Crypto Summer? Key levels and trends ahead.</p>
+<p>The post <a href="https://cryptonews.com/news/ethereum-price-prediction-eth-leads-the-charge-above-3000-has-crypto-summer-season-officially-begun/">Ethereum Price Prediction: ETH Leads the Charge Above $3,000 – Has Crypto Summer Season Officially Begun?</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p>Ethereum breaks past $3,000 as ETF inflows soar and institutional demand rises. Is this the start of a broader Crypto Summer? Key levels and trends ahead.</p>
+<p>The post <a href="https://cryptonews.com/news/ethereum-price-prediction-eth-leads-the-charge-above-3000-has-crypto-summer-season-officially-begun/">Ethereum Price Prediction: ETH Leads the Charge Above $3,000 – Has Crypto Summer Season...
+
+================================================================================
+
+ARTICLE 72: Crypto Analyst: Altcoins Rally Strongly While Bitcoin Dominance Remains Unshaken
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/crypto-analyst-altcoins-rally-strongly-while-bitcoin-dominance-remains-unshaken/
+Published: Sat, 12 Jul 2025 10:53:19 +0000
+Quality Score: 83/100
+Relevance Score: 85/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.9/10
+  Credibility Score: 6.5/10
+  Depth Score: 7.2/10
+  Relevance Score: 8.6/10
+  Human Reasoning: 7.4/10
+  Overall Score: 7.7/10
+
+Description: <p>Despite Bitcoin maintaining a steady grip on the market, many altcoins are experiencing significant price surges, suggesting ample room for further upside.</p>
+<p>The post <a href="https://cryptonews.com/news/crypto-analyst-altcoins-rally-strongly-while-bitcoin-dominance-remains-unshaken/">Crypto Analyst: Altcoins Rally Strongly While Bitcoin Dominance Remains Unshaken</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p>Despite Bitcoin maintaining a steady grip on the market, many altcoins are experiencing significant price surges, suggesting ample room for further upside.</p>
+<p>The post <a href="https://cryptonews.com/news/crypto-analyst-altcoins-rally-strongly-while-bitcoin-dominance-remains-unshaken/">Crypto Analyst: Altcoins Rally Strongly While Bitcoin Dominance Remains Unshaken</a> appeared first on <a ...
+
+================================================================================
+
+ARTICLE 73: Kraken Co‑Founder Promises PUMP Airdrop For Disenfranchised Users: All We Know So Far
+------------------------------------------------------------
+Source: beincrypto | Category: crypto
+URL: https://beincrypto.com/kraken-pump-airdrop-token-sale-glitch/
+Published: Sun, 13 Jul 2025 00:03:36 +0000
+Quality Score: 83/100
+Relevance Score: 85/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.0/10
+  Credibility Score: 7.3/10
+  Depth Score: 6.5/10
+  Relevance Score: 8.8/10
+  Human Reasoning: 7.6/10
+  Overall Score: 7.6/10
+
+Description: <p>After Kraken’s system failure during the PUMP token sale, co-founder Arjun Sethi promised an automatic airdrop to affected users, emphasizing the platform’s focus on reliability and fairness.</p>
+<p>The post <a href="https://beincrypto.com/kraken-pump-airdrop-token-sale-glitch/">Kraken Co‑Founder Promises PUMP Airdrop For Disenfranchised Users: All We Know So Far</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+Content Preview: <p>After Kraken’s system failure during the PUMP token sale, co-founder Arjun Sethi promised an automatic airdrop to affected users, emphasizing the platform’s focus on reliability and fairness.</p>
+<p>The post <a href="https://beincrypto.com/kraken-pump-airdrop-token-sale-glitch/">Kraken Co‑Founder Promises PUMP Airdrop For Disenfranchised Users: All We Know So Far</a> appeared first on <a href="...
+
+================================================================================
+
+ARTICLE 74: Pump.Fun Token Sold Out In 12 minutes as Whales Flood Solana Launchpad
+------------------------------------------------------------
+Source: beincrypto | Category: crypto
+URL: https://beincrypto.com/pump-fun-token-presale-sold-out/
+Published: Sat, 12 Jul 2025 17:21:36 +0000
+Quality Score: 81/100
+Relevance Score: 85/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.2/10
+  Credibility Score: 8.0/10
+  Depth Score: 6.7/10
+  Relevance Score: 8.5/10
+  Human Reasoning: 6.4/10
+  Overall Score: 7.6/10
+
+Description: <p>Pump.fun’s PUMP token surged 40% after its rapid $600 million presale, climbing from $0.004 to $0.005609. </p>
+<p>The post <a href="https://beincrypto.com/pump-fun-token-presale-sold-out/">Pump.Fun Token Sold Out In 12 minutes as Whales Flood Solana Launchpad</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+Content Preview: <p>Pump.fun’s PUMP token surged 40% after its rapid $600 million presale, climbing from $0.004 to $0.005609. </p>
+<p>The post <a href="https://beincrypto.com/pump-fun-token-presale-sold-out/">Pump.Fun Token Sold Out In 12 minutes as Whales Flood Solana Launchpad</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>...
+
+================================================================================
+
+ARTICLE 75: Dollar's Global Reserve Currency Status Remains Intact
+------------------------------------------------------------
+Source: yahoo_finance_crypto | Category: macro
+URL: https://finance.yahoo.com/m/5e4a48bb-e442-39a0-9d82-e1860d87f09a/dollar%27s-global-reserve.html?.tsrc=rss
+Published: Fri, 11 Jul 2025 11:40:19 +0000
+Quality Score: 94/100
+Relevance Score: 70/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.5/10
+  Credibility Score: 7.3/10
+  Depth Score: 7.1/10
+  Relevance Score: 8.1/10
+  Human Reasoning: 8.5/10
+  Overall Score: 7.9/10
+
+Description: The International Monetary Fund's data on reserve currency holdings for the first quarter show few signs of major shift away from the dollar, Nomura analysts said in a note. The share of reserves held in dollars was little changed at 57.
+Content Preview: Dollars Global Reserve Currency Status Remains IntactDollars Global Reserve Currency Status Remains IntactBarrons.comBarrons.comFri, Jul 11, 2025, 8:40 AM1 min readIn This Article:USDXThe International Monetary Funds data on reserve currency holdings for the first quarter show few signs of major shift away from the dollar, Nomura analysts said in a note. The share of reserves held in dollars was l...
+
+================================================================================
+
+ARTICLE 76: BC-US Dollar
+------------------------------------------------------------
+Source: yahoo_finance_crypto | Category: macro
+URL: https://finance.yahoo.com/news/bc-us-dollar-140019269.html?.tsrc=rss
+Published: Fri, 11 Jul 2025 14:00:19 +0000
+Quality Score: 90/100
+Relevance Score: 70/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 6.9/10
+  Credibility Score: 6.8/10
+  Depth Score: 7.2/10
+  Relevance Score: 9.2/10
+  Human Reasoning: 6.1/10
+  Overall Score: 7.2/10
+
+Description: Prices as of 6:10:00 PM Friday, July 11.
+Content Preview: BC-US DollarThe Associated PressFri, Jul 11, 2025, 11:00 AMIn This Article:USDXNEW YORK (AP)  Prices as of 6:10:00 PM Friday, July 11.CountriesUS ChangeBritain.74074.00461Canada1.3697.0041Euro.8553.0011Japan147.4111.202Switzerlnd.796025-.000055TermsandPrivacy PolicyPrivacy DashboardMore Info...
+
+================================================================================
+
+ARTICLE 77: Worldcoin ($WLD) Rockets Amidst Identity Tech Push and Key Partnerships, But Regulatory Clouds Loom
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/worldcoin-wld-rockets-amidst-identity-tech-push-and-key-partnerships-but-regulatory-clouds-loom/
+Published: Fri, 11 Jul 2025 16:10:56 +0000
+Quality Score: 90/100
+Relevance Score: 70/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.5/10
+  Credibility Score: 7.2/10
+  Depth Score: 5.9/10
+  Relevance Score: 10.0/10
+  Human Reasoning: 6.1/10
+  Overall Score: 7.3/10
+
+Description: <p>Worldcoin ($WLD) is making waves as its price increased 16.7% to $1.06, turbocharged by Sam Altman-backed World ID gaining global traction. Rising demand ignited as digital identity partnerships with Razer and Tinder were launched, signaling real-world utility.However, regulatory scrutiny, particularly in Europe, casts a shadow over its otherwise bullish momentum.Source: CoinGeckoWorldcoin ($WLD): Powering Global Digital [&#8230;]</p>
+<p>The post <a href="https://cryptonews.com/news/worldcoin-wld-rockets-amidst-identity-tech-push-and-key-partnerships-but-regulatory-clouds-loom/">Worldcoin ($WLD) Rockets Amidst Identity Tech Push and Key Partnerships, But Regulatory Clouds Loom</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p>Worldcoin ($WLD) is making waves as its price increased 16.7% to $1.06, turbocharged by Sam Altman-backed World ID gaining global traction. Rising demand ignited as digital identity partnerships with Razer and Tinder were launched, signaling real-world utility.However, regulatory scrutiny, particularly in Europe, casts a shadow over its otherwise bullish momentum.Source: CoinGeckoWorldcoin ($WL...
+
+================================================================================
+
+ARTICLE 78: Key Crypto Trade Groups Call For CLARITY Act’s Passage
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/key-crypto-trade-groups-call-for-clarity-acts-passage/
+Published: Sat, 12 Jul 2025 05:00:55 +0000
+Quality Score: 87/100
+Relevance Score: 70/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.3/10
+  Credibility Score: 9.5/10
+  Depth Score: 6.1/10
+  Relevance Score: 8.8/10
+  Human Reasoning: 7.6/10
+  Overall Score: 7.9/10
+
+Description: <p>Three leading crypto trade groups urged Congress to pass the CLARITY Act in a July 11 letter to Speaker of the House Mike Johnson and House Minority Leader Hakeem Jeffries.Crypto Trade Groups Urge Congress To Pass Crypto Legislation According to the Friday letter from Blockchain Association CEO Summer Mersinger, The Digital Chamber CEO Cody Carbone [&#8230;]</p>
+<p>The post <a href="https://cryptonews.com/news/key-crypto-trade-groups-call-for-clarity-acts-passage/">Key Crypto Trade Groups Call For CLARITY Act&#8217;s Passage</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p>Three leading crypto trade groups urged Congress to pass the CLARITY Act in a July 11 letter to Speaker of the House Mike Johnson and House Minority Leader Hakeem Jeffries.Crypto Trade Groups Urge Congress To Pass Crypto Legislation According to the Friday letter from Blockchain Association CEO Summer Mersinger, The Digital Chamber CEO Cody Carbone [&#8230;]</p>
+<p>The post <a href="https://cry...
+
+================================================================================
+
+ARTICLE 79: Dogecoin Price Prediction: Fib Extension Flashes $4 Target – How Quickly Can DOGE Get There?
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/dogecoin-price-prediction-fib-extension-flashes-4-target-how-quickly-can-doge-get-there/
+Published: Fri, 11 Jul 2025 17:53:23 +0000
+Quality Score: 87/100
+Relevance Score: 70/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.0/10
+  Credibility Score: 7.7/10
+  Depth Score: 6.5/10
+  Relevance Score: 8.9/10
+  Human Reasoning: 8.5/10
+  Overall Score: 7.9/10
+
+Description: <p class="whitespace-normal break-words">Dogecoin has reclaimed the spotlight as the original memecoin surges back above the $0.20 threshold, with Fibonacci extension levels indicating an ambitious $4 target as over $7.6 billion in futures bets back DOGE's continued rally amid Bitcoin's historic price highs.</p>
+<p>The post <a href="https://cryptonews.com/news/dogecoin-price-prediction-fib-extension-flashes-4-target-how-quickly-can-doge-get-there/">Dogecoin Price Prediction: Fib Extension Flashes $4 Target – How Quickly Can DOGE Get There?</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p class="whitespace-normal break-words">Dogecoin has reclaimed the spotlight as the original memecoin surges back above the $0.20 threshold, with Fibonacci extension levels indicating an ambitious $4 target as over $7.6 billion in futures bets back DOGE's continued rally amid Bitcoin's historic price highs.</p>
+<p>The post <a href="https://cryptonews.com/news/dogecoin-price-prediction-fib-extensi...
+
+================================================================================
+
+ARTICLE 80: Hyperliquid ($HYPE) Soars 24% to All-Time High Amid Growing Interest for DeFi Derivatives
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/hyperliquid-hype-soars-24-to-all-time-high-amid-growing-interest-for-defi-derivatives/
+Published: Fri, 11 Jul 2025 16:26:00 +0000
+Quality Score: 87/100
+Relevance Score: 70/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.2/10
+  Credibility Score: 7.0/10
+  Depth Score: 6.4/10
+  Relevance Score: 8.8/10
+  Human Reasoning: 6.3/10
+  Overall Score: 7.3/10
+
+Description: <p>Hyperliquid ($HYPE) recently rallied to a new all-time high of $46.22 after rising more than 10% in the past 24 hours, although it has slipped back to trade at about $45.59 at press time.Over the last week, bullish momentum lifted the token from a $37.18 trough to its recent peak of $46.22, an impressive 24% [&#8230;]</p>
+<p>The post <a href="https://cryptonews.com/news/hyperliquid-hype-soars-24-to-all-time-high-amid-growing-interest-for-defi-derivatives/">Hyperliquid ($HYPE) Soars 24% to All-Time High Amid Growing Interest for DeFi Derivatives</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p>Hyperliquid ($HYPE) recently rallied to a new all-time high of $46.22 after rising more than 10% in the past 24 hours, although it has slipped back to trade at about $45.59 at press time.Over the last week, bullish momentum lifted the token from a $37.18 trough to its recent peak of $46.22, an impressive 24% [&#8230;]</p>
+<p>The post <a href="https://cryptonews.com/news/hyperliquid-hype-soars-2...
+
+================================================================================
+
+ARTICLE 81: WisdomTree Forecasts Bitcoin at $250K and Gold at $4K by 2030 in Base Case Scenario
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/wisdomtree-forecasts-bitcoin-at-250k-and-gold-at-4k-by-2030-in-base-case-scenario/
+Published: Fri, 11 Jul 2025 12:41:43 +0000
+Quality Score: 85/100
+Relevance Score: 70/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.1/10
+  Credibility Score: 7.8/10
+  Depth Score: 6.1/10
+  Relevance Score: 7.8/10
+  Human Reasoning: 6.6/10
+  Overall Score: 7.1/10
+
+Description: <p>In a research note, Blake Heimann, Senior Associate of Quantitative Research at WisdomTree, presents bitcoin and gold as key "hard money" assets poised to benefit from continued expansion of the global money supply. </p>
+<p>The post <a href="https://cryptonews.com/news/wisdomtree-forecasts-bitcoin-at-250k-and-gold-at-4k-by-2030-in-base-case-scenario/">WisdomTree Forecasts Bitcoin at $250K and Gold at $4K by 2030 in Base Case Scenario</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p>In a research note, Blake Heimann, Senior Associate of Quantitative Research at WisdomTree, presents bitcoin and gold as key "hard money" assets poised to benefit from continued expansion of the global money supply. </p>
+<p>The post <a href="https://cryptonews.com/news/wisdomtree-forecasts-bitcoin-at-250k-and-gold-at-4k-by-2030-in-base-case-scenario/">WisdomTree Forecasts Bitcoin at $250K and G...
+
+================================================================================
+
+ARTICLE 82: ETF Analyst Eric Balchunas Calls Out Gold Maxis Amid Bitcoin ATH
+------------------------------------------------------------
+Source: beincrypto | Category: crypto
+URL: https://beincrypto.com/bitcoin-all-time-high-gold-maxis-denial/
+Published: Sat, 12 Jul 2025 23:07:50 +0000
+Quality Score: 84/100
+Relevance Score: 70/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.4/10
+  Credibility Score: 7.3/10
+  Depth Score: 7.4/10
+  Relevance Score: 7.6/10
+  Human Reasoning: 8.0/10
+  Overall Score: 7.5/10
+
+Description: <p>Bitcoin’s recent all-time high has intensified the debate between gold purists and crypto advocates, with many questioning the future of gold as a safe-haven asset. This philosophical divide grows as Bitcoin continues to outperform traditional hedges like gold.</p>
+<p>The post <a href="https://beincrypto.com/bitcoin-all-time-high-gold-maxis-denial/">ETF Analyst Eric Balchunas Calls Out Gold Maxis Amid Bitcoin ATH</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+Content Preview: <p>Bitcoin’s recent all-time high has intensified the debate between gold purists and crypto advocates, with many questioning the future of gold as a safe-haven asset. This philosophical divide grows as Bitcoin continues to outperform traditional hedges like gold.</p>
+<p>The post <a href="https://beincrypto.com/bitcoin-all-time-high-gold-maxis-denial/">ETF Analyst Eric Balchunas Calls Out Gold Max...
+
+================================================================================
+
+ARTICLE 83: Coinbase CEO Calls the Bomb Squad for a Surprising Gift
+------------------------------------------------------------
+Source: beincrypto | Category: crypto
+URL: https://beincrypto.com/coinbase-ceo-surprising-gift-bomb-squad/
+Published: Sat, 12 Jul 2025 18:16:01 +0000
+Quality Score: 84/100
+Relevance Score: 70/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.0/10
+  Credibility Score: 8.0/10
+  Depth Score: 7.4/10
+  Relevance Score: 7.9/10
+  Human Reasoning: 6.9/10
+  Overall Score: 7.4/10
+
+Description: <p>A suspicious package sent to Coinbase CEO Brian Armstrong caused a bomb squad alert, only to reveal it was a tequila gift from The All-In Podcast. This incident underscores escalating safety concerns for crypto industry leaders.</p>
+<p>The post <a href="https://beincrypto.com/coinbase-ceo-surprising-gift-bomb-squad/">Coinbase CEO Calls the Bomb Squad for a Surprising Gift</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+Content Preview: <p>A suspicious package sent to Coinbase CEO Brian Armstrong caused a bomb squad alert, only to reveal it was a tequila gift from The All-In Podcast. This incident underscores escalating safety concerns for crypto industry leaders.</p>
+<p>The post <a href="https://beincrypto.com/coinbase-ceo-surprising-gift-bomb-squad/">Coinbase CEO Calls the Bomb Squad for a Surprising Gift</a> appeared first on ...
+
+================================================================================
+
+ARTICLE 84: US Spot Bitcoin ETFs See Two Consecutive $1B+ Inflow Days for First Time
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/us-spot-bitcoin-etfs-see-two-consecutive-1b-inflow-days-for-first-time/
+Published: Sat, 12 Jul 2025 16:12:00 +0000
+Quality Score: 83/100
+Relevance Score: 70/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.5/10
+  Credibility Score: 7.3/10
+  Depth Score: 7.0/10
+  Relevance Score: 8.0/10
+  Human Reasoning: 6.6/10
+  Overall Score: 7.5/10
+
+Description: <p>US-based spot Bitcoin ETFs have recorded over $1 billion in inflows for two straight days, a first since their launch in January 2024. </p>
+<p>The post <a href="https://cryptonews.com/news/us-spot-bitcoin-etfs-see-two-consecutive-1b-inflow-days-for-first-time/">US Spot Bitcoin ETFs See Two Consecutive $1B+ Inflow Days for First Time</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p>US-based spot Bitcoin ETFs have recorded over $1 billion in inflows for two straight days, a first since their launch in January 2024. </p>
+<p>The post <a href="https://cryptonews.com/news/us-spot-bitcoin-etfs-see-two-consecutive-1b-inflow-days-for-first-time/">US Spot Bitcoin ETFs See Two Consecutive $1B+ Inflow Days for First Time</a> appeared first on <a href="https://cryptonews.com">Crypton...
+
+================================================================================
+
+ARTICLE 85: Bitcoin Surpasses Silver, Becomes Sixth Largest Asset in the World
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/bitcoin-surpasses-silver-becomes-sixth-largest-asset-in-the-world/
+Published: Fri, 11 Jul 2025 15:13:42 +0000
+Quality Score: 82/100
+Relevance Score: 70/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.7/10
+  Credibility Score: 8.4/10
+  Depth Score: 7.2/10
+  Relevance Score: 9.2/10
+  Human Reasoning: 6.2/10
+  Overall Score: 7.9/10
+
+Description: <p>Bitcoin market capitalization has overtaken silver following the coin's surge to a new all-time high above $118,000.</p>
+<p>The post <a href="https://cryptonews.com/news/bitcoin-surpasses-silver-becomes-sixth-largest-asset-in-the-world/">Bitcoin Surpasses Silver, Becomes Sixth Largest Asset in the World</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p>Bitcoin market capitalization has overtaken silver following the coin's surge to a new all-time high above $118,000.</p>
+<p>The post <a href="https://cryptonews.com/news/bitcoin-surpasses-silver-becomes-sixth-largest-asset-in-the-world/">Bitcoin Surpasses Silver, Becomes Sixth Largest Asset in the World</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>...
+
+================================================================================
+
+ARTICLE 86: Binance Reveals Sharia-Compliant Multi-Token Staking
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/binance-reveals-sharia-compliant-multi-token-staking/
+Published: Fri, 11 Jul 2025 13:26:29 +0000
+Quality Score: 82/100
+Relevance Score: 70/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.9/10
+  Credibility Score: 8.9/10
+  Depth Score: 5.7/10
+  Relevance Score: 7.7/10
+  Human Reasoning: 8.9/10
+  Overall Score: 7.8/10
+
+Description: <p>Binance has launched a sharia-compliant multi-token staking platform, Sharia Earn, officially certified by Amanie Advisors, a major Sharia advisory firm.</p>
+<p>The post <a href="https://cryptonews.com/news/binance-reveals-sharia-compliant-multi-token-staking/">Binance Reveals Sharia-Compliant Multi-Token Staking</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p>Binance has launched a sharia-compliant multi-token staking platform, Sharia Earn, officially certified by Amanie Advisors, a major Sharia advisory firm.</p>
+<p>The post <a href="https://cryptonews.com/news/binance-reveals-sharia-compliant-multi-token-staking/">Binance Reveals Sharia-Compliant Multi-Token Staking</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>...
+
+================================================================================
+
+ARTICLE 87: XRP Overtakes USDT Market Cap, But Price Concerns Remain – Here’s Why
+------------------------------------------------------------
+Source: beincrypto | Category: crypto
+URL: https://beincrypto.com/xrp-surpasses-usdt-profit-taking-or-rally-next/
+Published: Sat, 12 Jul 2025 22:00:00 +0000
+Quality Score: 82/100
+Relevance Score: 70/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.5/10
+  Credibility Score: 8.2/10
+  Depth Score: 6.4/10
+  Relevance Score: 9.7/10
+  Human Reasoning: 6.7/10
+  Overall Score: 7.7/10
+
+Description: <p>XRP hits a 4-month high but faces resistance near $3.00. With heavy sell-offs, the altcoin may experience a short-term pullback.</p>
+<p>The post <a href="https://beincrypto.com/xrp-surpasses-usdt-profit-taking-or-rally-next/">XRP Overtakes USDT Market Cap, But Price Concerns Remain – Here’s Why</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+Content Preview: <p>XRP hits a 4-month high but faces resistance near $3.00. With heavy sell-offs, the altcoin may experience a short-term pullback.</p>
+<p>The post <a href="https://beincrypto.com/xrp-surpasses-usdt-profit-taking-or-rally-next/">XRP Overtakes USDT Market Cap, But Price Concerns Remain – Here’s Why</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>...
+
+================================================================================
+
+ARTICLE 88: 3 Made in USA Coins to Watch in The Third Week of July
+------------------------------------------------------------
+Source: beincrypto | Category: crypto
+URL: https://beincrypto.com/made-in-usa-coins-watch-third-week-july/
+Published: Sat, 12 Jul 2025 20:30:00 +0000
+Quality Score: 82/100
+Relevance Score: 70/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.7/10
+  Credibility Score: 7.2/10
+  Depth Score: 6.2/10
+  Relevance Score: 9.9/10
+  Human Reasoning: 6.5/10
+  Overall Score: 7.7/10
+
+Description: <p>3 made in USA coins, Stellar, Bonk, and Helium are trending upward, but tariff wars and broader market concerns could impact their short-term outlook.</p>
+<p>The post <a href="https://beincrypto.com/made-in-usa-coins-watch-third-week-july/">3 Made in USA Coins to Watch in The Third Week of July</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+Content Preview: <p>3 made in USA coins, Stellar, Bonk, and Helium are trending upward, but tariff wars and broader market concerns could impact their short-term outlook.</p>
+<p>The post <a href="https://beincrypto.com/made-in-usa-coins-watch-third-week-july/">3 Made in USA Coins to Watch in The Third Week of July</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>...
+
+================================================================================
+
+ARTICLE 89: BlackRock’s IBIT Becomes Fastest ETF to Cross $80 Billion in Assets
+------------------------------------------------------------
+Source: beincrypto | Category: crypto
+URL: https://beincrypto.com/blackrocks-bitcoin-etf-ibit-becomes-fastest-asset/
+Published: Sat, 12 Jul 2025 11:20:11 +0000
+Quality Score: 82/100
+Relevance Score: 70/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.4/10
+  Credibility Score: 8.5/10
+  Depth Score: 7.1/10
+  Relevance Score: 7.9/10
+  Human Reasoning: 7.9/10
+  Overall Score: 7.8/10
+
+Description: <p>BlackRock's IBIT holds 3.55% of all Bitcoin in circulation and nearly 59% of the total value held across all US-listed spot Bitcoin ETFs.</p>
+<p>The post <a href="https://beincrypto.com/blackrocks-bitcoin-etf-ibit-becomes-fastest-asset/">BlackRock’s IBIT Becomes Fastest ETF to Cross $80 Billion in Assets</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+Content Preview: <p>BlackRock's IBIT holds 3.55% of all Bitcoin in circulation and nearly 59% of the total value held across all US-listed spot Bitcoin ETFs.</p>
+<p>The post <a href="https://beincrypto.com/blackrocks-bitcoin-etf-ibit-becomes-fastest-asset/">BlackRock’s IBIT Becomes Fastest ETF to Cross $80 Billion in Assets</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>...
+
+================================================================================
+
+ARTICLE 90: 3 Pump.Fun Ecosystem Coins to Watch Amid PUMP Token Launch
+------------------------------------------------------------
+Source: beincrypto | Category: crypto
+URL: https://beincrypto.com/pump-fun-coins-to-watch-amid-token-launch/
+Published: Sat, 12 Jul 2025 19:00:00 +0000
+Quality Score: 81/100
+Relevance Score: 70/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.9/10
+  Credibility Score: 7.1/10
+  Depth Score: 6.4/10
+  Relevance Score: 7.8/10
+  Human Reasoning: 7.0/10
+  Overall Score: 7.4/10
+
+Description: <p>With PUMP's successful launch, these three altcoins are showing potential for further growth—watch for support levels.</p>
+<p>The post <a href="https://beincrypto.com/pump-fun-coins-to-watch-amid-token-launch/">3 Pump.Fun Ecosystem Coins to Watch Amid PUMP Token Launch</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+Content Preview: <p>With PUMP's successful launch, these three altcoins are showing potential for further growth—watch for support levels.</p>
+<p>The post <a href="https://beincrypto.com/pump-fun-coins-to-watch-amid-token-launch/">3 Pump.Fun Ecosystem Coins to Watch Amid PUMP Token Launch</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>...
+
+================================================================================
+
+ARTICLE 91: Democratic Lawmakers Announce Anti-Crypto Corruption Week In Blow To GOP’s Crypto Week
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/democratic-lawmakers-announce-anti-crypto-corruption-week-in-blow-to-gops-crypto-week/
+Published: Sat, 12 Jul 2025 00:22:32 +0000
+Quality Score: 88/100
+Relevance Score: 45/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.6/10
+  Credibility Score: 7.6/10
+  Depth Score: 6.3/10
+  Relevance Score: 8.1/10
+  Human Reasoning: 6.2/10
+  Overall Score: 7.4/10
+
+Description: <p>Ranking member of the House Financial Services Committee Maxine Waters (D-CA) Congressman Stephen Lynch (D-MA) announced July 11 that next week will be known as “Anti-Crypto Corruption Week” on Captiol Hill.Democrats Push Back On GOP Crypto Week According to the Friday notice posted on the House Financial Services Committee’s website, Democratic lawmakers will be pushing [&#8230;]</p>
+<p>The post <a href="https://cryptonews.com/news/democratic-lawmakers-announce-anti-crypto-corruption-week-in-blow-to-gops-crypto-week/">Democratic Lawmakers Announce Anti-Crypto Corruption Week In Blow To GOP&#8217;s Crypto Week</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p>Ranking member of the House Financial Services Committee Maxine Waters (D-CA) Congressman Stephen Lynch (D-MA) announced July 11 that next week will be known as “Anti-Crypto Corruption Week” on Captiol Hill.Democrats Push Back On GOP Crypto Week According to the Friday notice posted on the House Financial Services Committee’s website, Democratic lawmakers will be pushing [&#8230;]</p>
+<p>The po...
+
+================================================================================
+
+ARTICLE 92: Pepe Price Prediction: Trading Volume Rockets Overnight – Could PEPE Be the Next $1 Meme Coin?
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/pepe-price-prediction-trading-volume-doubles-overnight-could-pepe-be-the-next-1-meme-coin/
+Published: Fri, 11 Jul 2025 17:02:55 +0000
+Quality Score: 84/100
+Relevance Score: 45/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.6/10
+  Credibility Score: 6.7/10
+  Depth Score: 6.4/10
+  Relevance Score: 9.9/10
+  Human Reasoning: 8.4/10
+  Overall Score: 8.0/10
+
+Description: <p>With the PEPE price surging by 15% in the past 24 hours, does the coin's massive growth in trading volume indicate that more gains are coming?</p>
+<p>The post <a href="https://cryptonews.com/news/pepe-price-prediction-trading-volume-doubles-overnight-could-pepe-be-the-next-1-meme-coin/">Pepe Price Prediction: Trading Volume Rockets Overnight – Could PEPE Be the Next $1 Meme Coin?</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p>With the PEPE price surging by 15% in the past 24 hours, does the coin's massive growth in trading volume indicate that more gains are coming?</p>
+<p>The post <a href="https://cryptonews.com/news/pepe-price-prediction-trading-volume-doubles-overnight-could-pepe-be-the-next-1-meme-coin/">Pepe Price Prediction: Trading Volume Rockets Overnight – Could PEPE Be the Next $1 Meme Coin?</a> appeared f...
+
+================================================================================
+
+ARTICLE 93: XRP Price Prediction: 7,000 New Wallets Added Daily as Adoption Explodes – Could XRP Hit $100 Sooner Than Expected?
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/xrp-price-prediction-7000-new-wallets-added-daily-as-adoption-explodes-could-xrp-hit-100-sooner-than-expected/
+Published: Fri, 11 Jul 2025 16:30:51 +0000
+Quality Score: 84/100
+Relevance Score: 45/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.1/10
+  Credibility Score: 7.1/10
+  Depth Score: 7.1/10
+  Relevance Score: 9.2/10
+  Human Reasoning: 8.2/10
+  Overall Score: 7.9/10
+
+Description: <p>The XRP price has surged today, but could an influx of new wallets mean that it's about to rise even higher?</p>
+<p>The post <a href="https://cryptonews.com/news/xrp-price-prediction-7000-new-wallets-added-daily-as-adoption-explodes-could-xrp-hit-100-sooner-than-expected/">XRP Price Prediction: 7,000 New Wallets Added Daily as Adoption Explodes – Could XRP Hit $100 Sooner Than Expected?</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p>The XRP price has surged today, but could an influx of new wallets mean that it's about to rise even higher?</p>
+<p>The post <a href="https://cryptonews.com/news/xrp-price-prediction-7000-new-wallets-added-daily-as-adoption-explodes-could-xrp-hit-100-sooner-than-expected/">XRP Price Prediction: 7,000 New Wallets Added Daily as Adoption Explodes – Could XRP Hit $100 Sooner Than Expected?</a> app...
+
+================================================================================
+
+ARTICLE 94: Bybit Receives Backlash Over PUMP Token Sale Mismanagement
+------------------------------------------------------------
+Source: beincrypto | Category: crypto
+URL: https://beincrypto.com/bybit-pump-token-sale-backlash/
+Published: Sat, 12 Jul 2025 19:38:35 +0000
+Quality Score: 84/100
+Relevance Score: 45/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.1/10
+  Credibility Score: 6.5/10
+  Depth Score: 6.3/10
+  Relevance Score: 8.0/10
+  Human Reasoning: 7.2/10
+  Overall Score: 7.2/10
+
+Description: <p>Bybit’s PUMP token sale, despite raising $500 million in record time, faced harsh criticism from users over transaction failures and unfair allocation. The controversy sheds light on the growing challenges of managing token sales in the crypto space.</p>
+<p>The post <a href="https://beincrypto.com/bybit-pump-token-sale-backlash/">Bybit Receives Backlash Over PUMP Token Sale Mismanagement</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+Content Preview: <p>Bybit’s PUMP token sale, despite raising $500 million in record time, faced harsh criticism from users over transaction failures and unfair allocation. The controversy sheds light on the growing challenges of managing token sales in the crypto space.</p>
+<p>The post <a href="https://beincrypto.com/bybit-pump-token-sale-backlash/">Bybit Receives Backlash Over PUMP Token Sale Mismanagement</a> ap...
+
+================================================================================
+
+ARTICLE 95: XRP Price Prediction: Investors on High Alert for July 14, 21, 25 – What’s Next for XRP?
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/xrp-price-prediction-investors-on-high-alert-for-july-14-21-25-whats-next-for-xrp/
+Published: Sat, 12 Jul 2025 10:27:17 +0000
+Quality Score: 83/100
+Relevance Score: 45/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.9/10
+  Credibility Score: 7.8/10
+  Depth Score: 7.3/10
+  Relevance Score: 8.6/10
+  Human Reasoning: 6.5/10
+  Overall Score: 7.8/10
+
+Description: <p>XRP bulls eye $3 as ETF decisions on July 14, 21, and 25 fuel momentum. Can Ripple’s token break resistance as crypto ETF activity surges?</p>
+<p>The post <a href="https://cryptonews.com/news/xrp-price-prediction-investors-on-high-alert-for-july-14-21-25-whats-next-for-xrp/">XRP Price Prediction: Investors on High Alert for July 14, 21, 25 – What&#8217;s Next for XRP?</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p>XRP bulls eye $3 as ETF decisions on July 14, 21, and 25 fuel momentum. Can Ripple’s token break resistance as crypto ETF activity surges?</p>
+<p>The post <a href="https://cryptonews.com/news/xrp-price-prediction-investors-on-high-alert-for-july-14-21-25-whats-next-for-xrp/">XRP Price Prediction: Investors on High Alert for July 14, 21, 25 – What&#8217;s Next for XRP?</a> appeared first on <a h...
+
+================================================================================
+
+ARTICLE 96: XRP Whales Hit Record High as Price Surges 26% in One Week
+------------------------------------------------------------
+Source: cryptonews | Category: crypto
+URL: https://cryptonews.com/news/xrp-whales-hit-record-high-as-price-surges-26-in-one-week/
+Published: Sat, 12 Jul 2025 09:09:21 +0000
+Quality Score: 82/100
+Relevance Score: 45/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 8.3/10
+  Credibility Score: 7.0/10
+  Depth Score: 6.9/10
+  Relevance Score: 8.6/10
+  Human Reasoning: 7.3/10
+  Overall Score: 7.6/10
+
+Description: <p>The number of wallets holding at least 1 million XRP tokens has surged to an all-time high, coinciding with a 26% price increase over the past week.</p>
+<p>The post <a href="https://cryptonews.com/news/xrp-whales-hit-record-high-as-price-surges-26-in-one-week/">XRP Whales Hit Record High as Price Surges 26% in One Week</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+Content Preview: <p>The number of wallets holding at least 1 million XRP tokens has surged to an all-time high, coinciding with a 26% price increase over the past week.</p>
+<p>The post <a href="https://cryptonews.com/news/xrp-whales-hit-record-high-as-price-surges-26-in-one-week/">XRP Whales Hit Record High as Price Surges 26% in One Week</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>...
+
+================================================================================
+
+ARTICLE 97: XRP Futures ETF Sees 5x Volume Spike as Price Surges to 4-Month High
+------------------------------------------------------------
+Source: beincrypto | Category: crypto
+URL: https://beincrypto.com/xrp-futures-etf-surges-amid-bullish-price/
+Published: Sat, 12 Jul 2025 15:00:58 +0000
+Quality Score: 82/100
+Relevance Score: 45/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.5/10
+  Credibility Score: 7.5/10
+  Depth Score: 5.5/10
+  Relevance Score: 9.1/10
+  Human Reasoning: 8.1/10
+  Overall Score: 7.5/10
+
+Description: <p>Teucrium 2x Long Daily XRP ETF (XXRP) growth parallels XRP’s own rally to $2.97, its highest level in four months, driven by rising on-chain activity.</p>
+<p>The post <a href="https://beincrypto.com/xrp-futures-etf-surges-amid-bullish-price/">XRP Futures ETF Sees 5x Volume Spike as Price Surges to 4-Month High</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+Content Preview: <p>Teucrium 2x Long Daily XRP ETF (XXRP) growth parallels XRP’s own rally to $2.97, its highest level in four months, driven by rising on-chain activity.</p>
+<p>The post <a href="https://beincrypto.com/xrp-futures-etf-surges-amid-bullish-price/">XRP Futures ETF Sees 5x Volume Spike as Price Surges to 4-Month High</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>...
+
+================================================================================
+
+ARTICLE 98: HBAR Price Reclaims $0.20, But Overbought Conditions Risk a Crash
+------------------------------------------------------------
+Source: beincrypto | Category: crypto
+URL: https://beincrypto.com/hbar-price-overbought-risk-a-crash/
+Published: Sat, 12 Jul 2025 16:01:01 +0000
+Quality Score: 81/100
+Relevance Score: 45/100
+
+AI AGENT SCORES (1-10 scale):
+  Context Score: 7.1/10
+  Credibility Score: 7.9/10
+  Depth Score: 6.6/10
+  Relevance Score: 9.6/10
+  Human Reasoning: 7.1/10
+  Overall Score: 7.7/10
+
+Description: <p>HBAR's 30% rise faces challenges at $0.205 resistance and overbought RSI. Breaking resistance could lead to $0.220.</p>
+<p>The post <a href="https://beincrypto.com/hbar-price-overbought-risk-a-crash/">HBAR Price Reclaims $0.20, But Overbought Conditions Risk a Crash</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+Content Preview: <p>HBAR's 30% rise faces challenges at $0.205 resistance and overbought RSI. Breaking resistance could lead to $0.220.</p>
+<p>The post <a href="https://beincrypto.com/hbar-price-overbought-risk-a-crash/">HBAR Price Reclaims $0.20, But Overbought Conditions Risk a Crash</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>...
+
+================================================================================
+
