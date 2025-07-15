@@ -1,0 +1,1142 @@
+{
+  "metadata": {
+    "generation_timestamp": "2025-07-14T15:41:14.054786",
+    "pipeline_version": "3.1.0",
+    "total_articles": 30,
+    "processing_duration_seconds": 0.533771,
+    "extraction_duration_seconds": 231.142878,
+    "ai_agents_used": 13,
+    "target_articles": 30,
+    "historical_archiving": true
+  },
+  "statistics": {
+    "execution_start": "2025-07-14 15:37:22.300570",
+    "extraction_start": "2025-07-14 15:37:22.300648",
+    "extraction_end": "2025-07-14 15:41:13.443526",
+    "processing_start": "2025-07-14 15:41:13.448389",
+    "processing_end": "2025-07-14 15:41:13.982160",
+    "archiving_start": null,
+    "archiving_end": null,
+    "articles_extracted": 30,
+    "articles_processed": 30,
+    "articles_with_errors": 0,
+    "crypto_articles": 25,
+    "macro_articles": 5,
+    "average_quality_score": 100.0,
+    "average_relevance_score": 100.0,
+    "agent_responses_captured": 0,
+    "files_archived": 0
+  },
+  "cleanup_summary": {
+    "existing_results_found": 0,
+    "directories_archived": 0,
+    "directories_cleaned": 4,
+    "archived_directories": {},
+    "timestamp": "2025-07-14T15:37:22.300496"
+  },
+  "articles": [
+    {
+      "url": "https://www.coindesk.com/markets/2025/07/14/crypto-markets-bifurcate-with-institutions-focusing-on-btc-and-eth-while-retail-chases-alts-wintermute",
+      "title": "Crypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute",
+      "description": "",
+      "content": "MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: WintermuteEven inside altcoins, punters are looking at newer tokens like BONK, POPCAT and WIF instead of old-school speculations like DOGE and SHIB.ByKrisztian Sandor,AI BoostEdited byStephen AlpherJul 14, 2025, 6:10 p.m.(Henrik SorensenGettyImages)What to know:Institutional investors this cycle are mostly in bitcoin and ether, while retail investors have increasingly deployed into memecoins and altcoins, a mid-year report by trading firm Wintermute said.OTC trading volumes surged, with traditional finance institutional volume growing 37 year-over-year.The divergence is likely to stay as institutions increasingly treat crypto as a macro asset and the market becomes more specialized, the report held.The crypto market is splitting in two.Institutional and retail investors are taking increasingly different paths, with institutional players anchoring themselves in bitcoinBTC120,087.54and Ethereums etherETHwhile retail investors pour into altcoins and memecoins, according to a mid-year report from crypto trading firm Wintermute.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.Analyzing over-the-counter spot trading volumes, institutional trading volumes with the two largest tokens held steady at 67, likely backed by ETF inflows and structured accumulation vehicles, the report said. Meanwhile, retail investors dropped their BTC and ETH exposure from 46 to 37, shifting capital toward newer, more speculative tokens.This divergence isnt a temporary thing; Its the sign that we are experiencing a more mature, sophisticated and specialized crypto market, said Evgeny Gaevoy, CEO and founder of Wintermute.Investors are no longer chasing the same trend, he added. Institutions are treating crypto as a macro asset, while retail traders continue to gravitate to innovation.(Wintermute)Overall, traditional finance(TradFi)firms were the fastest-growing cohort in OTC trading volumes, growing 32 year-over-year. That growth was being fueled by regulatory developments like the U.S. GENIUS Act and the EUs ongoing MiCA rollout, which have given larger firms more confidence to participate, the report said.Retail brokers also saw strong activity, with a 21 rise in volume over the same period. Meanwhile, crypto-native firms dialed back, down 5.(Wintermute)OTC options volume jumped 412 compared to the first half of 2024, as institutions embraced derivatives for hedging and yield generation, the report noted. Meanwhile, Contracts for Difference(CFDs)doubled in variety, offering access to less liquid tokens in a more capital-efficient way.Wintermute said its own OTC desk saw spot trading volumes grow at more than twice the pace of centralized exchanges, signaling a shift toward more discreet, large-volume trading favored by traditional finance.The firm noted that memecoin activity has become more fragmented. While overall retail trading in memecoins declined, the number of tokens traded by individual users doubled, signaling a broadening appetite for micro-cap assets in the long tail of the market.With that, legacy names like dogecoinDOGE0.1989and shiba inuSHIB0.0₄1327lost ground to a growing list of niche tokens such as bonkBONK0.0₄2785, dogwifhatWIFand popcatPOPCAT0.3807, the report noted.Looking ahead to the second half of 2025, Wintermute analysts said to keep an eye on spot dogecoin ETF filings with spot with a final regulatory decision expected by October.The outcome could significantly impact the retail market and set a precedent for other alternative assets, the report said.Disclaimer:Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence toour standards.For more information, seeCoinDesks full AI Policy.WintermuteBitcoinMarketInstitutionsMemecoinAltcoinsKrisztian SandorKrisztian Sandor is a U.S. markets reporter focusing on stablecoins, tokenization, real-world assets. He graduated from New York Universitys business and economic reporting program before joining CoinDesk. He holds BTC, SOL and ETH.X iconAI BoostAI Boost indicates a generative text tool, typically an AI chatbot, contributed to the article. In each and every case, the article was edited, fact-checked and published by a human.Read more about CoinDesks AI Policy.Latest Crypto NewsICP Rebounds Toward 5.50 After Early Morning Surge and Midday Volatility36 minutes agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday44 minutes agoWhy Bittensor Is AIs Best Next-Gen Incubator1 hour agoAAVE Surges as Deposits Hit 50B; Poised to Benefit From U.S. Crypto Regulation2 hours agoXRPs Implied Volatility Explod",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 18:10:41 +0000",
+      "author": "AI Boost",
+      "tags": [
+        "Markets",
+        "Wintermute",
+        "Bitcoin",
+        "Market",
+        "Institutions",
+        "Memecoin",
+        "Altcoins",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:37:26.488147",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.607009",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 1158,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2025/07/14/icp-rebounds-toward-550-after-early-morning-surge-and-midday-volatility",
+      "title": "ICP Rebounds Toward $5.50 After Early Morning Surge and Midday Volatility",
+      "description": "",
+      "content": "MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailICP Rebounds Toward 5.50 After Early Morning Surge and Midday VolatilityStrong institutional volume pushes ICP higher, clearing key resistance and positioning the token for a potential breakout toward 5.70ByJamie Crawley,CD AnalyticsEdited byStephen AlpherJul 14, 2025, 6:00 p.m.ICP-USD July 14 2025 (CoinDesk)What to know:ICP peaked at 5.6781 before retreating to consolidate between 5.44 and 5.46.A high-volume surge before dawn briefly lifted the asset above key resistance zones.Selling pressure intensified post-peak, with sharp hourly declines breaking support at 5.48.Internet ComputerICP5.4403showed signs of resilience in a turbulent 24-hour window,climbing as high as 5.6781 before consolidating just below the 5.50 mark. Despite late-session selling, the token remains poised for potential recovery amid ongoing volatility.Starting July 13 at 17:00 UTC, ICP began a steady ascent, reaching its session high of 5.6781 early on July 14. This rally was underpinned by a significant increase in volume, topping 800,000 units during its most aggressive upward leg between 02:00 and 05:00 UTC. Bulls briefly tested resistance above 5.67, a level that had historically capped upside momentum.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.However, intense selling pressure set in shortly after the peak, driving prices downward in a rapid reversal. During the hour ending at 16:05 UTC on July 14, the token dipped 1 to 5.45, decisively breaking through the 5.48 support threshold. A volume spike near 50,000 units during the 15:48-15:49 UTC interval further confirmed heightened bearish activity.Despite the pullback, ICP has found near-term stability in a lower trading channel between 5.44 and 5.46.Technical Analysis HighlightsICP traded within a 0.28 range from 5.40(low)to 5.68(high), marking a 5 intraday spread.Price spiked from 5.47 to 5.68 between 02:0005:00 UTC on July 14, amid 800K volume.Resistance hardened near 5.675.68, curbing bullish continuation attempts.Final-hour decline from 5.50 to 5.45 showed a swift 1 retreat from 15:0616:05 UTC.Key support at 5.48 was broken on high volume, signaling potential bearish continuation.Notable sell-off occurred between 15:4815:49 UTC with nearly 50K units traded.Consolidation range has formed between 5.445.46 as of July 14 at 16:35 UTC.Disclaimer:Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence toour standards. For more information, seeCoinDesks full AI Policy.AI Market InsightsTechnical AnalysisJamie CrawleyJamie has been part of CoinDesks news team since February 2021, focusing on breaking news, Bitcoin tech and protocols and crypto VC. He holds BTC, ETH and DOGE.X iconCD AnalyticsCoinDesk Analytics is CoinDesks AI-powered tool that, with the help of human reporters, generates market data analysis, price movement reports, and financial content focused on cryptocurrency and blockchain markets.All content produced by CoinDesk Analytics is undergoes human editing by CoinDesks editorial team before publication. The tool synthesizes market data and information fromCoinDesk Dataand other sources to create timely market reports, with all external sources clearly attributed within each article.CoinDesk Analytics operates under CoinDesks AI content guidelines, which prioritize accuracy, transparency, and editorial oversight. Learn more about CoinDesks approach to AI-generated content in ourAI policy.Latest Crypto NewsCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute26 minutes agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday44 minutes agoWhy Bittensor Is AIs Best Next-Gen Incubator1 hour agoAAVE Surges as Deposits Hit 50B; Poised to Benefit From U.S. Crypto Regulation2 hours agoXRPs Implied Volatility Explodes, Suggests 13 Price Swing as Congress Crypto Week Kicks Off2 hours agoNEAR Surges 7 in Strong Bullish Recovery Rally2 hours agoTop StoriesCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute26 minutes agoSuperstate CEO Robert Leshner Buys Majority Stake in Shady Liquor Vendor With BTC Strategy3 hours agoRegime Change at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome Powell4 hours agoGrayscale Files Confidential Submission for IPO With SEC5 hours agoBinance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme Partnership6 hours agoBitcoin Bears Urge Caution as BTC Price Tops 122K: Crypto Daybook Americas7 hours ago",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 18:00:38 +0000",
+      "author": "CD Analytics",
+      "tags": [
+        "Markets",
+        "AI Market Insights",
+        "Technical Analysis",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:37:28.685459",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.629014",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 2359,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2025/07/14/house-gears-up-for-crypto-market-structure-vote-on-wednesday-stablecoins-thursday",
+      "title": "House Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday",
+      "description": "",
+      "content": "PolicyShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins ThursdayThe Clarity Act is set for a Wednesday afternoon vote in the U.S. House, according to industry lobbyists, and the GENIUS Act may get a Thursday morning vote.ByJesse HamiltonEdited byNikhilesh DeJul 14, 2025, 5:52 p.m.Crypto Week in the U.S. House. of Representatives is expected to see votes starting on Wednesday. (Jesse HamiltonCoinDesk)What to know:The tentative schedule for Crypto Week in the U.S. House of Representatives could see a Wednesday vote on the Clarity Act and a Thursday morning vote on the GENIUS Act, according to industry insiders tracking the action.The congressional action is expected to push crypto legislation to unprecedented heights in the U.S. as the industry finds greater traction with lawmakers.If the stablecoin rules in GENIUS pass, that bill could soon become the first major crypto law in the U.S.The U.S. House of Representatives so-called Crypto Week is steaming toward mid-week votes on two foundational pieces of legislation that would push the industrys status forward significantly in the U.S., including what amounts to a final congressional action on regulating stablecoins.STORY CONTINUES BELOWDont miss another story.Subscribe to the State of Crypto Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.While that last necessary vote on the stablecoin bill known as the Guiding and Establishing National Innovation for U.S. Stablecoins(GENIUS)Act would send it to President Donald Trumps desk to be signed into law, its the bigger bill  the Digital Asset Market Clarity Act  that is the top concern of the crypto industry.That legislation to establish a regulatory framework for U.S. crypto activity is expected to come up late afternoon on Wednesday for its floor vote, industry lobbyists have been advised, which would send the Clarity Act over to the Senate for its consideration. The House has made it that far before on a market structure bill for digital assets, but the Senate was immobile on the issue during the previous congressional session. This time, key senators are making promises to complete work on this issue quickly.The Clarity Act is widely expected to pass with a heavy bipartisan vote. Its predecessor, the Financial Innovation and Technology for the 21st Century Act(FIT21)drew 71 Democrats when it passed. Theres tremendous pressure on the sector and among the Republican lawmakers leading the charge to garner more than that for Clarity, so it arrives in the Senate with high momentum.While Senator Tim Scott, chairman of the Senate Banking Committee, has said the Clarity Act will act as a template for his chambers work, crypto lobbyists have been told that the lawmakers there may not hew closely to its language, suggesting a coming period of negotiation.On Thursday morning, according to people familiar with the planning, the House is tentatively expected to vote on GENIUS, the bill to set up guardrails for issuers of stablecoins, such as Circles USDC and Tethers USDT. That bill already passed the Senate with a wide bipartisan approval, and House lawmakers agreed to take it as-is, meaning its course would finish soon on Trumps desk if it clears this last legislative step.The series of votes amounts to the most consequential week yet for the digital asset industry on Capitol Hill, according to Blockchain Association Senior Director of Government Relations Jessica Martinez.Before all this vote timing can be set in stone, the House Rules Committee is meeting on Monday afternoon to work out the plan. The Rules panel sets the procedures for how each piece of legislation will be handled on the House floor.If Crypto Week follows the expected course, itll end with a crypto milestone for Congress, passing the first-ever major crypto regulatory bill. Once GENIUS is law, the industry will focus full-time on market structure, though its unclear how much work will need to be done to reach agreement between the House and Senate. Senator Scott said the Senate will be done with its work by Sept. 30.Instead of taking up Clarity, we think the Senate will put forth its own bill, but not before September, said Ian Katz, a policy analyst at Capital Alpha, though he doubts the final effort will be completed this year.Also this week, the House was prepared to pass another bill that would ban a U.S. central bank digital currency(CBDC). Republican lawmakers have made the case against the Federal Reserve issuing a digital dollar that theyve said might compete with U.S.-issued stablecoins and could give the government financial surveillance abilities over citizens. While the federal government hasnt pursued a CBDC in any significant way, the legislation would cut off an ability to do so in the future. The House is expected to vote on this bill on ",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 17:52:40 +0000",
+      "author": "Jesse Hamilton",
+      "tags": [
+        "Policy",
+        "Breaking News",
+        "U.S. Congress",
+        "U.S. House of Representatives",
+        "Tim scott",
+        "Stablecoins",
+        "crypto legislation",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "macro",
+      "extraction_timestamp": "2025-07-14T15:37:31.147908",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.640323",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 3440,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/opinion/2025/07/14/why-bittensor-is-ais-best-next-gen-incubator",
+      "title": "Why Bittensor Is AI’s Best Next-Gen Incubator",
+      "description": "",
+      "content": "OpinionShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailWhy Bittensor Is AIs Best Next-Gen IncubatorWith competing AI projects and performance-based rewards, Bittensor represents a shift from speculation-driven to utility-driven tokenomics, says Arrash Yasavolian, Founder and CEO, Taoshi (Subnet 8 on Bittensor).ByArrash YasavolianEdited byBenjamin SchillerJul 14, 2025, 5:33 p.m.After nearly ten years in crypto, Ive watched hundreds of projects promise to revolutionize everything from banking to art. Yet these revolutions have largely failed to materialize.The issue isnt technology. Its that weve been building solutions looking for problems, rather than focusing on solving real challenges and delivering real value.STORY CONTINUES BELOWDont miss another story.Subscribe to the The Node Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.Most projects create tokens first, utility later. This speculation cycle has consumed the industry, measuring success by token price, not actual value creation. Were missing the crucial ingredient: a mechanism that rewards building useful things rather than building over-hyped useless things.What if there was a protocol that flipped this model and projects had to create value first, then get rewarded? Thats Bittensor.Bittensor: Rewarding Performance Over MindshareIn some waysBittensoris like the Y Combinator of AI. Whereas Y Combinator gives startups money and mentorship in exchange for equity, Bittensor gives builders incentives through token emissions, measures performance through free market dynamics, and rewards winners without human gatekeepers.Think of it as an economic game where independent teams compete to build valuable AI services. Every 12 seconds, the network distributes rewards based purely on usefulness. No marketing budgets. No insiders. No traditional fundraising. No KOLs. Just performance.The tokenomics are elegant yet powerful. Like Bitcoin, Bittensors native TAO has a fixed supply cap of 21 million, with 7,200 tokens distributed daily and supply halving every four years. This creates genuine scarcity in the form of rewards that must be earned through performance rather than speculation.Heres where it gets even more interesting: each subnet has its own alpha token that subnet participants earn. TAO holders can stake into subnets they believe in, receiving that subnets alpha tokens in return. Higher-performing subnets attract more TAO stake and get a larger share of daily emissions. This market-driven funding mechanism means that builders get paid only if their service actually works and successful projects automatically get more resources, while also rewarding those who staked.These performance-based rewards mean that anyone can build but the market decides the winner. And, since its open-source software, if a project isnt delivering, others create a better version.This makes Bittensor a transparent competition where all metrics are public. Its been called capitalistic Darwinism. In other words, create value or get out-competed.Why Bittensor Changes EverythingBig Techs grip on AI is only getting stronger. Bittensor represents our best chance at wresting control and anchoring innovation in an open, transparent, and democratic environment where value accrues to the most performant innovations, rather than closed systems that benefit from outsized network effects.For the public, Bittensor represents cryptos original promise: coordinating human effort toward valuable outcomes without intermediaries, committees, or gatekeepers. Value gets created first through competition, then tokens reward the creators; the opposite of hoping speculation drives value.For builders, this means skipping VC pitches, preserving equity, and getting rewarded immediately for building useful things. The most important infrastructure is being built by teams spending 0 on marketing, 0 on exchange listings with pure focus on value creation. Community governance ensures builders arent locked out from decision-making.For users, this creates access to quality-competing services rather than marketing-budget winners. Users benefit from the upside by supporting the best projects, while community governance creates strong bonds between creators and consumers.For investors, Bittensor offers AI exposure without having to pick individual winners. The staking mechanics drive value accrual into the network rather than siphoning it away. Investors earn upside by supporting top-performing projects while community governance gives them a voice rather than forcing them to follow a CEOs agenda.The timing couldnt be better. With over55 billion in fundinggoing to the AI sector in Q1 2025,1.39 billion in fundinggoing to AI agents in the past quarter, crypto funding validates what Bittensor has already built. While others are still fundraising, world-class AI teams are already building",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 17:33:35 +0000",
+      "author": "Arrash Yasavolian",
+      "tags": [
+        "Opinion",
+        "AI",
+        "Opinion"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:37:34.745343",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.657919",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 4474,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2025/07/14/aave-surges-as-deposits-hit-50b-poised-to-benefit-from-us-crypto-regulation",
+      "title": "AAVE Surges as Deposits Hit $50B; Poised to Benefit From U.S. Crypto Regulation",
+      "description": "",
+      "content": "MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailAAVE Surges as Deposits Hit 50B; Poised to Benefit From U.S. Crypto RegulationThe bluechip DeFi token hit its strongest price in five months, gaining 8 over the weekend.ByKrisztian Sandor,CD AnalyticsEdited byStephen AlpherJul 14, 2025, 4:31 p.m.AAVE price on July 14 (CoinDesk)What to know:DeFi lender Aaves token (AAVE) surged as high as 330 Monday, marking an 8 weekend gain amid a broader crypto rally.The gains happened as Aave reached a record 50 billion in deposits, solidifying its position as the leading DeFi lending platform.The platform could benefit from upcoming U.S. crypto and stablecoin regulations, asset manager 21Shares said.Native token of decentralized finance(DeFi)lending platform AaveAAVE316.04surged to its strongest price in several months on MondayThe bluechip DeFi token topped 330 during the session before cooling off at 316, gaining 8 over the weekend.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.The rally came as the DeFi sector is heating up amid a broader crypto rally, with bitcoinBTC120,087.54conquering fresh records above 120,000.Aave is the dominant player in DeFi lending, and hasjusthit 50 billion in deposits on the protocol, a fresh record level.The platform also poised to be one of the biggest gainers of advancing U.S. crypto regulations, analysts said.Aave is the biggest lending platform in decentralized finance(DeFi), and it could be a major winner from the GENIUS Act, digital asset manager 21Shares said in a Monday report.The platform currently holds 5 of all stablecoin supply to earn a yield, more than any other DeFi protocol, the report noted. It also issues its own, overcollateralized stablecoin GHOGHO0.9995, which has a 312 million supply.Aave also aim to benefit from the growing institutional participation and tokenization wave with the upcoming Horizon project that will let institutions borrow stablecoins by posting tokenized real-world assets such as money market funds as collateral, the report added.Technical analysis:CoinDesks market analytics model highlighted a bullish structure for AAVE.Trading volume spikes to 159,078 units during morning session, confirming institutional accumulation and sustained buying pressure.Support base forms at 304.25-305.63 during initial decline, providing foundation for subsequent rally phase.Resistance cluster develops around 327.40 where multiple rejection attempts create volume-weighted ceiling.Psychological support at 320.00 attracts consistent demand throughout consolidation period.AaveDeFiStablecoins21SharesKrisztian SandorKrisztian Sandor is a U.S. markets reporter focusing on stablecoins, tokenization, real-world assets. He graduated from New York Universitys business and economic reporting program before joining CoinDesk. He holds BTC, SOL and ETH.X iconCD AnalyticsCoinDesk Analytics is CoinDesks AI-powered tool that, with the help of human reporters, generates market data analysis, price movement reports, and financial content focused on cryptocurrency and blockchain markets.All content produced by CoinDesk Analytics is undergoes human editing by CoinDesks editorial team before publication. The tool synthesizes market data and information fromCoinDesk Dataand other sources to create timely market reports, with all external sources clearly attributed within each article.CoinDesk Analytics operates under CoinDesks AI content guidelines, which prioritize accuracy, transparency, and editorial oversight. Learn more about CoinDesks approach to AI-generated content in ourAI policy.Latest Crypto NewsCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute26 minutes agoICP Rebounds Toward 5.50 After Early Morning Surge and Midday Volatility36 minutes agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday44 minutes agoWhy Bittensor Is AIs Best Next-Gen Incubator1 hour agoXRPs Implied Volatility Explodes, Suggests 13 Price Swing as Congress Crypto Week Kicks Off2 hours agoNEAR Surges 7 in Strong Bullish Recovery Rally2 hours agoTop StoriesCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute26 minutes agoSuperstate CEO Robert Leshner Buys Majority Stake in Shady Liquor Vendor With BTC Strategy3 hours agoRegime Change at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome Powell4 hours agoGrayscale Files Confidential Submission for IPO With SEC5 hours agoBinance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme Partnership6 hours agoBitcoin Bears Urge Caution as BTC Price Tops 122K: Crypto Daybook Americas7 hours ago",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 16:31:18 +0000",
+      "author": "CD Analytics",
+      "tags": [
+        "Markets",
+        "Aave",
+        "DeFi",
+        "Stablecoins",
+        "21Shares",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:37:36.919060",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.670908",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 5607,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2025/07/14/xrp-s-implied-volatility-explodes-suggests-13-price-swing-as-congress-crypto-week-kicks-off",
+      "title": "XRP's Implied Volatility Explodes, Suggests 13% Price Swing as Congress' Crypto Week Kicks Off",
+      "description": "",
+      "content": "MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailXRPs Implied Volatility Explodes, Suggests 13 Price Swing as Congress Crypto Week Kicks OffXRP is showing strong bullish momentum, trading over 5 higher at 3.ByOmkar GodboleEdited bySheldon RebackJul 14, 2025, 4:00 p.m.XRPs price may experience turbulence in coming days. (Dimitris VetsikasPixabay)What to know:XRPs seven-day implied volatility surged to 96, indicating potential double-digit price swings.The U.S. House is reviewing bills that could significantly affect the digital assets industry, including the GENIUS Act and CLARITY Act.XRP is currently showing strong bullish momentum, trading over 5 higher at 3.The price of XRPXRP2.9400is likely to swing wildly over the next week, rising or falling more than 10 during Crypto Week on Capitol Hill, the tokens implied volatility indicates.Volmex Finances seven-day XRP implied volatility(IV)index jumped to an annualized 96 from last weeks 73, a significant premium to the seven-day historical volatility of 42. The elevated value translates to an expected 13 price swing for XRP over the coming seven days.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.The market is pricing much lower volatility in bitcoinBTC120,087.54. The seven-day implied volatility for the largest cryptocurrency has increased only slightly to an annualized 46, equivalent to an expected weekly price swing of about 6.XRPs annualized 7-day implied volatility. (Volmex)The sharp rise in XRPs implied volatility comes as the U.S. House of Representatives is set to review three major bills this week that could shape the digital assets industry.The first is the GENUIS Act, which, if passed, would require stablecoin issuers to hold liquid reserves, accept annual independent audits and publish monthly transparency reports.Also on the table is the CLARITY Act, which will clarify whether cryptocurrencies fall under the SEC or the CFTCs purview. Lastly, there is the Anti-CBDC Surveillance Act, which will prohibit the Federal Reserve from issuing a retail central bank digital currency. XRP, declared as a strategic U.S. asset by the SEC, stands to benefit from regulatory clarity.The GENIUS Act and CLARITY Act are especially important for setting institutional ground rules  clarifying how stablecoins should be issued and overseen, and formally defining the roles of the SEC and CFTC in overseeing crypto markets. Together, these steps address one of the core barriers to institutional participation: legal uncertainty, Javier Rodriguez-Alarcón, the chief investment officer at crypto liquidity provider XBTO, said in an email.He added that the rulebook clarity will make long-term capital deployment viable, aligning the worlds largest economy with processes underway in regions like the UAE, where defined frameworks are already unlocking tokenized markets.If passed, these bills could open the door to wider stablecoin adoption, regulated tokenization, and on-chain financial products with full legal backing, he noted.Volatility is direction-agnosticNote that the implied volatility is direction-agnostic, meaning the expected 13 swing may not necessarily be bullish and can unfold in either direction.That said, XRP is currently exhibiting strong bullish momentum, trading over 5 higher on the day at 3, the level not seen since early February, according to CoinDesk data.XRPMarketsOmkar GodboleOmkar Godbole is a Co-Managing Editor on CoinDesks Markets team based in Mumbai, holds a masters degree in Finance and a Chartered Market Technician (CMT) member. Omkar previously worked at FXStreet, writing research on currency markets and as fundamental analyst at currency and commodities desk at Mumbai-based brokerage houses. Omkar holds small amounts of bitcoin, ether, BitTorrent, tron and dot.X iconLatest Crypto NewsCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute26 minutes agoICP Rebounds Toward 5.50 After Early Morning Surge and Midday Volatility37 minutes agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday44 minutes agoWhy Bittensor Is AIs Best Next-Gen Incubator1 hour agoAAVE Surges as Deposits Hit 50B; Poised to Benefit From U.S. Crypto Regulation2 hours agoNEAR Surges 7 in Strong Bullish Recovery Rally2 hours agoTop StoriesCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute26 minutes agoSuperstate CEO Robert Leshner Buys Majority Stake in Shady Liquor Vendor With BTC Strategy3 hours agoRegime Change at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome Powell4 hours agoGrayscale Files Confidential Submission for IPO With SEC5 hours agoBinance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme Partnership6 ",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 16:00:56 +0000",
+      "author": "Omkar Godbole",
+      "tags": [
+        "Markets",
+        "XRP",
+        "Markets",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:37:38.796669",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.685653",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 6769,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2025/07/14/near-surges-7-in-strong-bullish-recovery-rally",
+      "title": "NEAR Surges 7% in Strong Bullish Recovery Rally",
+      "description": "",
+      "content": "MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailNEAR Surges 7 in Strong Bullish Recovery RallyNEAR Protocols exceptional trading volume of 5.82 million units signals sustained institutional accumulation above key resistance levels.ByOliver KnightUpdatedJul 14, 2025, 3:49 p.m.PublishedJul 14, 2025, 3:49 p.m.NEARUSD (CoinDesk Data)What to know:NEAR rallies 6.7 to 2.66, driven by altcoin momentum as Bitcoin hits a record 123K.Technical breakout confirmed, with support at 2.51, a V-shaped reversal, and a volume spike over 143K units.Key levels: resistance flipped to support at 2.622.64; next targets lie at 2.702.72.NEAR rallied by 6.7 in the past 24 hours as altcoins begin to heat up following bitcoins fresh record high at 123,000.As investors anticipate a potential altcoin season several tokens like NEAR are reaping the rewards. NEAR jumped from 2.55 to 2.66 in the past 24 hours, representing a 7 range.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.Support held firm at 2.51 before a breakout at 01:00 UTC driving prices up to 2.69 over the subsequent four hours.Its worth noting that NEAR remains well below its 2024 high of 9.00, which was spurred by hype around AI tokens following the launch of apps like chat bot apps like ChatGPT.NEARUSD (TradingView)Technical Indicators SummarySupport confirmed at 2.51 during consolidation phases.Buying pressure maintains above 2.62-2.64 resistance-turned-support.Higher lows pattern establishes throughout recovery phase.V-shaped reversal completes with 143,188-unit volume spike.Breakout above 2.67 confirms bullish continuation.Next resistance targets 2.70-2.72 levels.Disclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesks full AI Policy.AI Market InsightsOliver KnightOliver Knight is the co-leader of CoinDesk data tokens and data team. Before joining CoinDesk in 2022 Oliver spent three years as the chief reporter at Coin Rivet. He first started investing in bitcoin in 2013 and spent a period of his career working at a market making firm in the UK. He does not currently have any crypto holdings.X iconLatest Crypto NewsCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoICP Rebounds Toward 5.50 After Early Morning Surge and Midday Volatility37 minutes agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday45 minutes agoWhy Bittensor Is AIs Best Next-Gen Incubator1 hour agoAAVE Surges as Deposits Hit 50B; Poised to Benefit From U.S. Crypto Regulation2 hours agoXRPs Implied Volatility Explodes, Suggests 13 Price Swing as Congress Crypto Week Kicks Off2 hours agoTop StoriesCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoSuperstate CEO Robert Leshner Buys Majority Stake in Shady Liquor Vendor With BTC Strategy3 hours agoRegime Change at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome Powell4 hours agoGrayscale Files Confidential Submission for IPO With SEC5 hours agoBinance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme Partnership6 hours agoBitcoin Bears Urge Caution as BTC Price Tops 122K: Crypto Daybook Americas7 hours ago",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 15:49:23 +0000",
+      "author": "Oliver Knight",
+      "tags": [
+        "Markets",
+        "AI Market Insights",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:37:42.494654",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.698687",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 7681,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2025/07/14/atom-experiences-sharp-volatility-in-4-recovery-rally",
+      "title": "ATOM Experiences Sharp Volatility in 4% Recovery Rally",
+      "description": "",
+      "content": "MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailATOM Experiences Sharp Volatility in 4 Recovery RallyThe volatility comes as BTC continues to make fresh record highs.ByOliver Knight,CD AnalyticsJul 14, 2025, 3:38 p.m.ATOMUSD (CoinDesk Data)What to know:ATOM trades between 4.644.85, showing a V-shaped recovery amid broader crypto market bullishness as BTC hits 123K.Technical indicators turn positive, with MACD crossover and RSI at 62.4 signaling momentum, while volume spikes suggest institutional activity.Key levels to watch: support at 4.644.67; resistance at 4.854.86; breakout above 5.46 could target 6.20 and 7.75.ATOM traded within volatile range between 4.64 and 4.85 on Monday.The move comes among a backdrop of bullish sentiment after bitcoinBTC120,087.54rose to fresh record highs of 123,000 on Monday.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.ATOM price action shows classic V-shaped recovery, dropping to 4.64 before rallying hard to the 4.85 level of resistance.Its worth noting that ATOM remains far lower than the previous bull market when it topped 44.55 in a classic altcoin season.In the short term, a break above 5.46 would indicate a bullish break out with upside targets expanding to 6.20 and 7.75.ATOMUSD (TradingView)Technical Indicators SummaryMACD posts positive crossover signaling bullish momentum shift.RSI hits 62.40 showing moderate buying without overbought signals.Volume spikes past 40,000 units confirm institutional participation.Support zone locks in at 4.64-4.67 with heavy volume backing.Resistance forms near 4.85-4.86 where selling pressure builds.Higher lows pattern around 4.67-4.68 confirms uptrend continuation.Disclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesks full AI Policy.AI Market InsightsOliver KnightOliver Knight is the co-leader of CoinDesk data tokens and data team. Before joining CoinDesk in 2022 Oliver spent three years as the chief reporter at Coin Rivet. He first started investing in bitcoin in 2013 and spent a period of his career working at a market making firm in the UK. He does not currently have any crypto holdings.X iconCD AnalyticsCoinDesk Analytics is CoinDesks AI-powered tool that, with the help of human reporters, generates market data analysis, price movement reports, and financial content focused on cryptocurrency and blockchain markets.All content produced by CoinDesk Analytics is undergoes human editing by CoinDesks editorial team before publication. The tool synthesizes market data and information fromCoinDesk Dataand other sources to create timely market reports, with all external sources clearly attributed within each article.CoinDesk Analytics operates under CoinDesks AI content guidelines, which prioritize accuracy, transparency, and editorial oversight. Learn more about CoinDesks approach to AI-generated content in ourAI policy.Latest Crypto NewsCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoICP Rebounds Toward 5.50 After Early Morning Surge and Midday Volatility37 minutes agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday45 minutes agoWhy Bittensor Is AIs Best Next-Gen Incubator1 hour agoAAVE Surges as Deposits Hit 50B; Poised to Benefit From U.S. Crypto Regulation2 hours agoXRPs Implied Volatility Explodes, Suggests 13 Price Swing as Congress Crypto Week Kicks Off2 hours agoTop StoriesCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoSuperstate CEO Robert Leshner Buys Majority Stake in Shady Liquor Vendor With BTC Strategy3 hours agoRegime Change at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome Powell4 hours agoGrayscale Files Confidential Submission for IPO With SEC5 hours agoBinance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme Partnership6 hours agoBitcoin Bears Urge Caution as BTC Price Tops 122K: Crypto Daybook Americas7 hours ago",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 15:38:19 +0000",
+      "author": "CD Analytics",
+      "tags": [
+        "Markets",
+        "AI Market Insights",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:37:44.954355",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.711182",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 8715,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/business/2025/07/14/superstate-ceo-robert-leshner-buys-majority-stake-in-shady-liquor-vendor-with-btc-strategy",
+      "title": "Superstate CEO Robert Leshner Buys Majority Stake in 'Shady' Liquor Vendor With BTC Strategy",
+      "description": "",
+      "content": "FinanceShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailSuperstate CEO Robert Leshner Buys Majority Stake in Shady Liquor Vendor With BTC StrategyLeshner said he plans to dismiss the firms leadership and explore strategic transactions to turn the company around.ByKrisztian SandorEdited bySheldon RebackJul 14, 2025, 3:29 p.m.Robert Leshner, CEO of Superstate (Superstate)What to know:Robert Leshner, CEO of tokenization firm Superstate, acquired a majority stake in liquor marketplace LQR House, aiming to overhaul the company.LQR Houses stock rose 45 after he announced the purchase.The firm previously unveiled plans to add up to 1 million in bitcoin (BTC) to its treasury and enabled crypto payments on its platform.Robert Leshner, CEO and co-founder of tokenization firm Superstate, said he bought a majority stake in publicly listed e-commerce liquor retailer LQR House(YHC), planning to overhaul the embattled company.Leshner purchased a 56.9 controlling stake in the firm for 2.03 million, according to adocumentfiled to the SEC. The move sent shares of LQR up as much as 45 during Monday trading.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.LQR House runs CWSpirits.com, an online seller of a range of premium liquor products. In November, the firmembracedbitcoinBTC120,087.54as a treasury asset, approving an up-to 1 million BTC allocation and enabling crypto payments on its platform.In a post on X, Leshner said he hasnt conducted extensive diligence on the company, which he described as having a somewhat shady history. The firms share price plummeted over 90 since March.Still, his intent is clear: Clean house and overhaul the business.According to the SEC filing, Leshner plans to remove all current directors and install a new board to pursue strategic alternatives and explore the potential for strategic transactions.There are signs the company is up to no good, Leshner said in his post. I will sort them out, but please be extremely careful with any low market cap companies.I may lose all my investment and you might too, he added.It was not immediately clear whether Leshner has any plans for digital assets in his turnaround plans. However, the acquisition fits into a growing trend of prominent figures in crypto circles taking the helm of publicly traded firms.Joseph Lubin, EthereumETH3,007.54co-founder and CEO of development firm Consensys, became chairman of Sharplink Gaming(SBET)when that company pivoted to an ETH treasury strategy. Thomas Lee, head of research at Fundstrat and well-known Wall Street commentator, joined BitMine Immersion Technology(BMNR)as chairman to spearhead the firms crypto treasury plans.Leshner was a founder of early decentralized finance(DeFi)lending protocol CompoundCOMP49.88before focusing on asset tokenization with Superstate.Robert LeshnerDigital Asset Treasurymergers and acquisitionsKrisztian SandorKrisztian Sandor is a U.S. markets reporter focusing on stablecoins, tokenization, real-world assets. He graduated from New York Universitys business and economic reporting program before joining CoinDesk. He holds BTC, SOL and ETH.X iconLatest Crypto NewsCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoICP Rebounds Toward 5.50 After Early Morning Surge and Midday Volatility37 minutes agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday45 minutes agoWhy Bittensor Is AIs Best Next-Gen Incubator1 hour agoAAVE Surges as Deposits Hit 50B; Poised to Benefit From U.S. Crypto Regulation2 hours agoXRPs Implied Volatility Explodes, Suggests 13 Price Swing as Congress Crypto Week Kicks Off2 hours agoTop StoriesCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoRegime Change at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome Powell4 hours agoGrayscale Files Confidential Submission for IPO With SEC5 hours agoBinance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme Partnership6 hours agoBitcoin Bears Urge Caution as BTC Price Tops 122K: Crypto Daybook Americas7 hours agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday45 minutes ago",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 15:29:00 +0000",
+      "author": "Krisztian Sandor",
+      "tags": [
+        "Finance",
+        "Robert Leshner",
+        "Digital Asset Treasury",
+        "mergers and acquisitions",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:37:47.411663",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.726212",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 9786,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2025/07/14/bitmine-immersion-surges-40-after-revealing-500m-eth-treasury",
+      "title": "BitMine Immersion Surges 40% After Revealing $500M ETH Treasury",
+      "description": "",
+      "content": "MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailBitMine Immersion Surges 40 After Revealing 500M ETH TreasuryThe shares rose over 40 after revealing the large ETH holdings, following a 50 drop after a 2 billion at-the-market offering.ByFrancisco RodriguesEdited bySheldon RebackJul 14, 2025, 3:04 p.m.(Anne NygårdUnsplash)What to know:BitMine Immersion Technologies now holds 163,142 ETH worth around 500 million.The firms strategy is to accumulate a large ETH balance sheet, similar to Strategys bitcoin play.The move boosted BMNRs shares by over 40, and comes as ether treasuries, including those of decentralized organizations and publicly traded companies, now hold a total of 1.5 million ETH.BitMine Immersion Technologies(BMNR), the ether(ETH)strategy firm led by Fundstrats Tom Lee, moved quickly to turn dollars into cryptocurrency.The Las Vegas-based companys share rose as much as 40 after itsaidit now holds 163,142 ETH, worth about 500 million, up from the250 million it raisedin a private placement on July 9.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.Tom Lee likened the approach to Strategys(MSTR)well-known bitcoinBTC120,087.54play, arguing that that companys large BTC holdings make the company attractive as a sovereign put. Lee said Strategy was an attractive bet if a nation ever wanted to acquire 5 of the Bitcoin network.Similarly, ETH Treasuries, which accumulate 5 of ETH supply, can benefit from a similar Wall Street put, Lee said.Mondays share price surge follows last weeks 65 plunge related to the2 billion at-the-market offering.The shares were recently trading around 4.88, down from 6.25 on July 10.Ether is down around 9 this year while bitcoin is up around 29.Over the weekend, bitcoin mining firm BTC Digitalallocated 1 million of its cashinto ETH, which it said was its new digital gold. In total, 1.5 million ETH is currently held across ether treasuries, which include decentralized autonomous organizations and publicly traded companies, according toStrategic ETH Reserve.EthereumEthereum TreasuryBitmineFrancisco RodriguesFrancisco is a reporter for CoinDesk with a passion for cryptocurrencies and personal finance. Before joining CoinDesk he worked at major financial and crypto publications. He owns bitcoin, ether, solana, and PAXG above CoinDesks 1,000 disclosure threshold.Latest Crypto NewsCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoICP Rebounds Toward 5.50 After Early Morning Surge and Midday Volatility37 minutes agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday45 minutes agoWhy Bittensor Is AIs Best Next-Gen Incubator1 hour agoAAVE Surges as Deposits Hit 50B; Poised to Benefit From U.S. Crypto Regulation2 hours agoXRPs Implied Volatility Explodes, Suggests 13 Price Swing as Congress Crypto Week Kicks Off2 hours agoTop StoriesCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoSuperstate CEO Robert Leshner Buys Majority Stake in Shady Liquor Vendor With BTC Strategy3 hours agoRegime Change at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome Powell4 hours agoGrayscale Files Confidential Submission for IPO With SEC5 hours agoBinance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme Partnership6 hours agoBitcoin Bears Urge Caution as BTC Price Tops 122K: Crypto Daybook Americas7 hours ago",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 15:04:17 +0000",
+      "author": "Francisco Rodrigues",
+      "tags": [
+        "Markets",
+        "Ethereum",
+        "Ethereum Treasury",
+        "Bitmine",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:37:50.744137",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.739360",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 10704,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2025/07/14/bitcoin-mining-stocks-lead-crypto-equity-gains-after-btc-hits-122k",
+      "title": "Bitcoin Mining Stocks Lead Crypto Equity Gains After BTC Hits $122K",
+      "description": "",
+      "content": "MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailBitcoin Mining Stocks Lead Crypto Equity Gains After BTC Hits 122KBitcoin ascended to an all-time high just shy of 123,00 during the European morning.ByJamie CrawleyEdited byStephen AlpherJul 14, 2025, 2:31 p.m.Mining rigs in Plattsburgh, NY. (Fran VelasquezCoinDesk)What to know:Bitcoin mining stocks led the gains among crypto equities in early trading on Monday after BTC hit an all-time high above 122,000.MARA Holdings traded almost 10 higher at around 20.95 in the first hour after markets opened.Other prominent crypto stocks such as Strategy (MSTR) and Galaxy Digital (GLXY) were each ahead around 4.Bitcoin mining stocks led the gains among crypto equities in early trading on Monday after BTC raced to a new a all-time high just shy of 123,000(its since retreated a bit to just under 122,000).MARA Holdings(MARA)tradedalmost 10 higher at around 20.95in the first hour after markets opened, while CleanSpark(CLSK)climbedjust under 7.5 to 13.59.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.Fellow mining companiesCore Scientific(CORZ)andRiot Platforms(RIOT)saw slightly more modest gains of 4-5 in early trading.Away from the mining sector, other prominent crypto stocks such as Strategy(MSTR)and Galaxy Digital(GLXY)were both about 3.75 higher, while Coinbase(COIN)and Circle(CRCL)gains were under 2.Bitcoin had ascended to anall-time high of around 122,870during the European morning, before dropping back to trade at about 121,700 as the markets opened in the U.S.Read More:Michael Saylors Strategy Adds 4,225 Bitcoin, Bringing BTC Stack to 601,550Crypto StocksBitcoin MiningJamie CrawleyJamie has been part of CoinDesks news team since February 2021, focusing on breaking news, Bitcoin tech and protocols and crypto VC. He holds BTC, ETH and DOGE.X iconLatest Crypto NewsCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoICP Rebounds Toward 5.50 After Early Morning Surge and Midday Volatility37 minutes agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday45 minutes agoWhy Bittensor Is AIs Best Next-Gen Incubator1 hour agoAAVE Surges as Deposits Hit 50B; Poised to Benefit From U.S. Crypto Regulation2 hours agoXRPs Implied Volatility Explodes, Suggests 13 Price Swing as Congress Crypto Week Kicks Off2 hours agoTop StoriesCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoSuperstate CEO Robert Leshner Buys Majority Stake in Shady Liquor Vendor With BTC Strategy3 hours agoRegime Change at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome Powell4 hours agoGrayscale Files Confidential Submission for IPO With SEC5 hours agoBinance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme Partnership6 hours agoBitcoin Bears Urge Caution as BTC Price Tops 122K: Crypto Daybook Americas7 hours ago",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 14:31:46 +0000",
+      "author": "Jamie Crawley",
+      "tags": [
+        "Markets",
+        "Crypto Stocks",
+        "Bitcoin Mining",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:37:53.779278",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.750738",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 11542,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2025/07/14/regime-change-at-fed-crypto-rallies-as-pressure-mounts-on-chairman-jerome-powell",
+      "title": "'Regime Change' at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome Powell",
+      "description": "",
+      "content": "MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailRegime Change at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome PowellThe White Houses campaign for new Federal Reserve leadership amped higher over the weekend.ByStephen Alpher,Helene BraunEdited byStephen AlpherJul 14, 2025, 2:22 p.m.Pressure rises on Fed Chair Jerome Powell (Federal Reserve, modified by CoinDesk)What to know:The Trump administration has been targeting questions about the Feds 2.5 billion renovation project as a way to put more pressure on Chairman Powell to step down or as cause for his firing.Two supposed contenders for Powells replacement slammed the Fed leader over the weekend.A new Fed chair to be appointed by President Trump would surely be supportive of the White Houses continued calls for sharply lower interest rates.All things being equal, easier monetary policy tends to be good for risk assets  crypto surely among them. Bitcoin rallied to above 120,000 for the first time ever over the weekend as pressure on hawkish U.S. Federal Reserve Chairman Jerome Powell to step down or be fired amped even higher. Coincidence?To review, Jerome Powell  who rushed through 75 basis points of rate cuts prior to the 2024 election  quickly switched to a more hawkish stance following Donald Trumps election(though he did allow one more 25 basis point cut just after November), and it famously hasnt sat well with the president.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.Frankly, its about breaking some heads,said former Fed Governor Kevin Warshon Fox News on Sunday. Warsh, who has been consistently touted as a leading possible replacement for Powell, added that the central banks 2.5 billion renovation project was among several examples of how the Fed has lost its way and said it was time for regime change.Also appearing on TV on Sunday and also another contender to lead a post-Powell Fed, National Economic Council Director Kevin Hasset said the presidents possible power to fire Jerome Powell is being looked into ... but certainly if theres cause, he does.The latest angle of attack against Powell is the Feds 2.5 billion renovation project. Powell is being questioned not just over the massive expense, but over whether he may have misled Congress in his testimony regarding the renovation. Office of Management and Budget(OMB)Director Russ Vought last week sent Powell a list of questions regarding the project.The Fed over the weekend created a newFAQ page on its websiteto give its side of the story.Trump doesnt ease upAdding his comments over the weekend, the president said it would be a great thing for the country if Powell were to exit.Jerome Powell has been very bad for our country, he added. We should have the lowest interest rate on Earth, and we dont. He just refuses to do it.I dont know what he knows about building, but you talk about cost overrun, Trump said of the 2.5 billion renovation. He reminded that the project was approved and began moving forward while Joe Biden was still president.Regulatory angle as wellWhile Powell has kept a publicly neutral stance towards crypto, a new Fed chair could be seen as a positive for the community even beyond what surely would be easier monetary policy.Powell, over the years, has maintained his stance that bitcoin is a competitor to gold rather than to the U.S. dollar given that people are not using it as a form of payment but rather as an investment vehicle.However, he has repeatedly called for clearer regulation, specifically around stablecoins and their risks to financial stability as the industry continued to grow more mainstream. He has also stressed the importance of consumer protections as well as concerns about debanking practices in which financial institutions are forced to cut ties with crypto firms due to the risks associated with the asset class.Federal ReserveBitcoinStephen AlpherStephen is CoinDesks managing editor for Markets. He previously served as managing editor at Seeking Alpha. A native of suburban Washington, D.C., Stephen went to the University of Pennsylvanias Wharton School, majoring in finance. He holds BTC above CoinDesks disclosure threshold of 1,000.X iconHelene BraunHelene is a New York-based markets reporter at CoinDesk, covering the latest news from Wall Street, the rise of the spot bitcoin exchange-traded funds and updates on crypto markets. She is a graduate of New York Universitys business and economic reporting program and has appeared on CBS News, YahooFinance and Nasdaq TradeTalks. She holds BTC and ETH.X iconLatest Crypto NewsCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoICP Rebounds Toward 5.50 After Early Morning Surge and Midday Volatility37 minutes agoHouse Gears",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 14:22:50 +0000",
+      "author": "Helene Braun",
+      "tags": [
+        "Markets",
+        "Federal Reserve",
+        "Bitcoin",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "macro",
+      "extraction_timestamp": "2025-07-14T15:37:57.578620",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.769444",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 12645,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/opinion/2025/07/14/democrats-must-embrace-crypto-terry-mcauliffe",
+      "title": "Democrats Must Embrace Crypto: Terry McAuliffe",
+      "description": "",
+      "content": "OpinionShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailDemocrats Must Embrace Crypto: Terry McAuliffeToo many Democrats standing in the way of crypto and out of step with the very voters we need to win, says former Virginia Governor Terry McAuliffe.ByTerry McAuliffeEdited byBenjamin SchillerJul 14, 2025, 2:18 p.m.As a lifelong Democrat and former Governor of Virginia, Ive always believed our party should be on the side of growth, innovation, and economic opportunity. Thats why Im concerned that too many Democrats are standing on the sidelines or standing in the way of one of the most transformative financial innovations of our time: blockchain and cryptocurrency.Blockchain and crypto are already driving job creation across the country, from data centers and fintech startups to cybersecurity firms and developers working on decentralized infrastructure. This technology means more jobs, higher wages, and more money in peoples pockets, especially in communities that have been left behind by the traditional financial system.STORY CONTINUES BELOWDont miss another story.Subscribe to the The Node Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.The numbers dont lie. Voters overwhelmingly support integrating crypto into the American financial system. More thantwo-thirds of Americans believethere should be clearer rules and regulations for the crypto industry, rather than leaving it largely unregulated, according to multiple industry-leading public opinion polls.Andtwo-thirds believethe current global financial system favors powerful interests and not them. Democrats need to understand that voters want an alternative to the current financial system that provides them with the economic freedom that is so desperately needed. That is a winning middle class message.These numbers reflect a clear mandate for action. Yet our partys leadership has often approached crypto with skepticism or outright hostility, creating a partisan divide on an innovation that should transcend political boundaries.This misalignment became painfully evident during recent elections, with Republicans, including Donald Trump, having embraced crypto, while Democrats appeared out of touch with the technological revolution reshaping our economy. We cannot afford to cede this ground, especially when crypto and blockchain offer solutions to many of the economic challenges weve long sought to address.The Democratic Party has always stood for expanding economic opportunity and ensuring that working people arent taken advantage of by powerful financial institutions. As a lifelong entrepreneur and Virginias former governor, Ive seen how embracing innovation can open doors for workers, businesses, and families across every corner of our economy. Cryptocurrency and blockchain technology are no exceptionthey offer real tools to increase financial inclusion, expand access, and create good-paying jobs.This isnt just theory, it is what voters are telling us. Communities of color and younger Americans, especially young men, see real promise in crypto as a path to economic empowerment. These are core Democratic constituencies, and theyll be essential to winning back the map in 2028 and beyond. If we want to remain the party of opportunity, we have to lead the way on forward-looking regulationnot stand in the way of progress.Innovation in crypto means financial services for communities traditionally underserved by conventional banking systems, offering faster, cheaper transactions and broader access to capital. For minority communities, in particular, who have historically faced discrimination in traditional banking, crypto represents a path to financial empowerment through self-custody and consumer choice. Small businesses should not have to pay 3, 4 or 5 of their profits to companies when transactions can be done at a fraction of the cost. Crypto will create a system of payment that benefits consumers and small businesses everywhere.Now, we have a crucial opportunity to correct our course. The GENIUS Act, which now awaits action in the House, presents a framework for smart, progressive regulation positioning America as a global leader in stablecoins.Stablecoins are crypto tokens backed by U.S. dollars held in a bank that provide a cheaper and faster way of moving dollars than the dated ACH system. This legislation offers a balanced approach that both nurtures innovation, strengthens the U.S. dollar and establishes necessary guardrails.The GENIUS Acts provisions will streamline our financial system and eliminate costly fees that disproportionately affect small businesses and low-income Americans. It will mean Americans can send money to family abroad in milliseconds, for fractions of a penny, using dollar backed stablecoins like USDC on lightning-fast public blockchains like Solana. This is exactly the kind of forward-thinking policy t",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 14:18:43 +0000",
+      "author": "Terry McAuliffe",
+      "tags": [
+        "Opinion",
+        "Opinion"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:38:01.148978",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.784423",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 13621,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/business/2025/07/14/grayscale-files-confidential-submission-for-ipo-with-sec",
+      "title": "Grayscale Files Confidential Submission for IPO With SEC",
+      "description": "",
+      "content": "FinanceShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailGrayscale Files Confidential Submission for IPO With SECThe asset manager joins a number of crypto firms that are looking to go public as the digital assets market heats up.ByAoyon Ashraf,Helene BraunEdited bySheldon RebackUpdatedJul 14, 2025, 1:52 p.m.PublishedJul 14, 2025, 1:14 p.m.U.S. SEC headquarters in Washington (Jesse HamiltonCoinDesk)What to know:Grayscale Investments confidentially submitted a draft S-1 registration statement to the SEC, indicating plans for an IPO.The asset manager did not disclose details of the submission, which will proceed after the SECs review and market conditions.Confidential filings allow companies to negotiate with the SEC privately, a strategy used to keep competitive details under wraps until a public launch is ready.Grayscale Investments said it confidentially submitted a draft S-1 registration statement to the U.S. Securities and Exchange Commission(SEC), a filing that signals plans for an initial public offering(IPO).The asset manager owned by Barry Silberts Digital Currency Group didnt disclose details of the submission and said the registration is expected to take place after the SEC completes its review process, subject to market and other conditions, according to apress release.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.Confidential filings allow firms to negotiate with the agency behind closed doors before revealing their plans. Its a common tactic for gauging regulatory feedback while keeping competitive details out of public view until a launch is ready.The move adds Grayscale to the number of growing companies lining up to take their companies public as the digital assets market heats up, with bitcoinBTC120,087.54hitting new all-time highs.Stablecoin issuer Circle(CRCL)made its public debutat the beginning of June, and the stock has surged more than 500 since then. A few weeks prior to that, stock-trading app eToro(ETOR)also made the move. Its shares are now 10 higher.While Circle and eToro hit the market during challenging macroeconomic times due to tariff discussions led by President Donald Trump, both debuted at higher valuations than anticipated, suggesting renewed interest in digital assets as U.S. legislators inch closer to clearer rules for crypto companies, especially stablecoin issuers.Grayscales proposal, in contrast, comes at a time of bullish momentum for crypto assets. The price of bitcoin, the largest cryptocurrency by market value, is hitting record highs on an almost daily basis. The token is currently trading at 121,728, up 30 year-to-date, and justovertook goldas the years best-performing asset.Grayscale is one of the largest crypto asset managers. Its core products are trusts and exchange-traded funds(ETFs)such as its flagship Graysale Bitcoin Trust(GBTC)and Ethereum Trust(ETHE), both of which converted into ETFs in January last year. The two alone have a combined 24 billion of assets under management.Both have suffered heavy outflows since their conversion because the asset manager charges a higher fee for its products than competitors, making it more expensive for investors to buy and hold the product.Many, however, believe that Grayscale is one of the reasons why the spot bitcoin ETFs were approved to begin with after itwon a legal fightagainst SEC over its spot bitcoin ETF application, ultimately leading to the approval of several bitcoin ETFs.UPDATE(July 14, 13:25 UTC):Changes lead photo.UPDATE(July 14, 13:48 UTC):Adds recent IPOs in fifth paragraph, Grayscale products, background starting in eighth.FastNewsIPOBreaking NewsGrayscaleAoyon AshrafAoyon Ashraf is CoinDesks Head of Americas. He spent almost a decade at Bloomberg covering equities, commodities and tech. Prior to that, he spent several years on the sellside, financing small-cap companies. Aoyon graduated from University of Toronto with a degree in mining engineering. He holds ETH and BTC, as well as ADA, SOL, ATOM and some other altcoins that are below CoinDesks disclosure threshold of 1,000.X iconHelene BraunHelene is a New York-based markets reporter at CoinDesk, covering the latest news from Wall Street, the rise of the spot bitcoin exchange-traded funds and updates on crypto markets. She is a graduate of New York Universitys business and economic reporting program and has appeared on CBS News, YahooFinance and Nasdaq TradeTalks. She holds BTC and ETH.X iconLatest Crypto NewsCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoICP Rebounds Toward 5.50 After Early Morning Surge and Midday Volatility37 minutes agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday45 minutes agoWhy Bittensor Is AIs Best Next",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 13:14:39 +0000",
+      "author": "Helene Braun",
+      "tags": [
+        "Finance",
+        "FastNews",
+        "IPO",
+        "Breaking News",
+        "Grayscale",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:38:04.159022",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.795569",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 7234,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/coindesk-indices/2025/07/14/coindesk-20-performance-update-stellar-xlm-surges-20-8-over-weekend",
+      "title": "CoinDesk 20 Performance Update: Stellar (XLM) Surges 20.8% Over Weekend",
+      "description": "",
+      "content": "CoinDesk IndicesShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailCoinDesk 20 Performance Update: Stellar (XLM) Surges 20.8 Over WeekendHedera (HBAR) joined Stellar (XLM) as a top performer, rising 19.1.ByCoinDesk IndicesJul 14, 2025, 1:08 p.m.CoinDesk Indicespresents its daily market update, highlighting the performance of leaders and laggards in theCoinDesk 20 Index.The CoinDesk 20 is currently trading at 3688.41, up 3.2(115.64)since 4 p.m. ET on Friday.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Long  Short Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.Seventeen of 20 assets are trading higher.Leaders: XLM(20.8)and HBAR(19.1).Laggards: BCH(-4.3)and FIL(-0.5).TheCoinDesk 20is a broad-based index traded on multiple platforms in several regions globally.CoinDesk IndicesCoinDesk 20chartsPricesCoinDesk IndicesLatest Crypto NewsCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoICP Rebounds Toward 5.50 After Early Morning Surge and Midday Volatility37 minutes agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday45 minutes agoWhy Bittensor Is AIs Best Next-Gen Incubator1 hour agoAAVE Surges as Deposits Hit 50B; Poised to Benefit From U.S. Crypto Regulation2 hours agoXRPs Implied Volatility Explodes, Suggests 13 Price Swing as Congress Crypto Week Kicks Off2 hours agoTop StoriesCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoSuperstate CEO Robert Leshner Buys Majority Stake in Shady Liquor Vendor With BTC Strategy3 hours agoRegime Change at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome Powell4 hours agoGrayscale Files Confidential Submission for IPO With SEC5 hours agoBinance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme Partnership6 hours agoBitcoin Bears Urge Caution as BTC Price Tops 122K: Crypto Daybook Americas7 hours ago",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 13:08:08 +0000",
+      "author": "CoinDesk Indices",
+      "tags": [
+        "CoinDesk Indices",
+        "CoinDesk Indices",
+        "CoinDesk 20",
+        "charts",
+        "Prices",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:38:07.650112",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.804093",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 7846,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2025/07/14/right-to-code-tornado-cash-dev-roman-storm-s-money-laundering-trial-kicks-off-monday",
+      "title": "Right to Code? Tornado Cash Dev Roman Storm's Money Laundering Trial Kicks Off Monday",
+      "description": "",
+      "content": "PolicyShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailRight to Code? Tornado Cash Dev Roman Storms Money Laundering Trial Kicks Off MondayIf convicted on all three charges, Storm faces a maximum sentence of 45 years in prison.ByCheyenne LigonEdited byNikhilesh DeJul 14, 2025, 1:05 p.m.NEW YORK, New York  Tornado Cash developer Roman Storms criminal money laundering is slated to begin in Manhattan on Monday morning, when Storms lawyers and prosecutors will begin to select a jury to oversee Storms four-week trial.STORY CONTINUES BELOWDont miss another story.Subscribe to the State of Crypto Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.Storm was arrested in Washington state in 2023 and charged with conspiracy to commit money laundering, conspiracy to violate U.S. sanctions, and conspiracy to operate an unlicensed money transmitting business  charges which, if Storm is convicted, carry a maximum combined sentence of 45 years in prison. Storms fellow Tornado Cash developer, Russian national Roman Semenov, faces the same charges but remains at large. Another developer, Alexey Pertsev, wasconvicted of money launderingin the Netherlands in 2024 and sentenced to five years in prison, which he iscurrently appealing.At the heart of Storms case lies Tornado Cash, a privacy-oriented cryptocurrency mixing service, which the government has alleged was used to launder over 1 billion in criminal proceeds by bad actors  including the Lazarus Group, North Koreas state-sanctioned hacking operation, which they say constituted a violation of U.S. sanctions  while Storm and his colleagues turned a blind eye. Storms lawyers, meanwhile, haveargued that he was simply a developer of open-source, decentralized softwarewith legitimate, privacy-preserving uses who should not be held responsible for bad actors use of it.Theres certainly going to be a very vigorous defense here that they were writing code and that Tornado Cash was designed for privacy  that some people may have taken advantage of it, but Storm and his colleagues werent co-conspirators, said Mark Bini, a partner in Reed Smiths global regulatory and enforcement practice group. Mixers have been very controversial because theyve been used by lots of people doing bad things, no doubt about it, but the idea that some people would want to use them for privacy, thats a legitimate argument as well. Thats going to make for a fierce battle here.Storms trial has drawn the attention of many in the crypto industry, who haveraised concernsthat, if Storm is found guilty, it could mean that developers down the line areon the hookfor how people use their programs  something that could have devastating consequences for both the availability of privacy tools and the decentralized finance(DeFi)space as a whole. A host of major players in the industry, including investment firm Paradigm, and non-profit advocacy groups Coin Center and the DeFi Education Fund, have submitted amicus briefs in Storms defense.Others, however, have been more reluctant to accept Storms privacy defense. Economics writer J.P. Koenig wrote ina 2024 blog postthat, if Storm prevails at trial, it could potentially mean that anyone who wants to facilitate illegal activities would have a strong incentive to copy Tornado Cash, effectively turning their operation into a golem  a deathless artificial being run on smart contracts  and then throwing away the keys to avoid the law.Swiss blockchain analytics firm Global Ledger wrote ina blog postthat there are, in general, far more reasons why cyber criminals might want to use a mixing service than developers who legitimately want to obfuscate the movement of their personal funds.Shifting windsStorms trial begins as the U.S. government continues to overhaul its approach to the crypto industry  particuarly crypto regulation. Under U.S. President Donald Trump, the White House has taken a friendlier stance towards the industry (whichpoured a whopping 130 millioninto congressional races in the 2024 elections and at least 18 million into Trumps inaugural committee alone), nudging regulators and law enforcement to do the same.Since Trump took office in January, the U.S. Securities and Exchange Commission  which had taken on a bogeyman-like status under former Chair Gary Gensler for its so-called practice of regulation by enforcement  has formed an industry-friendly Crypto Task Force and dropped a slew of open cases and investigations into crypto companies. In anApril memo to staff, Deputy Attorney General Todd Blanche ordered U.S. Department of Justice(DOJ)staff to narrow their focus on crypto crime, instructing them that the agency would no longer be charging regulatory violations in cases involving crypto.Though some speculated that prosecutors would back down from their case against Storm in the wake of Blanches memo,the government pressed forward, dro",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 13:05:06 +0000",
+      "author": "Cheyenne Ligon",
+      "tags": [
+        "Policy",
+        "Roman storm",
+        "Tornado Cash",
+        "Trump Administration",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:38:11.082397",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.815862",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 8945,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2025/07/14/shiba-inu-gains-3-as-explosive-burn-rate-spurs-bullish-predictions",
+      "title": "Shiba Inu Gains 3% as Explosive Burn Rate Spurs Bullish Predictions",
+      "description": "",
+      "content": "MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailShiba Inu Gains 3 as Explosive Burn Rate Spurs Bullish PredictionsSHIB has outperformed bitcoin this month with a 20 increase compared to bitcoins 13 gain.ByOmkar Godbole,CD AnalyticsUpdatedJul 14, 2025, 12:36 p.m.PublishedJul 14, 2025, 12:35 p.m.SHIBs price. (CoinDesk)What to know:Shiba Inu (SHIB) has risen over 3 in the past 24 hours, reaching a nearly seven-week high.SHIB has outperformed bitcoin this month with a 20 increase compared to bitcoins 13 gain.Analysts predict sharp rally for SHIB as its burn rate increases significantly, according to CoinDesks AI insights.Shiba inuSHIB0.0₄1327, the worlds second-largest meme token by market value, has gained over 3 in the past 24 hours, hitting a nearly seven-week high of 0.00001416 at one point, according to CoinDesk data.The move happened as market leader bitcoin topped 122,000 to set new lifetime highs, which galvanized momentum in the broader crypto market.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.SHIB has surged 20 this month, outshining BTCs 13 gain. The BTC-beating performance hasKey AI insightsSHIB posted a 3 gain during the 24 hours from 13 July 12:00 to 14 July 11:00, advancing from 0.000013314 to 0.000013720, supported by robust volume activityThe token underwent volatile consolidation in the 60-minute session from 14 July 10:51 to 14 July 11:50, pulling back 1 to 0.000013722 as traders secured profits.Market analysts forecast a potential 1,500 rally for SHIB as the burn rate skyrockets 2,080 weekly,The meme-based token successfully recaptured the 8.00 billion market valuation threshold amid growing expectations for artificial intelligence-focused initiatives within the Shiba Inu ecosystem.AI volume-price trend analysisIn the past 24 hours, SHIB has confirmed a key support zone at 0.00001309 with substantial volume backing of 536.21 billion tokens.The resistance level has been identified at 0.000014103, accompanied by exceptional volume activity of 2.44 trillion tokens.The price chart shows a distinct upward trend pattern featuring a higher lows pattern that indicates persistent buying pressure.RSI nearing 70The tokens 14-relative strength index, which measures the speed and change of price movements of a security over roughly two weeks,is fast closing on the 70 mark, widely considered as an overbought threshold. However, in reality, it only indicates that the upward momentum is strengthening.The bullish signal comes as the cryptocurrency looks to break out of an inverse head-and-shoulders pattern.SHIBs daily chart with the 14-day RSI. (TradingView)Disclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence toour standards. For more information, seeCoinDesks full AI Policy.Shiba InuSHIBMarketsTechnical AnalysisOmkar GodboleOmkar Godbole is a Co-Managing Editor on CoinDesks Markets team based in Mumbai, holds a masters degree in Finance and a Chartered Market Technician (CMT) member. Omkar previously worked at FXStreet, writing research on currency markets and as fundamental analyst at currency and commodities desk at Mumbai-based brokerage houses. Omkar holds small amounts of bitcoin, ether, BitTorrent, tron and dot.X iconCD AnalyticsCoinDesk Analytics is CoinDesks AI-powered tool that, with the help of human reporters, generates market data analysis, price movement reports, and financial content focused on cryptocurrency and blockchain markets.All content produced by CoinDesk Analytics is undergoes human editing by CoinDesks editorial team before publication. The tool synthesizes market data and information fromCoinDesk Dataand other sources to create timely market reports, with all external sources clearly attributed within each article.CoinDesk Analytics operates under CoinDesks AI content guidelines, which prioritize accuracy, transparency, and editorial oversight. Learn more about CoinDesks approach to AI-generated content in ourAI policy.Latest Crypto NewsCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoICP Rebounds Toward 5.50 After Early Morning Surge and Midday Volatility37 minutes agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday45 minutes agoWhy Bittensor Is AIs Best Next-Gen Incubator1 hour agoAAVE Surges as Deposits Hit 50B; Poised to Benefit From U.S. Crypto Regulation2 hours agoXRPs Implied Volatility Explodes, Suggests 13 Price Swing as Congress Crypto Week Kicks Off2 hours agoTop StoriesCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoSuperstate CEO Robert Leshner Buys Majority Stake in Shady Liquor",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 12:35:55 +0000",
+      "author": "CD Analytics",
+      "tags": [
+        "Markets",
+        "Shiba Inu",
+        "SHIB",
+        "Markets",
+        "Technical Analysis",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:38:14.116677",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.827269",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 10147,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2025/07/14/binance-wallet-takes-on-pumpfun-and-bonkfun-with-new-fourmeme-partnership",
+      "title": "Binance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme Partnership",
+      "description": "",
+      "content": "MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailBinance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme PartnershipUsers can exit early by selling back into the bonding curve before the event ends, assuming theres demand.ByShaurya MalwaEdited byParikshit Mishra,Stephen AlpherUpdatedJul 14, 2025, 12:18 p.m.PublishedJul 14, 2025, 12:15 p.m.What to know:Binance will launch a new token sale model using a bonding curve mechanism within its Wallet on July 15.Tokens purchased during the sale are non-transferable until the event ends, and buy orders cannot be canceled.The Four.Meme ecosystem, valued at 368 million, will be the first to test this format on Binance Wallet.Binance willintroduce a new token sale modelwithin its Wallet, utilizing a bonding curve mechanism for price discovery in a partnership with the Four.Meme ecosystem that goes live on July 15.Bonding curves adjust token prices in real-time based on demand: the more that users buy, the higher the price climbs. Tokens bought during the event are non-transferable until the sale ends and buy orders cant be canceled.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.The announcement comes as token launchpadsPump.Fun and Bonk.Fun see ever-growing volumes and user interest.Pump.fun launched in January 2024 as Solanas premier memecoin factory, handling over 11 million token creations and generating more than 800 million in fees. Its bonding-curve AMM lets anyone launch a token, locking in 80 supply to guarantee instant liquidity  instantly turning ideas into tradable coins and making viral memecoins accessible with a click.Bonk.fun has ripped to the lead, capturing over 55 of Solanas token issuances, fueled by a fee structure that directs 50 of fees to BONK buybacks and burns  which removes over 500,000 of BONK daily.Binance stated that its dynamic system will enable early participants to gain exposure before listings on Binance Alpha or DEXs. Still, it also locks capital for the duration of the event and introduces price volatility from the outsetUsers can exit early by selling back into the bonding curve before the event ends, assuming theres demand. Otherwise, tokens unlock at the close and can be traded freely if listed.The math is simple but risky: if the curve steepens too quickly, late entrants pay significantly more. If early participants dump, prices can collapse before listings begin.Four.Memes ecosystem is valued at around 368 million as of Monday, and will be the first to test the format on Binance Wallet.It may not necessarily rush to buy wherever tokens are launched. A warning on the Binance Alpha alerts users that these tokens are associated with increased price volatility, higher risks, and lack guaranteed liquidity.BinanceTradingShaurya MalwaShaurya is the Co-Leader of the CoinDesk tokens and data team in Asia with a focus on crypto derivatives, DeFi, market microstructure, and protocol analysis.Shaurya holds over 1,000 in BTC, ETH, SOL, AVAX, SUSHI, CRV, NEAR, YFI, YFII, SHIB, DOGE, USDT, USDC, BNB, MANA, MLN, LINK, XMR, ALGO, VET, CAKE, AAVE, COMP, ROOK, TRX, SNX, RUNE, FTM, ZIL, KSM, ENJ, CKB, JOE, GHST, PERP, BTRFLY, OHM, BANANA, ROME, BURGER, SPIRIT, and ORCA.He provides over 1,000 to liquidity pools on Compound, Curve, SushiSwap, PancakeSwap, BurgerSwap, Orca, AnySwap, SpiritSwap, Rook Protocol, Yearn Finance, Synthetix, Harvest, Redacted Cartel, OlympusDAO, Rome, Trader Joe, and SUN.X iconLatest Crypto NewsCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoICP Rebounds Toward 5.50 After Early Morning Surge and Midday Volatility37 minutes agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday45 minutes agoWhy Bittensor Is AIs Best Next-Gen Incubator1 hour agoAAVE Surges as Deposits Hit 50B; Poised to Benefit From U.S. Crypto Regulation2 hours agoXRPs Implied Volatility Explodes, Suggests 13 Price Swing as Congress Crypto Week Kicks Off2 hours agoTop StoriesCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoSuperstate CEO Robert Leshner Buys Majority Stake in Shady Liquor Vendor With BTC Strategy3 hours agoRegime Change at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome Powell4 hours agoGrayscale Files Confidential Submission for IPO With SEC5 hours agoBitcoin Bears Urge Caution as BTC Price Tops 122K: Crypto Daybook Americas7 hours agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday45 minutes ago",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 12:15:49 +0000",
+      "author": "Shaurya Malwa",
+      "tags": [
+        "Markets",
+        "Binance",
+        "Trading",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:38:16.737188",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.839030",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 11366,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2025/07/14/michael-saylors-strategy-adds-4225-bitcoin-bringing-btc-stack-to-601550",
+      "title": "Michael Saylor's Strategy Adds 4,225 Bitcoin, Bringing BTC Stack to 601,550",
+      "description": "",
+      "content": "MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailMichael Saylors Strategy Adds 4,225 Bitcoin, Bringing BTC Stack to 601,550Sequans, K33, Tao Alpha and The Blockchain Group also expand their bitcoin treasuries as corporate crypto buying gathers momentum.ByJames Van StratenEdited byParikshit MishraUpdatedJul 14, 2025, 2:26 p.m.PublishedJul 14, 2025, 12:12 p.m.What to know:Michael Saylors Strategy (MSTR) bought 4,225 bitcoin (BTC) for 472.5 million during the period from July 7, to July 13.The acquisition was financed through sales of both common and preferred stock.The companys total bitcoin holdings now stand at 601,550 bitcoin acquired for 42.87 billion, or an average price of 71,268 each.Strategy(MSTR), the largest publicly traded company holding bitcoinBTC120,087.54, increased its BTC reserves by acquiring 4,225 BTC for a total of 472.5 million last week.This latest addition brings Strategys total bitcoin holdings to 601,550 BTC purchased for 42.87 billion, representing an average acquisition price of 71,268 per coin. At bitcoins current market price of around 121,500, the companys BTC stack is valued at approximately 73 billion.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.Strategy financed the purchase through 330.9 million of net proceeds from common share sales under its at-the-market program, along with 71.1 million from STRK preferred shares, 55.3 million from STRF preferred shares, and 15.0 million from STRD preferred shares.Altogether, these transactions generated 472.3 million in net proceeds to fund the latest bitcoin acquisition. MSTR shares rose 2.50 percent to 445.Public firms continue BTC buysSeveral other companies have also disclosed new bitcoin acquisitions on Monday. Sequans(SQNS)purchased 683 BTC, bringing its total holdings to 1,053 BTC.K33(K33 AB)acquired 36 BTC and now holds 121 BTC, crossing the threshold of more than 100 bitcoin. Tao Alpha(SATS)bought its first 28.56 BTC.The Blockchain Group acquired 29 BTC, lifting its total reserves to 1,933 BTC. In addition, toMetaplanets(3350)797 BTC purchase.BitcoinMicroStrategyJames Van StratenJames Van Stratenis a Senior Analyst at CoinDesk, specializing in Bitcoin and its interplay with the macroeconomic environment. Previously, James worked as a Research Analyst at Saidler  Co., a Swiss hedge fund, where he developed expertise in on-chain analytics. His work focuses on monitoring flows to analyze Bitcoins role within the broader financial system.In addition to his professional endeavors, James serves as an advisor to Coinsilium, a UK publicly traded company, where he provides guidance on their Bitcoin treasury strategy. He also holds investments in Bitcoin and Strategy (MSTR).X iconLatest Crypto NewsCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoICP Rebounds Toward 5.50 After Early Morning Surge and Midday Volatility37 minutes agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday45 minutes agoWhy Bittensor Is AIs Best Next-Gen Incubator1 hour agoAAVE Surges as Deposits Hit 50B; Poised to Benefit From U.S. Crypto Regulation2 hours agoXRPs Implied Volatility Explodes, Suggests 13 Price Swing as Congress Crypto Week Kicks Off2 hours agoTop StoriesCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoSuperstate CEO Robert Leshner Buys Majority Stake in Shady Liquor Vendor With BTC Strategy3 hours agoRegime Change at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome Powell4 hours agoGrayscale Files Confidential Submission for IPO With SEC5 hours agoBinance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme Partnership6 hours agoBitcoin Bears Urge Caution as BTC Price Tops 122K: Crypto Daybook Americas7 hours ago",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 12:12:27 +0000",
+      "author": "James Van Straten",
+      "tags": [
+        "Markets",
+        "Bitcoin",
+        "MicroStrategy",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:38:20.243870",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.851096",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 12380,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2025/07/14/bonk-surges-12-as-grayscale-monitoring-sparks-institutional-momentum",
+      "title": "BONK Surges 12% as Grayscale Monitoring Sparks Institutional Momentum",
+      "description": "",
+      "content": "MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailBONK Surges 12 as Grayscale Monitoring Sparks Institutional MomentumBONK rallies as Grayscale adds it to institutional monitoring, with 2.6T volume signaling growing Wall Street interest in meme coinsByJamie Crawley,CD AnalyticsEdited byParikshit MishraJul 14, 2025, 12:03 p.m.BONK-USD, July 14 2025 (CoinDesk)What to know:BONK gained 12 from 0.0000250 to 0.0000281 before consolidating at 0.0000265 (6.2).Grayscale Investments added BONK to its institutional monitoring list, boosting investor confidence.Volume peaked at 2.6 trillion tokens during the rally, with support forming at 0.00002610.0000264.BONK posted a sharp 12 intraday gain during the last 24 hours,climbing from 0.0000250 to 0.0000281before settling at 0.0000265, up 6.2.The Solana-based meme token surged following news that Grayscale Investmentsincluded BONK in its expanded institutional monitoring framework, signaling rising interest from asset managers and potential future product development.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.Trading momentum intensified beginning around 15:00 UTC on July 13, culminating in a high-volume breakout by 05:00 UTC on July 14. BONK recorded 2.6 trillion tokens in trading volume at its peak, more than double typical daily activity.Technical levels confirmed resistance at 0.0000281, where price action encountered sell-side pressure. However, support was established at 0.0000264, with institutional traders seen re-entering positions during pullbacks, potentially setting up for a future breakout, particularly if BONK can maintain momentum above 0.0000260.BONK also experienced a 3 swing during the final 60-minute session between 09:37 and 10:36 UTC, ranging from 0.0000260 to 0.0000268. While brief profit-taking drove prices to session lows around 0.0000260, renewed buying interest quickly stabilized the market.Technical Analysis HighlightsTrading range: 0.00002470.0000281, representing 14 volatility during the institutional breakout window.Peak volume: 2.6T tokens traded at 05:00 UTC, reflecting high conviction interest from large buyers.Resistance zone: 0.0000281 confirmed by rejection pattern; next test could signal breakout continuation.Support zone: 0.0000264 identified as institutional accumulation band; firmed by multiple bounces.Intraday dip: Brief move to 0.0000260 met with heavy buying; volume exceeded 75B tokens in late-session activity.Recovery zone: Market stabilized around 0.0000266 as selling pressure eased, forming bullish continuation structure.Disclaimer:Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence toour standards. For more information, seeCoinDesks full AI Policy.AI Market InsightsTechnical AnalysisJamie CrawleyJamie has been part of CoinDesks news team since February 2021, focusing on breaking news, Bitcoin tech and protocols and crypto VC. He holds BTC, ETH and DOGE.X iconCD AnalyticsCoinDesk Analytics is CoinDesks AI-powered tool that, with the help of human reporters, generates market data analysis, price movement reports, and financial content focused on cryptocurrency and blockchain markets.All content produced by CoinDesk Analytics is undergoes human editing by CoinDesks editorial team before publication. The tool synthesizes market data and information fromCoinDesk Dataand other sources to create timely market reports, with all external sources clearly attributed within each article.CoinDesk Analytics operates under CoinDesks AI content guidelines, which prioritize accuracy, transparency, and editorial oversight. Learn more about CoinDesks approach to AI-generated content in ourAI policy.Latest Crypto NewsCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoICP Rebounds Toward 5.50 After Early Morning Surge and Midday Volatility37 minutes agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday45 minutes agoWhy Bittensor Is AIs Best Next-Gen Incubator1 hour agoAAVE Surges as Deposits Hit 50B; Poised to Benefit From U.S. Crypto Regulation2 hours agoXRPs Implied Volatility Explodes, Suggests 13 Price Swing as Congress Crypto Week Kicks Off2 hours agoTop StoriesCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoSuperstate CEO Robert Leshner Buys Majority Stake in Shady Liquor Vendor With BTC Strategy3 hours agoRegime Change at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome Powell4 hours agoGrayscale Files Confidential Submission for IPO With SEC5 hours agoBinance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme Partnership6 hours agoBitcoin Bears Urge ",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 12:03:37 +0000",
+      "author": "CD Analytics",
+      "tags": [
+        "Markets",
+        "AI Market Insights",
+        "Technical Analysis",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:38:23.314166",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.864950",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 13577,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2025/07/14/clarity-act-could-be-a-game-changer-for-institutional-adoption-of-crypto-benchmark",
+      "title": "CLARITY Act Could be a Game Changer for Institutional Adoption of Crypto: Benchmark",
+      "description": "",
+      "content": "MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailCLARITY Act Could be a Game Changer for Institutional Adoption of Crypto: BenchmarkGalaxy Digital, Coinbase are exceptionally well positioned to benefit from increased adoption of digital assets once the act is passed, the report said.ByWill Canny,AI BoostEdited byParikshit MishraUpdatedJul 14, 2025, 2:19 p.m.PublishedJul 14, 2025, 12:01 p.m.U.S. Capitol, Washington, D.C. (lazyllamaShutterstock)What to know:Passage of the CLARITY Act is expected to accelerate institutional adoption of crypto, the report said.The legislation could provide regulatory clarity for traditional financial institutions, many of which have remained on the sidelines due to legal uncertainty, said Benchmarks Mark Palmer.The broker said Galaxy Digital and Coinbase are well positioned to benefit from this next wave of institutional adoption of crypto.The long-anticipated CLARITY Act may prove to be a game changer for digital asset markets, potentially ushering in a wave of institutional adoption, according to a note from Benchmark analyst Mark Palmer.The CLARITY Actaims to establish a clear regulatory framework for digital assets in the U.S., distinguishing cryptocurrencies as either commodities or securities.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.In a report published on Monday, Palmer said the legislation could provide long-sought regulatory clarity for traditional financial institutions, including asset managers, hedge funds, and banks, many of which have remained on the sidelines due to legal and compliance uncertainty.While the current Securities and Exchange Commission(SEC), under the leadership of Chairman Paul Atkins, has a constructive stance toward crypto, the absence of a codified regulatory framework means that the possibility still exists that a future, anti-crypto administration could quickly undo any pro-crypto rules the agency put in place, the analyst wrote.That vulnerability has made long-term planning difficult for institutional players looking to build out digital asset offerings, the report said. The act, if passed, could eliminate much of that uncertainty, providing a stable foundation for broader industry participation.Buy-rated Galaxy Digital and Coinbase are exceptionally well positioned to benefit from the increased institutional adoption of crypto that would likely happen once the act is passed, the report added.Read more:Digital Assets Are One Step Closer to Regulatory ClarityDisclaimer:Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence toour standards.For more information, seeCoinDesks full AI Policy.Cryptocurrency RegulationsGalaxy DigitalCoinbaseBenchmarkAnalystsWill CannyWill Canny is an experienced market reporter with a demonstrated history of working in the financial services industry. Hes now covering the crypto beat as a finance reporter at CoinDesk. He owns more than 1,000 of SOL.X iconAI BoostAI Boost indicates a generative text tool, typically an AI chatbot, contributed to the article. In each and every case, the article was edited, fact-checked and published by a human.Read more about CoinDesks AI Policy.Latest Crypto NewsCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoICP Rebounds Toward 5.50 After Early Morning Surge and Midday Volatility37 minutes agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday45 minutes agoWhy Bittensor Is AIs Best Next-Gen Incubator1 hour agoAAVE Surges as Deposits Hit 50B; Poised to Benefit From U.S. Crypto Regulation2 hours agoXRPs Implied Volatility Explodes, Suggests 13 Price Swing as Congress Crypto Week Kicks Off2 hours agoTop StoriesCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoSuperstate CEO Robert Leshner Buys Majority Stake in Shady Liquor Vendor With BTC Strategy3 hours agoRegime Change at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome Powell4 hours agoGrayscale Files Confidential Submission for IPO With SEC5 hours agoBinance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme Partnership6 hours agoBitcoin Bears Urge Caution as BTC Price Tops 122K: Crypto Daybook Americas7 hours ago",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 12:01:34 +0000",
+      "author": "AI Boost",
+      "tags": [
+        "Markets",
+        "Cryptocurrency Regulations",
+        "Galaxy Digital",
+        "Coinbase",
+        "Benchmark",
+        "Analysts",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:38:26.749351",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.875484",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 7234,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2025/07/14/digital-asset-fund-flows-hit-37b-last-week-2nd-highest-on-record-coinshares",
+      "title": "Digital Asset Fund Flows Hit $3.7B Last Week, 2nd-Highest on Record: CoinShares",
+      "description": "",
+      "content": "MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailDigital Asset Fund Flows Hit 3.7B Last Week, 2nd-Highest on Record: CoinSharesThe weeks flows are second only to those of the week ending Dec. 6 last year when they surpassed 4 billionByJamie CrawleyEdited bySheldon RebackUpdatedJul 14, 2025, 2:11 p.m.PublishedJul 14, 2025, 11:34 a.m.Fund flows for week-ending July 11 (CoinSharesBloomberg)What to know:Digital asset funds saw 3.7 billion of inflows last week, the second-largest figure on record, CoinShares said in its weekly roundup.The 13th consecutive week of gains by crypto investment products took total asset under management past 200 billion for the first time.Bitcoin products accounted for 2.7 billion of the inflows taking the total assets under management to 179.5 billion.Digital asset funds saw 3.7 billion of inflows last week, the second-largest figure on record, according to data tracked by crypto asset manager CoinShares.The flows are surpassed only by those in the week ended Dec. 6 last year, when they topped 4 billion, the Jersey-based company said in itsweekly roundupon Monday.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.The 13th consecutive week of gains by crypto investment products took total asset under management(AUM)past 200 billion for the first time, reaching 211 billion.U.S.-listed products dominated the inflows with nearly 3.74 billion registered, while products in Germany and Sweden saw outflows of 85.7 million and 15.7 million respectively.Bitcoin products accounted for 2.7 billion of the inflows taking the total AUM to 179.5 billion, which is equal to 54 of the AUM held in gold exchange-traded products(ETPs), CoinShares said.The week ended July 11 saw a kickstart to the crypto bull market, with bitcoin gaining nearly 10 to clock an all-time high of around 118,000. This has continued into the current week, with BTC climbing as high as 122,873.45,according to CoinDesk data.CoinSharesFundsFund flowsJamie CrawleyJamie has been part of CoinDesks news team since February 2021, focusing on breaking news, Bitcoin tech and protocols and crypto VC. He holds BTC, ETH and DOGE.X iconLatest Crypto NewsCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoICP Rebounds Toward 5.50 After Early Morning Surge and Midday Volatility37 minutes agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday45 minutes agoWhy Bittensor Is AIs Best Next-Gen Incubator1 hour agoAAVE Surges as Deposits Hit 50B; Poised to Benefit From U.S. Crypto Regulation2 hours agoXRPs Implied Volatility Explodes, Suggests 13 Price Swing as Congress Crypto Week Kicks Off2 hours agoTop StoriesCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoSuperstate CEO Robert Leshner Buys Majority Stake in Shady Liquor Vendor With BTC Strategy3 hours agoRegime Change at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome Powell4 hours agoGrayscale Files Confidential Submission for IPO With SEC5 hours agoBinance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme Partnership6 hours agoBitcoin Bears Urge Caution as BTC Price Tops 122K: Crypto Daybook Americas7 hours ago",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 11:34:04 +0000",
+      "author": "Jamie Crawley",
+      "tags": [
+        "Markets",
+        "CoinShares",
+        "Funds",
+        "Fund flows",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:38:30.352077",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.888971",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 8138,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/daybook-us/2025/07/14/bitcoin-bears-urge-caution-as-btc-price-tops-122k-crypto-daybook-americas",
+      "title": "Bitcoin Bears Urge Caution as BTC Price Tops $122K: Crypto Daybook Americas",
+      "description": "",
+      "content": "Crypto Daybook AmericasShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailBitcoin Bears Urge Caution as BTC Price Tops 122K: Crypto Daybook AmericasYour day-ahead look for July 14, 2025ByOmkar Godbole,Shaurya MalwaEdited bySheldon RebackJul 14, 2025, 11:15 a.m.(Shutterstock)What to know:You are viewing Crypto Daybook Americas, your morning briefing on what happened in the crypto markets overnight and whats expected during the coming day. Crypto Daybook Americas will arrive in your inbox at 7 a.m. ET to kickstart your morning with comprehensive insights. If youre not already subscribed, clickhere. You wont want to start your day without it.By Omkar Godbole(All times ET unless indicated otherwise)The crypto market is asea of greenwith top coins extending near-vertical rallies that began over two weeks ago. BitcoinBTC120,087.54climbed above 122,000 for the first time on record, outpacing gold to become the best-performing asset in 2025.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.The rally has the crypto community identifying bitcoin price targets ranging from 140,000 to 200,000. Some observers, however, cautioned against getting carried away by the bull momentum.While some analysts project 130-140K targets, history teaches us that parabolic moves often invite sharp corrections, said Marcin Kazmierczak, a co-founder of blockchain oracle Redstone. The industrys maturation is real, institutional infrastructure, regulatory clarity, and use cases are all advancing. Yet this very maturation demands we approach these milestones with professional discipline rather than euphoria.Kazmierczak noted that while the technical breakout is undeniable, the market hasnt seen a correction in over 47 days. More than 276m in leveraged positions were liquidated in the last 24 hours alone, reminding us that volatility remains bitcoins constant companion, he added.More caution shows in options market activity on Deribit, which suggests traders are in no rush to take bullish speculative bets. One-month risk reversals, measuring the pricing differential between bullish calls and bearish puts, are flat even as the spot price trades at record highs.By contrast, September and December risk reversals continue to show a firm bid for calls, which could indicate a preference to hedge against short-term volatility while maintaining a longer-term bullish outlook, Singapore-based QCP Capital said in a market update.Looking ahead, Congress so-calledCrypto Weekcould see lawmakers discuss the CLARITY Act, the GENUIS Act and the Anti-CBDC Surveillance Act. Clarity on the regulatory front could bode well for top tokens, stablecoins and, especially, tokenization. As Kazmierczak said in his analysis, the real opportunity lies not in speculative trading, but in building the infrastructure for programmable money and asset tokenization.Tuesdays U.S. inflation data is likely to show a renewed uptick in inflation in June. According to analysts, it may not matter much to crypto, which is being driven higher by factors other than Fed rate-cut odds. Nevertheless, potential dollar strength on the back of inflation data could affect the crypto market. Stay alert!What to WatchCryptoJuly 14, 10 p.m.: Singapore High Courthearingon WazirXs Scheme of Arrangement, marking a critical step in the exchanges restructuring after the 234 million hack on July 18, 2024.July 15: Alchemiststaking updatelaunches, allowing token holders to stake ALCH for access to advanced features, premium benefits and ecosystem rewards, potentially boosting token utility and demand.July 15:Lynqisexpected to debutits real-time, interest-bearing digital-asset settlement network for institutions. Built on Avalanches layer-1 blockchain and powered by Arcas tokenized U.S. Treasury fund shares, Lynq enables instant settlement, continuous yield accrual and improved capital efficiency.July 15, 6 a.m.: Layer 1 blockchainAlephium(ALPH)activatesthe Danube hard fork upgrade on its mainnet, promising 8-second block times, 20,000 TPS, groupless addresses, passkey login, chained transaction and enhanced developer tools.July 15, 1 p.m.:Caffeine, an AI-powered platform that lets anyone build Web3 decentralized apps(dapps)using natural language, launches publicly at the Hello, Self-Writing Interneteventin San Francisco. Caffeine usesInternet Computer(ICP)technology to generate fully on-chain, production-ready apps.Livestream link.July 15, 3 p.m.: U.S. Senate Committee on Agriculture, Nutrition, and Forestry holds a market structurehearingtitled Stakeholder Perspectives on Federal Oversight of Digital Commodities.Livestream link.July 16, 9 a.m.: U.S. House Ways and Means Committeeoversight hearingtitled Making America the Crypto Capital of the World: Ensuring Digital Asset Policy Built for the 21s",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 11:15:00 +0000",
+      "author": "Shaurya Malwa",
+      "tags": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:38:34.387154",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.900397",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 9304,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2025/07/14/bhutan-quietly-sells-59m-in-bitcoin-as-btc-hits-123k-still-holds-over-14b-in-reserves",
+      "title": "Bhutan Quietly Sells $59M in Bitcoin as BTC Hits $123K, Still Holds Over $1.4B in Reserves",
+      "description": "",
+      "content": "MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailBhutan Quietly Sells 59M in Bitcoin as BTC Hits 123K, Still Holds Over 1.4B in ReservesMuch of this strategy is executed via Druk Holding  Investments (DHI), the nations sovereign wealth fund, which began mining bitcoin by utilizing the countrys abundant hydropower.ByShaurya MalwaEdited byParikshit MishraUpdatedJul 14, 2025, 2:04 p.m.PublishedJul 14, 2025, 11:01 a.m.Bhutan (Sittichok GlomvinyaPixabay)What to know:Bhutan has sold over 512.84 BTC, valued at 59.47 million, in the past four days as Bitcoin prices surged.Despite recent sales, Bhutan retains 11,411 BTC, worth over 1.4 billion, from its state-backed mining activities.The nations strategy involves using its hydropower resources for Bitcoin mining through Druk Holding  Investments.Bhutan is cashing in on crypto, again.The tiny Himalayan nation accelerated sales from its crypto treasury and offloaded over 512.84 bitcoinBTC119,923.56, worth 59.47 million, in the past four days, according to blockchain tracking platform Lookonchain, as BTC soared to over 123,000.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.Bhutan still holds 11,411 BTC even after this round of selling, a stack currently valued at over 1.4 billion, per Lookonchain.The Royal Government ofBhutanhas been accelerating itsBTCsales!In the past 4 days alone,Bhutansold 512.84BTC(59.47M)  selling every day.They still hold 11,411BTC(1.4B).https:t.cohiNf1ySQhUhttps:t.codcqekOeedcpic.twitter.comb3cQy0ryk8 Lookonchain (lookonchain)July 14, 2025Unlike Germany  whichsold nearly 50,000 BTCit had earlier seized into a rising market last year  Bhutans BTC holdings come from its state-backed mining activities and officials tend to sell holdings whenever prices rally.Much of this strategy is executed via Druk Holding  Investments(DHI), the nations sovereign wealth fund, which began mining Bitcoin by utilizing the countrys abundant hydropower.As such, the government has committed to clean mining practices and is developing crypto-forward infrastructure projects like Gelephu Mindfulness City in partnership with firms like Bitdeer.Read more:Bhutan Bets on Binance Pay to Power Crypto-Backed Tourism EconomyBhutanBitcoinShaurya MalwaShaurya is the Co-Leader of the CoinDesk tokens and data team in Asia with a focus on crypto derivatives, DeFi, market microstructure, and protocol analysis.Shaurya holds over 1,000 in BTC, ETH, SOL, AVAX, SUSHI, CRV, NEAR, YFI, YFII, SHIB, DOGE, USDT, USDC, BNB, MANA, MLN, LINK, XMR, ALGO, VET, CAKE, AAVE, COMP, ROOK, TRX, SNX, RUNE, FTM, ZIL, KSM, ENJ, CKB, JOE, GHST, PERP, BTRFLY, OHM, BANANA, ROME, BURGER, SPIRIT, and ORCA.He provides over 1,000 to liquidity pools on Compound, Curve, SushiSwap, PancakeSwap, BurgerSwap, Orca, AnySwap, SpiritSwap, Rook Protocol, Yearn Finance, Synthetix, Harvest, Redacted Cartel, OlympusDAO, Rome, Trader Joe, and SUN.X iconLatest Crypto NewsCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoICP Rebounds Toward 5.50 After Early Morning Surge and Midday Volatility37 minutes agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday45 minutes agoWhy Bittensor Is AIs Best Next-Gen Incubator1 hour agoAAVE Surges as Deposits Hit 50B; Poised to Benefit From U.S. Crypto Regulation2 hours agoXRPs Implied Volatility Explodes, Suggests 13 Price Swing as Congress Crypto Week Kicks Off2 hours agoTop StoriesCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoSuperstate CEO Robert Leshner Buys Majority Stake in Shady Liquor Vendor With BTC Strategy3 hours agoRegime Change at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome Powell4 hours agoGrayscale Files Confidential Submission for IPO With SEC5 hours agoBinance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme Partnership6 hours agoBitcoin Bears Urge Caution as BTC Price Tops 122K: Crypto Daybook Americas7 hours ago",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 11:01:28 +0000",
+      "author": "Shaurya Malwa",
+      "tags": [
+        "Markets",
+        "Bhutan",
+        "Bitcoin",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:38:36.853194",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.911924",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 10510,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2025/07/14/ether-sees-record-short-build-up-as-hedge-funds-pile-on-basis-trade",
+      "title": "Ether Sees Record Short Build up as Hedge Funds Pile on Basis Trade",
+      "description": "",
+      "content": "MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailEther Sees Record Short Build up as Hedge Funds Pile on Basis TradeTraders can capture an annualized yield of up to 9.5 by shorting ETH on the CME exchange.ByOliver KnightEdited byParikshit MishraUpdatedJul 14, 2025, 1:59 p.m.PublishedJul 14, 2025, 10:49 a.m.(Unsplash)What to know:Hedge funds have built a 1.73 billion short position on ether (ETH) CME contracts, using a basis trade strategy to earn yield during ETHs rally to 3,000.The trade involves shorting ETH futures on CME while buying spot ETFs, capturing an annualized yield of 9.5, with ETH ETFs seeing record 421M inflows in a single day.Traders can enhance returns by staking spot ETH for an additional 3.5 yield.Hedge funds have been aggressively shorting ether(ETH)during the recent uptick to 3,000 as they attempt to harvest a yield by carrying out a basis trade.Hedge funds are shorting ether to the tune of 1.73 billion on the CME, a venue favored by institutional traders, according to data from the Block, which cites the CFTC. CME data also shows that ether leveraged net totals have skewed heavily to the short side, according to X accountzerohedge.STORY CONTINUES BELOWDont miss another story.Subscribe to the Crypto Daybook Americas Newsletter today.See all newslettersSign me upBy signing up, you will receive emails about CoinDesk products and you agree to ourterms of useandprivacy policy.Ether leveraged shorts going all-in: biggest short on recordpic.twitter.comPYuDvJdMhW zerohedge (zerohedge)July 13, 2025A basis trade involves shorting an asset on one venue whilst simultaneously buying on another, remaining delta neutral in terms of price action. In this case, traders can securearound 9.5 per yearby shorting ETH on the CME while buying spot ETFs, of which there is around 12 billion in assets under management.Data fromCoinglassshows that on Thursday alone there was a record 421 million worth of inflows to ether ETFs, a trend that has been ongoing since early May.Those shorting ETH could secure an additional yield if they buy spot ETH and stake it for a further 3.5 per year. Its worth noting that this option isnt possible for spot ETF purchasers as custody is handled by the ETF provider.BitcoinBTC119,923.56was a popular asset for traders carrying out the basis trade in 2024 but that yieldcollapsed in March, which temporarily stalled inflows and muted price action.Etherether ETFHedge FundOliver KnightOliver Knight is the co-leader of CoinDesk data tokens and data team. Before joining CoinDesk in 2022 Oliver spent three years as the chief reporter at Coin Rivet. He first started investing in bitcoin in 2013 and spent a period of his career working at a market making firm in the UK. He does not currently have any crypto holdings.X iconLatest Crypto NewsCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoICP Rebounds Toward 5.50 After Early Morning Surge and Midday Volatility38 minutes agoHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday45 minutes agoWhy Bittensor Is AIs Best Next-Gen Incubator1 hour agoAAVE Surges as Deposits Hit 50B; Poised to Benefit From U.S. Crypto Regulation2 hours agoXRPs Implied Volatility Explodes, Suggests 13 Price Swing as Congress Crypto Week Kicks Off2 hours agoTop StoriesCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute27 minutes agoSuperstate CEO Robert Leshner Buys Majority Stake in Shady Liquor Vendor With BTC Strategy3 hours agoRegime Change at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome Powell4 hours agoGrayscale Files Confidential Submission for IPO With SEC5 hours agoBinance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme Partnership6 hours agoBitcoin Bears Urge Caution as BTC Price Tops 122K: Crypto Daybook Americas7 hours ago",
+      "source": "coindesk",
+      "published_date": "Mon, 14 Jul 2025 10:49:31 +0000",
+      "author": "Oliver Knight",
+      "tags": [
+        "Markets",
+        "Ether",
+        "ether ETF",
+        "Hedge Fund",
+        "News"
+      ],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:38:38.934482",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.924208",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 11517,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://finance.yahoo.com/news/mexico-peso-becomes-unlikely-winner-143634623.html?.tsrc=rss",
+      "title": "Mexico’s Peso Becomes Unlikely Winner in Trump’s Trade War",
+      "description": "(Bloomberg) -- Betting on Mexico’s currency has paid off for investors even amid Donald Trump’s trade war.Most Read from BloombergWhy Did Cars Get So Hard to See Out Of?How German Cities Are Rethinking Women’s Safety — With TaxisAdvocates Fear US Agents Are Using ‘Wellness Checks’ on Children as a Prelude to ArrestsThe peso is up 11% this year, beating all regional peers, even as it dipped Monday following the latest tariff news — a threat of a 30% levy announced over the weekend. It is also one",
+      "content": "Mexicos Peso Becomes Unlikely Winner in Trumps Trade War1 3Mexicos Peso Becomes Unlikely Winner in Trumps Trade WarKelsey Butler and Maria Elena VizcainoMon, Jul 14, 2025, 1:07 PM3 min readIn This Article:MXNX0.50MXNUSDX0.00USDX0.00(Bloomberg) -- Betting on Mexicos currency has paid off for investors even amid Donald Trumps trade war.Most Read from BloombergWhy Did Cars Get So Hard to See Out Of?How German Cities Are Rethinking Womens Safety  With TaxisAdvocates Fear US Agents Are Using Wellness Checks on Children as a Prelude to ArrestsThe peso is up 11 this year, beating all regional peers, even as it dipped Monday following the latest tariff news  a threat of a 30 levy announced over the weekend. It is also one of the best performing in emerging markets.Mexicos high interest rates and President Claudia Sheinbaums tempered approach toward Trump have helped lure in cash from investors reallocating money away from the US. And after months of repeated delays on the implementation of tariffs, money managers have grown more complacent, with reactions to fresh announcements largely contained as they look past Trumps threats to focus on the medium-term outlook.Markets know the drill, said Marco Oviedo, a senior strategist at XP Investimentos in Sao Paulo. The only risk that I see is if the Mexican government fails to deliver something that Trump wants on drug control that might leave tariffs high for longer or negotiations in limbo.Mexicos strong economic ties to the US have also worked in the pesos favor. The US doesnt intend to apply the 30 rate to USMCA-compliant goods, a White House official said on Saturday. The administration has previously said it will keep the exemption for Canada.Although Mexican officials were taken aback by Trumps latest tariff threat, US Ambassador to Mexico Ronald Johnson said Saturday in Mexico City that Sheinbaum and Trump have a wonderful relationship and no partnership should be easier than between their two countries.Sheinbaum said Monday during her daily press conference that her government expects to reach a tariff deal with the US before an Aug. 1 deadline and has a plan if talks fail. Shes expected to meet later today with a Mexican trade negotiating team that was in Washington on Friday discussing the issue.The countrys rate differentials are another factor helping prop up the currency. The central bank has been cautious when lowering interest rates, keeping the peso on the radar of carry traders who borrow in lower-yielding currencies to buy those that offer higher yields.After delivering a half-point cut that left the key rate at 8 last month, Governor Victoria Rodriguez embraced the likelihood of smaller reductions going forward in a July 9 speech. That helped the peso inch higher last week, outperforming as developing-world currencies slipped amid the latest barrage of tariff announcements.Story ContinuesThe rally in Mexico has gone beyond the currency. Local bonds and stocks have also gained in the wake of Trumps so-called Liberation Day on April 2 amid a positive backdrop for emerging markets as the dollar slips.The peso is trading incredibly well in the face of this, said Eric Fine, portfolio manager for emerging markets debt at Van Eck Associates. This reaction has many explanations, but EMFX and interest rates have had a great year despite tariff-dominated news flow.(Updates with additional details on USMCA, Sheinbaum comments and asset moves starting in fifth paragraph)Most Read from Bloomberg BusinessweekOur Goal Is to Get Their Money: Inside a Firm Charged With Scamming Writers for MillionsThailands Changing Cannabis Rules Leave Farmers in a Tough SpotThe Turbulence Is Brutal: Four Shark Tank Businesses on TariffsTrumps Cuts Are Making Federal Data DisappearTrade War? No ProblemIf You Run a Trade School2025 Bloomberg L.P.TermsandPrivacy PolicyPrivacy DashboardMore Info",
+      "source": "yahoo_finance_crypto",
+      "published_date": "Mon, 14 Jul 2025 16:07:47 +0000",
+      "author": "",
+      "tags": [],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "macro",
+      "extraction_timestamp": "2025-07-14T15:39:15.758292",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.936225",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 12511,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://finance.yahoo.com/news/crypto-asset-manager-grayscale-files-155733855.html?.tsrc=rss",
+      "title": "Crypto Asset Manager Grayscale Files Confidentially for US IPO",
+      "description": "(Bloomberg) -- Grayscale Investments LLC has filed confidentially for a US initial public offering, the latest cryptocurrency-related company to tap public markets with digital assets led by Bitcoin hitting record highs.Most Read from BloombergWhy Did Cars Get So Hard to See Out Of?How German Cities Are Rethinking Women’s Safety — With TaxisAdvocates Fear US Agents Are Using ‘Wellness Checks’ on Children as a Prelude to ArrestsThe crypto asset manager on Monday announced that it had submitted a",
+      "content": "Crypto Asset Manager Grayscale Files Confidentially for US IPOIsabelle Lee and Anthony HughesMon, Jul 14, 2025, 12:57 PM3 min readIn This Article:COINBLKCRCLBTC-USDGBTC(Bloomberg) -- Grayscale Investments LLC has filed confidentially for a US initial public offering, the latest cryptocurrency-related company to tap public markets with digital assets led by Bitcoin hitting record highs.Most Read from BloombergWhy Did Cars Get So Hard to See Out Of?How German Cities Are Rethinking Womens Safety  With TaxisAdvocates Fear US Agents Are Using Wellness Checks on Children as a Prelude to ArrestsThe crypto asset manager on Monday announced that it had submitted a draft registration statement on Form S-1 to the US Securities and Exchange Commission. The number of shares to be registered as well as the price range have not yet been determined, the company said.Founded in 2013, Grayscale launched the first publicly-traded Bitcoin fund and the first Ethereum investment fund. The company now has more than 33 billion in assets under management and more than three dozen products, according to its website.Grayscale declined to comment, citing a regulatory quiet period due to the active filing and pointed to its press release published earlier Monday.The move comes a few months after Gemini, the crypto firm backed by the billionaire Winklevoss twins, filed confidentially for an IPO. It also comes after the frenzied debut of stablecoin issuer Circle Internet Group Inc. in June, further cementing crypto technologies into mainstream finance. Circles 1.1 billion IPO has been the highest-profile crypto debut since Coinbase Global Inc. went public in a 2021 direct listing.Companies typically pursue confidential IPO filings to maintain greater control over the process and limit reputational risk. This approach allows them to engage with regulators and respond to SEC feedback without public scrutiny. Publicly announcing a confidential filing, on the other hand, can serve strategic purposes such as building market momentum and gauging investor interest.Grayscale is known for being one of the key factors in getting spot-Bitcoin exchange-traded funds approved in the US. The firm, a unit of Digital Currency Group and a part of the conglomerate built by billionaire investor Barry Silbert, in 2023 scored a legal victory in federal court with its bid to turn its Grayscale Bitcoin Trust into the first US ETF that would invest directly in the largest digital coin. Months later, a dozen spot-Bitcoin ETFs were launched including those by BlackRock Inc and Fidelity Investments Inc.The 21 billion Grayscale Bitcoin Trust ETF (ticker GBTC) has now been eclipsed by BlackRocks iShares Bitcoin Trust ETF (IBIT), which has three times the amount assets. Whereas GBTC has a 1.5 expense ratio, IBIT just has 0.25.Story ContinuesThis year, Bitcoin has notched multiple records  now at the 120,000 for the first time on rising investor enthusiasm as the US House of Representatives prepares to consider key industry legislation during its Crypto Week. The prospect of a clear US regulatory framework, along with Bitcoins steady advance in the face of President Donald Trumps chaotic trade policy, has bolstered confidence in the asset class among institutional investors.The company is expected to go public later this year based on typical IPO timelines, though the exact timing will depend on market conditions and remains subject to change.Most Read from Bloomberg BusinessweekOur Goal Is to Get Their Money: Inside a Firm Charged With Scamming Writers for MillionsThailands Changing Cannabis Rules Leave Farmers in a Tough SpotThe Turbulence Is Brutal: Four Shark Tank Businesses on TariffsTrumps Cuts Are Making Federal Data DisappearTrade War? No ProblemIf You Run a Trade School2025 Bloomberg L.P.TermsandPrivacy PolicyPrivacy DashboardMore Info",
+      "source": "yahoo_finance_crypto",
+      "published_date": "Mon, 14 Jul 2025 15:57:33 +0000",
+      "author": "",
+      "tags": [],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:39:19.891617",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.949224",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 13468,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://finance.yahoo.com/news/trump-fires-fed-powell-both-151412659.html?.tsrc=rss",
+      "title": "If Trump fires the Fed’s Powell ‘both the currency and the bond market can collapse,’ according to Deutsche Bank",
+      "description": "Deutsche Bank's explosive scenario in a note titled, “What if ?”",
+      "content": "If Trump fires the Feds Powell both the currency and the bond market can collapse, according to Deutsche BankJim EdwardsMon, Jul 14, 2025, 9:14 AM4 min readIn This Article:USDXIf President Trump gets his way and removes Jerome Powellas chairman of the U.S. Federal Reserve, the market reaction would be swift and brutal, Deutsche Banks George Saravelos argues. It could collapse the currency and bond markets, he says in a note seen byFortune. Polymarket puts the chances of a Powell ouster at 19. We consider the removal of Chair Powell as one of the largest under-priced event risks, Saravelos says.Deutsche Bankpublished an explosive research note over the weekend titled simply, What if ? (And yes, it includes that idiosyncratic use of extra spaces in front of the question mark.)Written by Global Head of FX Research George Saravelos, it explores what might happen if President Trump gets his way and forces Jerome Powell out of the chairmanship of the U.S. Federal Reserve in order to replace him with someone who agrees with Trump that interest rates should be lower.We believe the market reaction would be large, the note says. The empirical and academic evidence on the impact of a loss of central bank independence is fairly clear: in extreme cases, both the currency and the bond market can collapse as inflation expectations move higher, real yields drop and broader risk premia increase on the back of institutional erosion.Saravelos declined further comment when reached byFortune.The note is important because while most investors do not believe it islikelythat Trump can actually replace Powell before his term is up next May, they do not believe it isimpossible.Bettors on Polymarket, the crypto predictions exchange, currently put the chance of Powells removal at 19.Until recently, Trumps hatred of Powell was expressed mostly through angry social media posts. He has given Powell a nickname, Too Late,and said he has beenwhining like a baby about non-existent Inflation for months, and refusing to do the right thing.But last week, the threat against Powell became more real when Russ Vought, director of the Office of Management and Budget,sent Powell a letterdemanding that he answer a series of questions about the renovation of the Feds HQ.He gave Powell seven business days to replya deadline that expires on July 21.Vought alleges that Powell misled Congress when he testified recently that the renovation did not include luxurious touches such as a roof garden with a set of beehives.There are no new water features. Theres no beehives and theres no roof terrace garden,Powell said.Vought says that those elements were in the plan approved by the National Capital Planning Commission, and if Powell has changed the construction plans, then thats a violation of the National Capital Planning Act because the renovation is not following the approved plan.Story ContinuesPowellhas askedthe Inspector Generals office to reviewthe renovations.This spat over construction plans could have punishing effects on the asset markets, Saravelos said in his note.It is stating the obvious that investors would likely interpret such an event as a direct affront to Fed independence, putting the central bank under extreme institutional duress. With the Fed sitting at the pinnacle of the global dollar monetary system, it is also stating the obvious that the consequences would reverberate far beyond US borders, he wrote.Saravelos said a removal of Powell would be far worse than President Nixons imposition of Arthur Burns on the Fed in the 1970s. Nixon and Burns, like Trump, were fixated on lowering interest ratesand thus fuelled the stagflation of that decade.Today, the US is running a much larger twin deficit and negative foreign asset position, capital markets are far more open and disproportionately skewed towards US asset allocation, and the global exchange rate system is free-floating as opposed to fixed. All these ingredients argue for significantly greater global disruption than in the 1970s, Saravelos warned.The first warning sign would be a sharp fall in the value of the U.S. dollar. The greenback has already fallen 9.75 this year, its worst first-half performance in years.It is hard to quantify the impact on FX and rates, but on the first 24 hours of an announcement of a Powell removal, we would expect a drop in the trade-weighted dollar of at least 3-4 accompanied by a 30-40bps sell-off in US fixed income led by the back-end. Similar to the experience in April, we would expect the correlation between the bond market and the dollar to turn sharply positive (both down), Saravelos said.The situation would be similar to what happened in Turkiye, where President Recep Tayyip Erdoğan maintains political control of the Central Bank of Turkey.Like Trump, Erdogan has a strong dislike for high interest rates and, as a result, the inflation rate in Turkiye is currently 35.In sum, we consider the removal of Chair Powell as one of the largest under-priced ",
+      "source": "yahoo_finance_crypto",
+      "published_date": "Mon, 14 Jul 2025 15:14:12 +0000",
+      "author": "",
+      "tags": [],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "macro",
+      "extraction_timestamp": "2025-07-14T15:39:26.115457",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.960726",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 7234,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://finance.yahoo.com/news/bitcoin-rally-driven-more-institutional-150957683.html?.tsrc=rss",
+      "title": "Bitcoin rally seems to be driven more by institutional demand than speculation",
+      "description": "(Reuters) -As bitcoin hit a record high on Monday, evidence from institutional flows and derivatives suggested its rally might be more stable and lasting than previous speculative runs.  Analysts said bitcoin's surge is driven this time by institutional flows and reflects its evolution into a more stable asset, sought after as investors seek diversification from market volatility and a wobbly U.S. dollar.  At the same time, open interest in bitcoin futures rose to a record $57.4 billion as of Friday, data from CoinDesk shows.",
+      "content": "Bitcoin rally seems to be driven more by institutional demand than speculationPatturaja MurugaboopathyMon, Jul 14, 2025, 12:09 PM2 min readIn This Article:BTC-USDUSDXBy Patturaja Murugaboopathy(Reuters) -As bitcoin hit a record high on Monday, evidence from institutional flows and derivatives suggested its rally might be more stable and lasting than previous speculative runs.Bitcoin (BTC-USD) crossed 120,000 for the first time on optimism over upcoming U.S. House discussions on digital asset regulation, extending its gains this year to about 30.The rise has been fuelled by strong flows into bitcoin exchange-traded funds (ETFs) and rising corporate treasury allocations.Analysts said bitcoins surge is driven this time by institutional flows and reflects its evolution into a more stable asset, sought after as investors seek diversification from market volatility and a wobbly U.S. dollar.Institutional inflows tend to be longer-term and less prone to rapid reversal, lending greater stability and durability to the current rally.Bitcoin ETFs have made a strong start to July, attracting 3.4 billion in inflows so far. That includes a record 2.2 billion over the past two days, the largest two-day net inflow on record, according to data from Farside Investors.At the same time, open interest in bitcoin futures rose to a record 57.4 billion as of Friday, data from CoinDesk shows.Open interest tracks the total value of outstanding futures contracts, and a sustained rise often points to greater institutional involvement, as larger investors tend to hold bigger, longer-term positions and use futures for hedging.Yet, funding rates in the futures market remain subdued. According to CoinDesk, the annualised funding rate stood at 10, well below the 80 peaks of 2023 and 40 at the end of last year.The funding rate reflects the cost traders pay to keep bullish, leveraged bets open in the futures market. A decline signals theyre less willing to pay to stay in those positions  a sign of reduced speculative demand.Glassnode data shows bitcoins estimated leverage ratio has declined to 0.25, down from 0.32 at the start of 2025.The leverage ratio compares how large traders futures bets are relative to the amount of bitcoin on exchanges. A lower ratio means those bets are backed by more real capital and less borrowed money.Glassnode data also showed an increase in short liquidations as traders betting against bitcoin bought back the token as prices rose, adding momentum to the rally.(Reporting By Patturaja Murugaboopathy in BengaluruEditing by Vidya Ranganathan and Jane Merriman)TermsandPrivacy PolicyPrivacy DashboardMore Info",
+      "source": "yahoo_finance_crypto",
+      "published_date": "Mon, 14 Jul 2025 15:09:57 +0000",
+      "author": "",
+      "tags": [],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "crypto",
+      "extraction_timestamp": "2025-07-14T15:39:46.436169",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.971183",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 7976,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    },
+    {
+      "url": "https://www.nbcnews.com/business/markets/bitcoin-sets-record-rcna218616?.tsrc=rss",
+      "title": "Bitcoin surges past $120,000, riding momentum in D.C. and markets",
+      "description": "The value of a single bitcoin surpassed $120,000 early Monday, the latest record price for the digital token.",
+      "content": "Theres debate about how much higher bitcoin will go in the rest of the year.Andrey Rudakov  Bloomberg via Getty ImagesJuly 14, 2025, 11:01 AM EDTByRob WileThe value of a single bitcoin surpassed 120,000 early Monday, the latest record price for the digital token that has set multiple all-time highs in recent weeks amid bullishness about developments on Capitol Hill and concerns about inflation and the U.S. dollars declining value.Because itremains prone to large price swings, bitcoins trajectory tends to track that of riskier assets like tech stocks  although it has outperformed those soundly in 2025. Year-to-date through Friday, only gold  up 27.7  has outperformed bitcoin, up 25.9. By comparison, the tech-focused Nasdaq 100 index has gained 8.7, while the broad SP 500 has climbed 7.Early Monday morning, the nearly 20 million individual bitcoins in existence are worth a combined 2.4 trillion, making the entire asset class the worlds fifth-most valuable, surpassing Amazon and closing in on Apple,according to crypto news site CoinTelegraph.com. Apple had a 3.1 trillion market valuation as of Monday morning.Most of this years gains have come in the past few weeks. Theyve been fueled by a host of factors, including the partial pause in President Donald Trumps trade war and the passage of his tax cut and spending bill, which, on balance, cuts taxes while also increases the U.S.s debt  both bullish for increased bitcoin investment.The dollars declining value relative to other currencieshas also made bitcoin a more attractive asset to own as a hedge among international investors against potential changes to the dollars status as reserve currency.Finally, theres beenincreased interest among large financial firms in crypto thanks in part to crypto-focused legislation.Indeed, the GOP-led House of Representatives has declared this week crypto week as it takes up three different bills related to regulating digital assets, including the GENIUS Act, which would clarify how companies can issue their own digital tokens.According to Reuters, Democrats  many of whom remain opposed to making crypto more mainstream  are expected to offer several amendments to the bills, though it was unclear whether any would be successful.Cryptos recent uplift has added some 620 million to Trumps estimated net worth,Bloomberg reported earlier this month. Some Democrats see those gains as reason enough to oppose legislation that would pave the way for wider crypto adoption.These bills would make Congress complicit in Trumps unprecedented crypto scam,Rep. Maxine Watersof California, the top Democrat on the House financial services committee, said in a statement.Theres debate about how much higher bitcoin will go the rest of the year. Its trajectory remains strongly tied to the outlook for global interest rates. When these are relatively lower  as they have been recently  theres more money available to purchase riskier assets like bitcoin.But with developed economies that have historically kept government spending in checknow set to increase funding, interest rates are likely to begin ramping up in response to inflation concerns,The risk that central banks shift focus back to the risks of re-accelerating inflation may develop into a potential headwind for Bitcoin in the latter half of the year, Matthew Weller, global head of research at FOREX.com, said in a note published earlier this month, especially with fiscal policy (government spending and tax cuts) becoming more accommodative.Rob WileRob Wile is a Pulitzer Prize-winning journalist covering breaking business stories for NBCNews.com.",
+      "source": "yahoo_finance_crypto",
+      "published_date": "Mon, 14 Jul 2025 15:01:29 +0000",
+      "author": "",
+      "tags": [],
+      "quality_score": 100,
+      "relevance_score": 100,
+      "category": "macro",
+      "extraction_timestamp": "2025-07-14T15:39:58.320269",
+      "ai_responses": {
+        "error": "'ClassifierState' object does not support item assignment"
+      },
+      "processing_timestamp": "2025-07-14T15:41:13.981575",
+      "agent_count": 1,
+      "agent_scores": {
+        "overall_score": 7.0
+      },
+      "weighted_scores": {},
+      "final_weighted_score": 0,
+      "weight_configuration": "default",
+      "context_analysis": {
+        "token_count": 8802,
+        "context_zones": [
+          "ContextZone.CORE_CONTENT"
+        ],
+        "optimization_applied": false
+      }
+    }
+  ]
+}

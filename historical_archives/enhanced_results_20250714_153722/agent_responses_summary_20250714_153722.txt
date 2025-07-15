@@ -1,0 +1,190 @@
+COMPLETE AI AGENT RESPONSES SUMMARY
+================================================================================
+
+Total Articles Analyzed: 30
+Total Agent Responses: 0
+Agents Used: 13 specialized AI agents with 1-10 scoring
+Historical Archiving: Enabled
+
+================================================================================
+
+ARTICLE 1: Crypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail ...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 2: ICP Rebounds Toward $5.50 After Early Morning Surge and Midday Volatility...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 3: House Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursd...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 4: Why Bittensor Is AI’s Best Next-Gen Incubator...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 5: AAVE Surges as Deposits Hit $50B; Poised to Benefit From U.S. Crypto Regulation...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 6: XRP's Implied Volatility Explodes, Suggests 13% Price Swing as Congress' Crypto ...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 7: NEAR Surges 7% in Strong Bullish Recovery Rally...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 8: ATOM Experiences Sharp Volatility in 4% Recovery Rally...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 9: Superstate CEO Robert Leshner Buys Majority Stake in 'Shady' Liquor Vendor With ...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 10: BitMine Immersion Surges 40% After Revealing $500M ETH Treasury...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 11: Bitcoin Mining Stocks Lead Crypto Equity Gains After BTC Hits $122K...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 12: 'Regime Change' at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome Pow...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 13: Democrats Must Embrace Crypto: Terry McAuliffe...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 14: Grayscale Files Confidential Submission for IPO With SEC...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 15: CoinDesk 20 Performance Update: Stellar (XLM) Surges 20.8% Over Weekend...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 16: Right to Code? Tornado Cash Dev Roman Storm's Money Laundering Trial Kicks Off M...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 17: Shiba Inu Gains 3% as Explosive Burn Rate Spurs Bullish Predictions...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 18: Binance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme Partnership...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 19: Michael Saylor's Strategy Adds 4,225 Bitcoin, Bringing BTC Stack to 601,550...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 20: BONK Surges 12% as Grayscale Monitoring Sparks Institutional Momentum...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 21: CLARITY Act Could be a Game Changer for Institutional Adoption of Crypto: Benchm...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 22: Digital Asset Fund Flows Hit $3.7B Last Week, 2nd-Highest on Record: CoinShares...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 23: Bitcoin Bears Urge Caution as BTC Price Tops $122K: Crypto Daybook Americas...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 24: Bhutan Quietly Sells $59M in Bitcoin as BTC Hits $123K, Still Holds Over $1.4B i...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 25: Ether Sees Record Short Build up as Hedge Funds Pile on Basis Trade...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 26: Mexico’s Peso Becomes Unlikely Winner in Trump’s Trade War...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 27: Crypto Asset Manager Grayscale Files Confidentially for US IPO...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 28: If Trump fires the Fed’s Powell ‘both the currency and the bond market can colla...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 29: Bitcoin rally seems to be driven more by institutional demand than speculation...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
+ARTICLE 30: Bitcoin surges past $120,000, riding momentum in D.C. and markets...
+------------------------------------------------------------
+❌ ERROR: 'ClassifierState' object does not support item assignment
+
+================================================================================
+
