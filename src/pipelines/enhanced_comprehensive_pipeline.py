@@ -47,16 +47,16 @@ warnings.filterwarnings('ignore', category=FutureWarning)
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 # Local imports
-from ..extractors.enhanced_crypto_macro_extractor import EnhancedCryptoMacroExtractor
-from ..services.historical_archive_manager import HistoricalArchiveManager
-from ..services.duplicate_detection import DuplicateDetector
-from ..agents.news_classifier_agents import NewsClassifierAgents
+from srcextractors.enhanced_crypto_macro_extractor import EnhancedCryptoMacroExtractor
+from srcservices.historical_archive_manager import HistoricalArchiveManager
+from srcservices.duplicate_detection import DuplicateDetector
+from srcagents.news_classifier_agents import NewsClassifierAgents
 
 # Try to import memory agents
 try:
-    from ...infrastructure.ai_agents.memory_agent import MemoryAgent
-    from ...infrastructure.ai_agents.context_engine import ContextEngine
-    from ...infrastructure.ai_agents.weight_matrix import WeightMatrix
+    from src.infrastructure.ai_agents.memory_agent import MemoryAgent
+    from src.infrastructure.ai_agents.context_engine import ContextEngine
+    from src.infrastructure.ai_agents.weight_matrix import WeightMatrix
     memory_agents_available = True
 except ImportError:
     memory_agents_available = False
