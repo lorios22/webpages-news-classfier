@@ -47,10 +47,10 @@ warnings.filterwarnings('ignore', category=FutureWarning)
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 # Local imports
-from srcextractors.enhanced_crypto_macro_extractor import EnhancedCryptoMacroExtractor
-from srcservices.historical_archive_manager import HistoricalArchiveManager
-from srcservices.duplicate_detection import DuplicateDetector
-from srcagents.news_classifier_agents import NewsClassifierAgents
+from src.extractors.enhanced_crypto_macro_extractor import EnhancedCryptoMacroExtractor
+from src.services.historical_archive_manager import HistoricalArchiveManager
+from src.services.duplicate_detection import DuplicateDetector
+from src.agents.news_classifier_agents import NewsClassifierAgents
 
 # Try to import memory agents
 try:

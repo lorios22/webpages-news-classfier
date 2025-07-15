@@ -41,8 +41,8 @@ from assistant.prompts import (
 
 # Try to import memory agents
 try:
-    frominfrastructure.ai_agents.memory_agent import MemoryAgent
-    frominfrastructure.ai_agents.context_engine import ContextEngine
+    from infrastructure.ai_agents.memory_agent import MemoryAgent
+    from infrastructure.ai_agents.context_engine import ContextEngine
     memory_agents_available = True
     print("✅ Memory Agents available")
 except ImportError:
