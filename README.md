@@ -64,15 +64,26 @@ A comprehensive, production-ready cryptocurrency and macroeconomic news extracti
 
 ```
 📦 Enhanced Crypto & Macro News Pipeline
-├── 🚀 enhanced_comprehensive_pipeline.py    # Main pipeline with archiving
-├── 📰 enhanced_crypto_macro_extractor.py    # Multi-source news extraction
-├── 🤖 news_classifier_agents.py             # 13 AI agents with scoring
-├── 📁 historical_archive_manager.py         # Automatic archiving system
-├── 🔍 duplicate_detection.py                # Advanced duplicate detection
-├── 📊 fin_integration.py                    # Financial intelligence
-├── 📈 enhanced_monitor.py                   # Real-time monitoring
-├── 🗃️ processed_urls.py                    # URL processing and state
-├── 🚀 run_enhanced_pipeline.py              # Enhanced execution interface
+├── 🚀 main.py                               # Main execution script
+├── 🏃 run_pipeline.py                       # Enhanced execution interface  
+├── 📊 monitor.py                            # Real-time monitoring script
+├── 📁 src/                                  # Core application modules
+│   ├── 🤖 agents/                          # AI agents system
+│   │   └── news_classifier_agents.py      # 13 specialized AI agents
+│   ├── 📰 extractors/                      # News extraction modules
+│   │   ├── enhanced_crypto_macro_extractor.py  # Multi-source extractor
+│   │   └── processed_urls.py              # URL processing and state
+│   ├── 📊 monitoring/                      # Monitoring and logs
+│   │   └── enhanced_monitor.py            # Real-time monitoring system
+│   ├── 🚀 pipelines/                       # Main pipeline modules
+│   │   ├── enhanced_comprehensive_pipeline.py  # Core pipeline engine
+│   │   └── run_enhanced_pipeline.py       # Enhanced execution interface
+│   └── 🔧 services/                        # Utility services
+│       ├── duplicate_detection.py         # Advanced duplicate detection
+│       ├── fin_integration.py             # Financial intelligence
+│       └── historical_archive_manager.py  # Automatic archiving system
+├── 🏗️ infrastructure/                       # Infrastructure components
+│   └── ai_agents/                          # AI memory and optimization
 └── 📋 requirements.txt                      # Dependencies
 ```
 
