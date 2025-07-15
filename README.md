@@ -2,6 +2,20 @@
 
 A comprehensive, production-ready cryptocurrency and macroeconomic news extraction and analysis system powered by AI agents with automatic historical archiving.
 
+## 📚 Documentation
+
+### **System Documentation**
+- **[Complete System Improvements](./COMPLETE_SYSTEM_IMPROVEMENTS_DOCUMENTATION.md)** - Detailed technical improvements and transformations
+- **[Enhanced Results Files Guide](./ENHANCED_RESULTS_FILES_DOCUMENTATION.md)** - Comprehensive guide to all output formats
+- **[Prompt Improvements Summary](./PROMPT_IMPROVEMENTS_SUMMARY.md)** - AI agent enhancement details
+- **[Architecture Documentation](./docs/README_DDD.md)** - Domain-driven design documentation
+
+### **Quick Reference**
+- **[Main Pipeline Execution](#-quick-start)** - How to run the system
+- **[Output Files Guide](#-output-files)** - Understanding generated results
+- **[System Monitoring](#-system-monitoring)** - Performance tracking
+- **[Troubleshooting Guide](#-troubleshooting)** - Common issues and solutions
+
 ## 🚀 Key Features
 
 ### **AI-Powered Analysis**
@@ -58,6 +72,7 @@ A comprehensive, production-ready cryptocurrency and macroeconomic news extracti
 ├── 📊 fin_integration.py                    # Financial intelligence
 ├── 📈 enhanced_monitor.py                   # Real-time monitoring
 ├── 🗃️ processed_urls.py                    # URL processing and state
+├── 🚀 run_enhanced_pipeline.py              # Enhanced execution interface
 └── 📋 requirements.txt                      # Dependencies
 ```
 
@@ -79,6 +94,8 @@ A comprehensive, production-ready cryptocurrency and macroeconomic news extracti
 | **Consensus Agent** | Multi-agent consensus | Builds agreement across agent evaluations |
 | **Validator** | Final validation | Performs final quality assurance |
 
+> **📖 Detailed Documentation:** See [Prompt Improvements Summary](./PROMPT_IMPROVEMENTS_SUMMARY.md) for comprehensive agent enhancement details.
+
 ## 📊 Performance Metrics
 
 ### **Extraction Performance**
@@ -99,6 +116,8 @@ A comprehensive, production-ready cryptocurrency and macroeconomic news extracti
 - **Memory Persistence**: Cross-session learning and optimization
 - **Error Handling**: Comprehensive error recovery and logging
 
+> **📖 Complete Performance Analysis:** See [Complete System Improvements](./COMPLETE_SYSTEM_IMPROVEMENTS_DOCUMENTATION.md) for detailed technical metrics.
+
 ## 🚀 Quick Start
 
 ### **Prerequisites**
@@ -113,8 +132,11 @@ export ANTHROPIC_API_KEY="your_api_key_here"
 
 ### **Run Complete Pipeline**
 ```bash
-# Execute the full pipeline with automatic archiving
+# Option 1: Execute the full pipeline with automatic archiving
 python3 enhanced_comprehensive_pipeline.py
+
+# Option 2: Use the enhanced execution interface (recommended)
+python3 run_enhanced_pipeline.py
 
 # The pipeline will:
 # 1. Archive existing results to historical folders
@@ -149,7 +171,13 @@ webpages-news-classfier/
 │   ├── duplicate_detection.py              # Duplicate detection
 │   ├── fin_integration.py                  # Financial intelligence
 │   ├── enhanced_monitor.py                 # Real-time monitoring
-│   └── processed_urls.py                   # URL processing
+│   ├── processed_urls.py                   # URL processing
+│   └── run_enhanced_pipeline.py            # Enhanced execution interface
+├── 📚 Documentation
+│   ├── README.md                           # This file (main documentation)
+│   ├── COMPLETE_SYSTEM_IMPROVEMENTS_DOCUMENTATION.md  # Technical improvements
+│   ├── ENHANCED_RESULTS_FILES_DOCUMENTATION.md        # Output files guide
+│   └── PROMPT_IMPROVEMENTS_SUMMARY.md                 # AI prompt enhancements
 ├── 📂 Working Directories (Auto-cleaned)
 │   ├── enhanced_results/                   # Current execution results
 │   ├── crypto_macro_results/               # Extraction results
@@ -195,6 +223,8 @@ historical_archives/
     └── archive_manifest.json
 ```
 
+> **📖 Complete Output Guide:** See [Enhanced Results Files Documentation](./ENHANCED_RESULTS_FILES_DOCUMENTATION.md) for detailed analysis of all output formats and their uses.
+
 ## 🔧 Configuration
 
 ### **Target Article Count**
@@ -233,14 +263,14 @@ def cleanup_old_archives(self, keep_days: int = 30):
 ### **Common Issues**
 
 #### **1. Source Access Denied (403/401)**
-```bash
+   ```bash
 # Anti-blocking is enabled automatically
 # Check internet connection and source availability
 # Some sources may have temporary restrictions
-```
+   ```
 
 #### **2. Low Article Count**
-```bash
+   ```bash
 # Adjust time filter in enhanced_crypto_macro_extractor.py
 # Change from 24 hours to 48 hours for more articles
 self.is_recent_article(published_date, hours_limit=48)
@@ -280,7 +310,7 @@ grep "Archive" archive_manager.log
 ## 🔗 Dependencies
 
 ### **Core Dependencies**
-```python
+   ```python
 # Data processing and analysis
 pandas>=1.5.0
 numpy>=1.24.0
@@ -306,7 +336,7 @@ typing-extensions>=4.5.0
 ```
 
 ### **Development Dependencies**
-```python
+   ```python
 # Testing
 pytest>=7.0.0
 pytest-cov>=4.0.0

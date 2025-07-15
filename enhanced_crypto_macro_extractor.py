@@ -370,7 +370,7 @@ class EnhancedCryptoMacroExtractor:
                             continue
                         
                         # Check if recent (extended to 48 hours)
-                        if not self.is_recent_article(published, hours_limit=48):
+                        if not self.is_recent_article(published, hours_limit=24):
                             continue
                         
                         # Extract full content

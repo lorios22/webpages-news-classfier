@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+enhanced_results/
+crypto_macro_results/
+comprehensive_results/
+integrated_crypto_macro_results/
+*.db
+.DS_Store
