@@ -10,14 +10,13 @@ import logging
 from datetime import datetime
 from typing import Any, Dict, List, Optional
 
-from infrastructure.external_services.fin_service import FINService
-
 from application.services.ai_classification_service import AIClassificationService
 from application.services.content_processing_service import ContentProcessingService
 from application.services.duplicate_detection_service import DuplicateDetectionService
 from application.services.scoring_service import ScoringService
 from domain.entities import Article, ArticleStatus
 from domain.value_objects import Classification, Score, Source
+from infrastructure.external_services.fin_service import FINService
 
 logger = logging.getLogger(__name__)
 
