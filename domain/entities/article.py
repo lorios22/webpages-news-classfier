@@ -104,29 +104,15 @@ class Article:
         """Automatically determine content type based on content and metadata"""
         content_lower = self.content.lower()
 
-        if any(
-            indicator in content_lower
-            for indicator in ["press release", "business wire", "pr newswire"]
-        ):
+        if any(indicator in content_lower for indicator in ["press release", "business wire", "pr newswire"]):
             self.content_type = ContentType.PRESS_RELEASE
-        elif any(
-            indicator in content_lower
-            for indicator in ["research", "study", "analysis", "report"]
-        ):
+        elif any(indicator in content_lower for indicator in ["research", "study", "analysis", "report"]):
             self.content_type = ContentType.RESEARCH_PAPER
-        elif any(
-            indicator in content_lower
-            for indicator in ["opinion", "editorial", "commentary"]
-        ):
+        elif any(indicator in content_lower for indicator in ["opinion", "editorial", "commentary"]):
             self.content_type = ContentType.OPINION
-        elif any(
-            indicator in content_lower for indicator in ["blog", "post", "author:"]
-        ):
+        elif any(indicator in content_lower for indicator in ["blog", "post", "author:"]):
             self.content_type = ContentType.BLOG_POST
-        elif any(
-            indicator in content_lower
-            for indicator in ["news", "breaking", "reported", "announced"]
-        ):
+        elif any(indicator in content_lower for indicator in ["news", "breaking", "reported", "announced"]):
             self.content_type = ContentType.NEWS_ARTICLE
         else:
             self.content_type = ContentType.UNKNOWN
@@ -266,16 +252,12 @@ class Article:
             "content": self.content,
             "description": self.description,
             "source": self.source.to_dict() if self.source else None,
-            "classification": (
-                self.classification.to_dict() if self.classification else None
-            ),
+            "classification": (self.classification.to_dict() if self.classification else None),
             "scores": {name: score.to_dict() for name, score in self.scores.items()},
             "status": self.status.value,
             "content_type": self.content_type.value,
             "created_at": self.created_at.isoformat(),
-            "processed_at": (
-                self.processed_at.isoformat() if self.processed_at else None
-            ),
+            "processed_at": (self.processed_at.isoformat() if self.processed_at else None),
             "metadata": self.metadata,
             "agent_responses": self.agent_responses,
             "word_count": self.get_word_count(),
@@ -298,16 +280,8 @@ class Article:
         content_type = ContentType(data.get("content_type", "unknown"))
 
         # Parse timestamps
-        created_at = (
-            datetime.fromisoformat(data.get("created_at"))
-            if data.get("created_at")
-            else datetime.now()
-        )
-        processed_at = (
-            datetime.fromisoformat(data.get("processed_at"))
-            if data.get("processed_at")
-            else None
-        )
+        created_at = datetime.fromisoformat(data.get("created_at")) if data.get("created_at") else datetime.now()
+        processed_at = datetime.fromisoformat(data.get("processed_at")) if data.get("processed_at") else None
 
         # Create scores
         scores = {}
@@ -316,11 +290,7 @@ class Article:
 
         # Create source and classification if present
         source = Source.from_dict(data["source"]) if data.get("source") else None
-        classification = (
-            Classification.from_dict(data["classification"])
-            if data.get("classification")
-            else None
-        )
+        classification = Classification.from_dict(data["classification"]) if data.get("classification") else None
 
         return cls(
             id=data["id"],

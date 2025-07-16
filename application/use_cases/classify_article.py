@@ -158,15 +158,11 @@ class ClassifyArticleUseCase:
             Article with duplicate check results
         """
         try:
-            is_duplicate, duplicate_id = await self.duplicate_service.is_duplicate(
-                article.content, article.url
-            )
+            is_duplicate, duplicate_id = await self.duplicate_service.is_duplicate(article.content, article.url)
 
             if is_duplicate:
                 article.mark_as_skipped(f"Duplicate content (matches {duplicate_id})")
-                article.metadata.update(
-                    {"is_duplicate": True, "duplicate_id": duplicate_id}
-                )
+                article.metadata.update({"is_duplicate": True, "duplicate_id": duplicate_id})
 
             return article
 
@@ -191,15 +187,11 @@ class ClassifyArticleUseCase:
             source = Source.from_url(article.url)
             article.source = source
 
-            fin_data = await self.fin_service.get_comprehensive_analysis(
-                article.content, article.url
-            )
+            fin_data = await self.fin_service.get_comprehensive_analysis(article.content, article.url)
             article.metadata["fin_analysis"] = fin_data
 
             # Run all AI agents in the pipeline
-            classification_results = await self.ai_service.classify_article(
-                article, fin_data
-            )
+            classification_results = await self.ai_service.classify_article(article, fin_data)
 
             # Store agent responses and scores
             for agent_name, result in classification_results.items():
@@ -246,14 +238,10 @@ class ClassifyArticleUseCase:
                 final_score=final_score,
                 summary=summary,
                 rationale=rationale,
-                sub_scores={
-                    name: score.value for name, score in article.scores.items()
-                },
+                sub_scores={name: score.value for name, score in article.scores.items()},
                 confidence=confidence,
                 fin_enhanced=True,
-                source_credibility=(
-                    article.source.credibility_score if article.source else None
-                ),
+                source_credibility=(article.source.credibility_score if article.source else None),
             )
 
             article.set_classification(classification)
@@ -273,9 +261,7 @@ class ClassifyArticleUseCase:
         """
         try:
             if article.status == ArticleStatus.CLASSIFIED:
-                article_id = await self.duplicate_service.add_content(
-                    article.content, article.url
-                )
+                article_id = await self.duplicate_service.add_content(article.content, article.url)
                 article.metadata["duplicate_detection_id"] = article_id
                 logger.debug(f"Article stored for duplicate detection: {article_id}")
         except Exception as e:
@@ -325,9 +311,7 @@ class ClassifyArticleUseCase:
         if fin_data:
             source_cred = fin_data.get("source_credibility", {})
             if source_cred:
-                rationale_parts.append(
-                    f"Source credibility: {source_cred.get('source_credibility', 'N/A')}/100"
-                )
+                rationale_parts.append(f"Source credibility: {source_cred.get('source_credibility', 'N/A')}/100")
 
         return " | ".join(rationale_parts)
 
@@ -366,9 +350,7 @@ class ClassifyArticleUseCase:
 
                     # Score distribution
                     category = article.classification.category.value
-                    stats["score_distribution"][category] = (
-                        stats["score_distribution"].get(category, 0) + 1
-                    )
+                    stats["score_distribution"][category] = stats["score_distribution"].get(category, 0) + 1
 
             elif article.status == ArticleStatus.SKIPPED:
                 stats["skipped"] += 1
@@ -379,16 +361,12 @@ class ClassifyArticleUseCase:
 
             # Content types
             content_type = article.content_type.value
-            stats["content_types"][content_type] = (
-                stats["content_types"].get(content_type, 0) + 1
-            )
+            stats["content_types"][content_type] = stats["content_types"].get(content_type, 0) + 1
 
             # Source types
             if article.source:
                 source_type = article.source.source_type.value
-                stats["source_types"][source_type] = (
-                    stats["source_types"].get(source_type, 0) + 1
-                )
+                stats["source_types"][source_type] = stats["source_types"].get(source_type, 0) + 1
 
         # Calculate average score
         if classified_count > 0:

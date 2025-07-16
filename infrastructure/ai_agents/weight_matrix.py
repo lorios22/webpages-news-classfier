@@ -257,26 +257,18 @@ class WeightMatrix:
         if row:
             config_data = json.loads(row[0])
             # Handle datetime deserialization
-            if "created_at" in config_data and isinstance(
-                config_data["created_at"], str
-            ):
-                config_data["created_at"] = datetime.fromisoformat(
-                    config_data["created_at"]
-                )
+            if "created_at" in config_data and isinstance(config_data["created_at"], str):
+                config_data["created_at"] = datetime.fromisoformat(config_data["created_at"])
 
             # Handle enum deserialization
             if config_data.get("content_type"):
                 try:
-                    config_data["content_type"] = ContentType(
-                        config_data["content_type"]
-                    )
+                    config_data["content_type"] = ContentType(config_data["content_type"])
                 except ValueError:
                     config_data["content_type"] = None
             if config_data.get("scenario_type"):
                 try:
-                    config_data["scenario_type"] = ScenarioType(
-                        config_data["scenario_type"]
-                    )
+                    config_data["scenario_type"] = ScenarioType(config_data["scenario_type"])
                 except ValueError:
                     config_data["scenario_type"] = ScenarioType.DEFAULT
 
@@ -457,9 +449,7 @@ class WeightMatrix:
 
         return self.get_optimal_configuration(target_content_type)
 
-    def get_weight_recommendations(
-        self, content_analysis: Dict[str, Any]
-    ) -> Dict[str, float]:
+    def get_weight_recommendations(self, content_analysis: Dict[str, Any]) -> Dict[str, float]:
         """Get weight recommendations based on content analysis"""
 
         # Base weights
@@ -479,9 +469,7 @@ class WeightMatrix:
 
         if content_analysis.get("content_length", 0) < 500:
             # Adjust for short content
-            weights["structure_analyzer"] = max(
-                0.05, weights["structure_analyzer"] * 0.6
-            )
+            weights["structure_analyzer"] = max(0.05, weights["structure_analyzer"] * 0.6)
             weights["human_reasoning"] = min(0.30, weights["human_reasoning"] * 1.3)
 
         # Normalize weights to sum to 1.0

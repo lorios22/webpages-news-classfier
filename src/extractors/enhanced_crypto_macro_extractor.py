@@ -217,9 +217,7 @@ class EnhancedCryptoMacroExtractor:
 
         self.extracted_articles = []
 
-        logger.info(
-            "🚀 Enhanced Crypto & Macro Extractor initialized with 10 specialized sources"
-        )
+        logger.info("🚀 Enhanced Crypto & Macro Extractor initialized with 10 specialized sources")
 
     def get_headers(self) -> Dict[str, str]:
         """Get randomized headers to avoid blocking"""
@@ -235,9 +233,7 @@ class EnhancedCryptoMacroExtractor:
             "Pragma": "no-cache",
         }
 
-    def safe_request(
-        self, url: str, timeout: int = 30, retries: int = 3
-    ) -> Optional[requests.Response]:
+    def safe_request(self, url: str, timeout: int = 30, retries: int = 3) -> Optional[requests.Response]:
         """Make a safe HTTP request with retries and random delays"""
         for attempt in range(retries):
             try:
@@ -255,9 +251,7 @@ class EnhancedCryptoMacroExtractor:
                 if response.status_code == 200:
                     return response
                 elif response.status_code in [403, 401]:
-                    logger.warning(
-                        f"⚠️ Access denied ({response.status_code}) for {url}"
-                    )
+                    logger.warning(f"⚠️ Access denied ({response.status_code}) for {url}")
                     return None
                 else:
                     logger.warning(f"⚠️ HTTP {response.status_code} for {url}")
@@ -265,9 +259,7 @@ class EnhancedCryptoMacroExtractor:
             except requests.exceptions.Timeout:
                 logger.warning(f"⏰ Timeout on attempt {attempt + 1} for {url}")
             except requests.exceptions.RequestException as e:
-                logger.warning(
-                    f"🔗 Request error on attempt {attempt + 1} for {url}: {str(e)}"
-                )
+                logger.warning(f"🔗 Request error on attempt {attempt + 1} for {url}: {str(e)}")
 
             if attempt < retries - 1:
                 delay = (attempt + 1) * 2
@@ -286,9 +278,7 @@ class EnhancedCryptoMacroExtractor:
             soup = BeautifulSoup(response.content, "html.parser")
 
             # Remove unwanted elements
-            for element in soup(
-                ["script", "style", "nav", "header", "footer", "aside", "advertisement"]
-            ):
+            for element in soup(["script", "style", "nav", "header", "footer", "aside", "advertisement"]):
                 element.decompose()
 
             # Try multiple content selectors
@@ -310,21 +300,13 @@ class EnhancedCryptoMacroExtractor:
             for selector in content_selectors:
                 elements = soup.select(selector)
                 if elements:
-                    content_text = " ".join(
-                        [elem.get_text(strip=True) for elem in elements]
-                    )
+                    content_text = " ".join([elem.get_text(strip=True) for elem in elements])
                     break
 
             # Fallback to paragraph extraction
             if not content_text:
                 paragraphs = soup.find_all("p")
-                content_text = " ".join(
-                    [
-                        p.get_text(strip=True)
-                        for p in paragraphs
-                        if len(p.get_text(strip=True)) > 50
-                    ]
-                )
+                content_text = " ".join([p.get_text(strip=True) for p in paragraphs if len(p.get_text(strip=True)) > 50])
 
             # Clean the content
             content_text = re.sub(r"\s+", " ", content_text)
@@ -352,9 +334,7 @@ class EnhancedCryptoMacroExtractor:
                     "%Y-%m-%dT%H:%M:%S%z",
                 ]:
                     try:
-                        article_date = datetime.strptime(
-                            published_date.replace("GMT", "+0000"), fmt
-                        )
+                        article_date = datetime.strptime(published_date.replace("GMT", "+0000"), fmt)
                         break
                     except ValueError:
                         continue
@@ -375,19 +355,13 @@ class EnhancedCryptoMacroExtractor:
             logger.debug(f"Date parsing error: {e}")
             return True  # Include articles with date parsing issues
 
-    def is_crypto_or_macro_content(
-        self, title: str, description: str, content: str
-    ) -> Tuple[bool, str, float]:
+    def is_crypto_or_macro_content(self, title: str, description: str, content: str) -> Tuple[bool, str, float]:
         """Check if content is crypto or macro related with relevance scoring"""
         full_text = f"{title} {description} {content}".lower()
 
         # Count keyword matches
-        crypto_matches = sum(
-            1 for keyword in self.crypto_keywords if keyword in full_text
-        )
-        macro_matches = sum(
-            1 for keyword in self.macro_keywords if keyword in full_text
-        )
+        crypto_matches = sum(1 for keyword in self.crypto_keywords if keyword in full_text)
+        macro_matches = sum(1 for keyword in self.macro_keywords if keyword in full_text)
 
         total_matches = crypto_matches + macro_matches
 
@@ -406,9 +380,7 @@ class EnhancedCryptoMacroExtractor:
         """Extract articles from a specific source"""
         articles = []
 
-        logger.info(
-            f"🔍 Processing {source_config['name']} ({len(source_config['rss_urls'])} feeds)"
-        )
+        logger.info(f"🔍 Processing {source_config['name']} ({len(source_config['rss_urls'])} feeds)")
 
         for rss_url in source_config["rss_urls"]:
             try:
@@ -431,9 +403,7 @@ class EnhancedCryptoMacroExtractor:
                     try:
                         # Extract basic information
                         title = getattr(entry, "title", "")
-                        description = getattr(entry, "description", "") or getattr(
-                            entry, "summary", ""
-                        )
+                        description = getattr(entry, "description", "") or getattr(entry, "summary", "")
                         url = getattr(entry, "link", "")
                         published = getattr(entry, "published", "")
 
@@ -448,15 +418,11 @@ class EnhancedCryptoMacroExtractor:
                         logger.debug(f"🔍 Extracting content for: {title[:50]}...")
                         content = self.extract_content_from_url(url)
 
-                        if (
-                            not content or len(content) < 100
-                        ):  # Lower minimum content length
+                        if not content or len(content) < 100:  # Lower minimum content length
                             content = description  # Use description as fallback
 
                         # Check crypto/macro relevance
-                        is_relevant, category, relevance_score = (
-                            self.is_crypto_or_macro_content(title, description, content)
-                        )
+                        is_relevant, category, relevance_score = self.is_crypto_or_macro_content(title, description, content)
 
                         if is_relevant and relevance_score >= 25:  # Lower threshold
                             article = {
@@ -467,9 +433,7 @@ class EnhancedCryptoMacroExtractor:
                                 "source": source_key,
                                 "published_date": published,
                                 "author": getattr(entry, "author", ""),
-                                "tags": [
-                                    tag.term for tag in getattr(entry, "tags", [])
-                                ],
+                                "tags": [tag.term for tag in getattr(entry, "tags", [])],
                                 "quality_score": min(
                                     100,
                                     source_config["credibility"] + (len(content) // 50),
@@ -480,14 +444,10 @@ class EnhancedCryptoMacroExtractor:
                             }
 
                             articles.append(article)
-                            logger.info(
-                                f"✅ Added {category} article: {title[:50]}... (relevance: {relevance_score})"
-                            )
+                            logger.info(f"✅ Added {category} article: {title[:50]}... (relevance: {relevance_score})")
 
                     except Exception as e:
-                        logger.error(
-                            f"❌ Error processing article from {rss_url}: {str(e)}"
-                        )
+                        logger.error(f"❌ Error processing article from {rss_url}: {str(e)}")
                         continue
 
             except Exception as e:
@@ -524,9 +484,7 @@ class EnhancedCryptoMacroExtractor:
         unique_articles = self.remove_duplicates(all_articles)
 
         # Sort by relevance and quality
-        unique_articles.sort(
-            key=lambda x: (x["relevance_score"] + x["quality_score"]), reverse=True
-        )
+        unique_articles.sort(key=lambda x: (x["relevance_score"] + x["quality_score"]), reverse=True)
 
         # Take top articles up to target count
         final_articles = unique_articles[:target_count]
@@ -585,9 +543,7 @@ class EnhancedCryptoMacroExtractor:
 
         return unique_articles
 
-    def save_articles(
-        self, articles: List[Dict], output_dir: str = "crypto_macro_results"
-    ) -> Dict[str, str]:
+    def save_articles(self, articles: List[Dict], output_dir: str = "crypto_macro_results") -> Dict[str, str]:
         """Save articles in multiple formats"""
         os.makedirs(output_dir, exist_ok=True)
 
@@ -649,7 +605,7 @@ def main():
 
     if articles:
         # Save articles
-        file_paths = extractor.save_articles(articles)
+        extractor.save_articles(articles)
 
         print(f"\n🎉 SUCCESS! Extracted {len(articles)} crypto/macro articles")
         print(f"📁 Files saved in: crypto_macro_results/")
@@ -661,12 +617,8 @@ def main():
         print(f"\n📊 CONTENT BREAKDOWN:")
         print(f"   🪙 Crypto articles: {crypto_count}")
         print(f"   💰 Macro articles: {macro_count}")
-        print(
-            f"   📈 Average quality: {sum(a['quality_score'] for a in articles) / len(articles):.1f}"
-        )
-        print(
-            f"   🎯 Average relevance: {sum(a['relevance_score'] for a in articles) / len(articles):.1f}"
-        )
+        print(f"   📈 Average quality: {sum(a['quality_score'] for a in articles) / len(articles):.1f}")
+        print(f"   🎯 Average relevance: {sum(a['relevance_score'] for a in articles) / len(articles):.1f}")
 
     else:
         print("❌ No articles extracted. Check logs for details.")

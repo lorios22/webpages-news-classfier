@@ -63,11 +63,7 @@ class HistoricalArchiveManager:
 
         for dir_name in self.working_dirs:
             if os.path.exists(dir_name):
-                files = [
-                    f
-                    for f in os.listdir(dir_name)
-                    if os.path.isfile(os.path.join(dir_name, f))
-                ]
+                files = [f for f in os.listdir(dir_name) if os.path.isfile(os.path.join(dir_name, f))]
                 if files:
                     existing_results[dir_name] = files
                     logger.info(f"📊 Found {len(files)} files in {dir_name}/")
@@ -78,19 +74,13 @@ class HistoricalArchiveManager:
 
         return existing_results
 
-    def archive_directory(
-        self, source_dir: str, archive_timestamp: str = None
-    ) -> Optional[str]:
+    def archive_directory(self, source_dir: str, archive_timestamp: str = None) -> Optional[str]:
         """Archive a directory to historical storage"""
         if not os.path.exists(source_dir):
             logger.warning(f"⚠️ Source directory {source_dir} does not exist")
             return None
 
-        files = [
-            f
-            for f in os.listdir(source_dir)
-            if os.path.isfile(os.path.join(source_dir, f))
-        ]
+        files = [f for f in os.listdir(source_dir) if os.path.isfile(os.path.join(source_dir, f))]
         if not files:
             logger.info(f"📂 {source_dir}/ is empty, nothing to archive")
             return None
@@ -116,9 +106,7 @@ class HistoricalArchiveManager:
                 logger.error(f"❌ Error moving {file_name}: {str(e)}")
 
         if moved_files:
-            logger.info(
-                f"✅ Archived {len(moved_files)} files from {source_dir}/ to {historical_dir}/"
-            )
+            logger.info(f"✅ Archived {len(moved_files)} files from {source_dir}/ to {historical_dir}/")
 
             # Create archive manifest
             manifest = {
@@ -173,15 +161,9 @@ class HistoricalArchiveManager:
             os.makedirs(dir_name, exist_ok=True)
 
             # Verify it's empty
-            files = [
-                f
-                for f in os.listdir(dir_name)
-                if os.path.isfile(os.path.join(dir_name, f))
-            ]
+            files = [f for f in os.listdir(dir_name) if os.path.isfile(os.path.join(dir_name, f))]
             if files:
-                logger.warning(
-                    f"⚠️ {dir_name}/ still contains {len(files)} files after archiving"
-                )
+                logger.warning(f"⚠️ {dir_name}/ still contains {len(files)} files after archiving")
             else:
                 logger.info(f"✅ {dir_name}/ is clean and ready")
                 cleaned_dirs.append(dir_name)
@@ -199,9 +181,7 @@ class HistoricalArchiveManager:
         # Archive existing results if any
         archived_dirs = {}
         if existing_results:
-            logger.info(
-                f"📊 Found existing results in {len(existing_results)} directories"
-            )
+            logger.info(f"📊 Found existing results in {len(existing_results)} directories")
             archived_dirs = self.archive_all_existing_results()
         else:
             logger.info("📂 No existing results found")
@@ -225,9 +205,7 @@ class HistoricalArchiveManager:
 
         return summary
 
-    def post_execution_archive(
-        self, results_dir: str = "enhanced_results"
-    ) -> Optional[str]:
+    def post_execution_archive(self, results_dir: str = "enhanced_results") -> Optional[str]:
         """Archive results after successful pipeline execution"""
         logger.info(f"📦 POST-EXECUTION ARCHIVING: {results_dir}")
 
@@ -235,11 +213,7 @@ class HistoricalArchiveManager:
             logger.warning(f"⚠️ Results directory {results_dir} not found")
             return None
 
-        files = [
-            f
-            for f in os.listdir(results_dir)
-            if os.path.isfile(os.path.join(results_dir, f))
-        ]
+        files = [f for f in os.listdir(results_dir) if os.path.isfile(os.path.join(results_dir, f))]
         if not files:
             logger.info(f"📂 {results_dir}/ is empty, nothing to archive")
             return None
@@ -288,15 +262,11 @@ class HistoricalArchiveManager:
         removed_count = 0
         for archive in archives:
             try:
-                archive_date = datetime.fromisoformat(
-                    archive["archive_date"].replace("Z", "+00:00")
-                )
+                archive_date = datetime.fromisoformat(archive["archive_date"].replace("Z", "+00:00"))
                 if archive_date < cutoff_date:
                     archive_path = archive["archive_path"]
                     shutil.rmtree(archive_path)
-                    logger.info(
-                        f"🗑️ Removed old archive: {os.path.basename(archive_path)}"
-                    )
+                    logger.info(f"🗑️ Removed old archive: {os.path.basename(archive_path)}")
                     removed_count += 1
             except Exception as e:
                 logger.error(f"❌ Error removing archive: {str(e)}")
@@ -334,9 +304,7 @@ def main():
     if archives:
         print(f"\n🏛️ HISTORICAL ARCHIVES ({len(archives)} total):")
         for archive in archives[:5]:  # Show latest 5
-            print(
-                f"   📦 {os.path.basename(archive['archive_path'])} - {archive['file_count']} files"
-            )
+            print(f"   📦 {os.path.basename(archive['archive_path'])} - {archive['file_count']} files")
         if len(archives) > 5:
             print(f"   ... and {len(archives) - 5} more archives")
     else:

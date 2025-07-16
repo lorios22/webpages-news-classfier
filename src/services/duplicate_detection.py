@@ -83,9 +83,7 @@ class DuplicateDetector:
 
         return False
 
-    def add_article(
-        self, url: str, content: str, title: str = "", article_id: str = None
-    ):
+    def add_article(self, url: str, content: str, title: str = "", article_id: str = None):
         """
         Add article to duplicate tracking.
 

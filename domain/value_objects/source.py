@@ -134,27 +134,16 @@ class Source:
         if domain_lower.endswith(".gov") or domain_lower.endswith(".mil"):
             source_type = SourceType.GOVERNMENT
         # Academic sources
-        elif (
-            domain_lower.endswith(".edu")
-            or "university" in domain_lower
-            or "college" in domain_lower
-        ):
+        elif domain_lower.endswith(".edu") or "university" in domain_lower or "college" in domain_lower:
             source_type = SourceType.ACADEMIC
         # Press releases
-        elif any(
-            pr in domain_lower for pr in ["businesswire", "prnewswire", "marketwatch"]
-        ):
+        elif any(pr in domain_lower for pr in ["businesswire", "prnewswire", "marketwatch"]):
             source_type = SourceType.PRESS_RELEASE
         # Social media
-        elif any(
-            sm in domain_lower for sm in ["twitter", "facebook", "linkedin", "reddit"]
-        ):
+        elif any(sm in domain_lower for sm in ["twitter", "facebook", "linkedin", "reddit"]):
             source_type = SourceType.SOCIAL_MEDIA
         # Blogs
-        elif (
-            any(blog in domain_lower for blog in ["blog", "medium", "substack"])
-            or "/blog/" in url_lower
-        ):
+        elif any(blog in domain_lower for blog in ["blog", "medium", "substack"]) or "/blog/" in url_lower:
             source_type = SourceType.BLOG
         # News outlets (major domains)
         elif any(
@@ -284,11 +273,7 @@ class Source:
         """
         credibility_level = CredibilityLevel(data.get("credibility_level", "moderate"))
         source_type = SourceType(data.get("source_type", "unknown"))
-        last_updated = (
-            datetime.fromisoformat(data.get("last_updated"))
-            if data.get("last_updated")
-            else datetime.now()
-        )
+        last_updated = datetime.fromisoformat(data.get("last_updated")) if data.get("last_updated") else datetime.now()
 
         return cls(
             domain=data["domain"],

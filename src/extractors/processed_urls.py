@@ -76,9 +76,7 @@ def process_urls(
         # Save updated processed URLs
         save_processed_urls(processed_urls, processed_urls_file)
 
-        logger.info(
-            f"✅ Processed {new_urls} new URLs. Total tracked: {len(processed_urls)}"
-        )
+        logger.info(f"✅ Processed {new_urls} new URLs. Total tracked: {len(processed_urls)}")
         return True
 
     except Exception as e:
@@ -105,9 +103,7 @@ def load_processed_urls(processed_urls_file: str) -> Set[str]:
                     url = line.strip()
                     if url:
                         processed_urls.add(url)
-            logger.debug(
-                f"Loaded {len(processed_urls)} processed URLs from {processed_urls_file}"
-            )
+            logger.debug(f"Loaded {len(processed_urls)} processed URLs from {processed_urls_file}")
         else:
             logger.debug(f"Processed URLs file not found: {processed_urls_file}")
 
@@ -137,9 +133,7 @@ def save_processed_urls(processed_urls: Set[str], processed_urls_file: str) -> b
             for url in sorted(processed_urls):
                 f.write(f"{url}\n")
 
-        logger.debug(
-            f"Saved {len(processed_urls)} processed URLs to {processed_urls_file}"
-        )
+        logger.debug(f"Saved {len(processed_urls)} processed URLs to {processed_urls_file}")
         return True
 
     except Exception as e:
@@ -147,9 +141,7 @@ def save_processed_urls(processed_urls: Set[str], processed_urls_file: str) -> b
         return False
 
 
-def is_url_processed(
-    url: str, processed_urls_file: str = "urls/processed_urls.txt"
-) -> bool:
+def is_url_processed(url: str, processed_urls_file: str = "urls/processed_urls.txt") -> bool:
     """
     Check if a URL has been processed.
 
@@ -164,9 +156,7 @@ def is_url_processed(
     return url in processed_urls
 
 
-def mark_url_as_processed(
-    url: str, processed_urls_file: str = "urls/processed_urls.txt"
-) -> bool:
+def mark_url_as_processed(url: str, processed_urls_file: str = "urls/processed_urls.txt") -> bool:
     """
     Mark a single URL as processed.
 

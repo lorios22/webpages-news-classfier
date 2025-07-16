@@ -277,11 +277,7 @@ class Classification:
         """
         category = ClassificationCategory(data["category"])
         quality_level = QualityLevel(data["quality_level"])
-        timestamp = (
-            datetime.fromisoformat(data.get("timestamp"))
-            if data.get("timestamp")
-            else datetime.now()
-        )
+        timestamp = datetime.fromisoformat(data.get("timestamp")) if data.get("timestamp") else datetime.now()
 
         return cls(
             final_score=float(data["final_score"]),

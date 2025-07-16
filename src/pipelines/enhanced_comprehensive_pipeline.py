@@ -40,16 +40,7 @@ from typing import Any, Dict, List, Optional
 
 import pandas as pd
 
-# Suppress specific warnings
-warnings.filterwarnings("ignore", category=UserWarning)
-warnings.filterwarnings("ignore", category=FutureWarning)
-
-# Add current directory to path
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-
 from src.agents.news_classifier_agents import NewsClassifierAgents
-
-# Local imports
 from src.extractors.enhanced_crypto_macro_extractor import EnhancedCryptoMacroExtractor
 from src.services.duplicate_detection import DuplicateDetector
 from src.services.historical_archive_manager import HistoricalArchiveManager
@@ -63,6 +54,16 @@ try:
     memory_agents_available = True
 except ImportError:
     memory_agents_available = False
+
+# Suppress specific warnings
+warnings.filterwarnings("ignore", category=UserWarning)
+warnings.filterwarnings("ignore", category=FutureWarning)
+
+# Add current directory to path
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
+# Local imports
+
 
 # Configure logging
 logging.basicConfig(
@@ -97,9 +98,7 @@ class EnhancedComprehensivePipeline:
                 self.memory_agent = MemoryAgent()
                 self.context_engine = ContextEngine()
                 self.weight_matrix = WeightMatrix()
-                logger.info(
-                    "🤖 Memory Agents activated: Memory Agent, Context Engine, Weight Matrix"
-                )
+                logger.info("🤖 Memory Agents activated: Memory Agent, Context Engine, Weight Matrix")
             except Exception as e:
                 logger.warning(f"⚠️ Memory Agents initialization failed: {e}")
                 self.memory_agent = None
@@ -159,9 +158,7 @@ class EnhancedComprehensivePipeline:
             logger.info("=" * 80)
 
             self.stats["extraction_start"] = datetime.now()
-            articles = self.extractor.extract_all_articles(
-                target_count=self.target_articles
-            )
+            articles = self.extractor.extract_all_articles(target_count=self.target_articles)
             self.stats["extraction_end"] = datetime.now()
 
             if not articles:
@@ -171,16 +168,10 @@ class EnhancedComprehensivePipeline:
 
             # Update statistics
             self.stats["articles_extracted"] = len(articles)
-            self.stats["crypto_articles"] = sum(
-                1 for a in articles if a.get("category") == "crypto"
-            )
-            self.stats["macro_articles"] = sum(
-                1 for a in articles if a.get("category") == "macro"
-            )
+            self.stats["crypto_articles"] = sum(1 for a in articles if a.get("category") == "crypto")
+            self.stats["macro_articles"] = sum(1 for a in articles if a.get("category") == "macro")
 
-            logger.info(
-                f"📊 Breakdown: {self.stats['crypto_articles']} crypto, {self.stats['macro_articles']} macro"
-            )
+            logger.info(f"📊 Breakdown: {self.stats['crypto_articles']} crypto, {self.stats['macro_articles']} macro")
 
             # Phase 3: Enhanced AI Agent Processing with Memory Agents
             logger.info("🧠 Phase 2: Enhanced AI Agent Processing with Memory Agents")
@@ -190,24 +181,16 @@ class EnhancedComprehensivePipeline:
             processed_articles = await self.process_articles_with_agents(articles)
             self.stats["processing_end"] = datetime.now()
 
-            processing_duration = (
-                self.stats["processing_end"] - self.stats["processing_start"]
-            ).total_seconds()
-            logger.info(
-                f"🎉 AI Agent Processing completed in {processing_duration:.1f} seconds"
-            )
+            processing_duration = (self.stats["processing_end"] - self.stats["processing_start"]).total_seconds()
+            logger.info(f"🎉 AI Agent Processing completed in {processing_duration:.1f} seconds")
             logger.info(f"📊 Articles processed: {len(processed_articles)}")
-            logger.info(
-                f"❌ Articles with errors: {self.stats['articles_with_errors']}"
-            )
+            logger.info(f"❌ Articles with errors: {self.stats['articles_with_errors']}")
 
             # Memory Agent Summary
             if self.memory_agent:
                 try:
                     memory_stats = self.memory_agent.get_statistics()
-                    logger.info(
-                        f"🤖 Memory Agents: {memory_stats.get('total_memories', 0)} memories stored"
-                    )
+                    logger.info(f"🤖 Memory Agents: {memory_stats.get('total_memories', 0)} memories stored")
                 except Exception as e:
                     logger.warning(f"Memory agent statistics failed: {e}")
                     logger.info("🤖 Memory Agents: Statistics unavailable")
@@ -231,20 +214,12 @@ class EnhancedComprehensivePipeline:
                 logger.info(f"✅ Results successfully archived to: {archive_path}")
                 self.stats["files_archived"] = len(output_files)
                 logger.info(f"📦 Archived files: {self.stats['files_archived']}")
-                logger.info(
-                    f"📂 {self.output_dir}/ is now clean and ready for next execution"
-                )
+                logger.info(f"📂 {self.output_dir}/ is now clean and ready for next execution")
 
             # Final Statistics
-            total_duration = (
-                datetime.now() - self.stats["execution_start"]
-            ).total_seconds()
+            total_duration = (datetime.now() - self.stats["execution_start"]).total_seconds()
             success_rate = (
-                (
-                    (len(processed_articles) - self.stats["articles_with_errors"])
-                    / len(processed_articles)
-                )
-                * 100
+                ((len(processed_articles) - self.stats["articles_with_errors"]) / len(processed_articles)) * 100
                 if processed_articles
                 else 0
             )
@@ -255,12 +230,8 @@ class EnhancedComprehensivePipeline:
             logger.info(f"⏱️ Total execution time: {total_duration:.1f} seconds")
             logger.info(f"📈 Success rate: {success_rate:.1f}%")
             logger.info(f"📁 Output files: {len(output_files)}")
-            logger.info(
-                f"🤖 Agent responses captured: {self.stats['agent_responses_captured']}"
-            )
-            logger.info(
-                f"🗄️ Results archived to: {archive_path.split('/')[-1] if archive_path else 'N/A'}"
-            )
+            logger.info(f"🤖 Agent responses captured: {self.stats['agent_responses_captured']}")
+            logger.info(f"🗄️ Results archived to: {archive_path.split('/')[-1] if archive_path else 'N/A'}")
             logger.info(f"📂 {self.output_dir}/ is clean for next execution")
 
             return {
@@ -277,18 +248,14 @@ class EnhancedComprehensivePipeline:
             logger.error(f"❌ Pipeline execution failed: {e}")
             return {"success": False, "error": str(e), "statistics": self.stats}
 
-    async def process_articles_with_agents(
-        self, articles: List[Dict[str, Any]]
-    ) -> List[Dict[str, Any]]:
+    async def process_articles_with_agents(self, articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         """Process articles through AI agents with enhanced memory integration"""
 
         processed_articles = []
 
         for i, article in enumerate(articles, 1):
             try:
-                logger.info(
-                    f"🔄 Processing article {i}/{len(articles)}: {article.get('title', 'Unknown')[:50]}..."
-                )
+                logger.info(f"🔄 Processing article {i}/{len(articles)}: {article.get('title', 'Unknown')[:50]}...")
 
                 # CONTEXT ENGINE INTEGRATION - Enhanced context preparation
                 if self.context_engine:
@@ -341,21 +308,15 @@ class EnhancedComprehensivePipeline:
                             self.weight_matrix.update_with_results(
                                 article_category=article.get("category", "unknown"),
                                 agent_scores=article["agent_scores"],
-                                final_score=article["agent_scores"].get(
-                                    "overall_score", 0
-                                ),
+                                final_score=article["agent_scores"].get("overall_score", 0),
                             )
                         except Exception as e:
                             logger.warning(f"Weight matrix update failed: {e}")
 
-                    self.stats["agent_responses_captured"] += len(
-                        article.get("ai_responses", {})
-                    )
+                    self.stats["agent_responses_captured"] += len(article.get("ai_responses", {}))
 
                 except Exception as agent_error:
-                    logger.error(
-                        f"❌ Error processing article {i} through agents: {agent_error}"
-                    )
+                    logger.error(f"❌ Error processing article {i} through agents: {agent_error}")
                     self.stats["articles_with_errors"] += 1
 
                     # Add error information to article
@@ -386,9 +347,7 @@ class EnhancedComprehensivePipeline:
 
         return processed_articles
 
-    async def generate_comprehensive_outputs(
-        self, processed_articles: List[Dict[str, Any]]
-    ) -> Dict[str, str]:
+    async def generate_comprehensive_outputs(self, processed_articles: List[Dict[str, Any]]) -> Dict[str, str]:
         """Generate comprehensive output files with enhanced formatting"""
 
         output_files = {}
@@ -403,18 +362,11 @@ class EnhancedComprehensivePipeline:
                     "published_date": article.get("published_date", ""),
                     "quality_score": article.get("quality_score", 0),
                     "relevance_score": article.get("relevance_score", 0),
-                    "description": article.get("description", "")[
-                        :200
-                    ],  # Truncate for CSV
-                    "content_preview": (
-                        article["content"][:300] if article["content"] else ""
-                    ),  # Preview
+                    "description": article.get("description", "")[:200],  # Truncate for CSV
+                    "content_preview": (article["content"][:300] if article["content"] else ""),  # Preview
                     "agent_count": article.get("agent_count", 0),
                     "processing_status": (
-                        "success"
-                        if "ai_responses" in article
-                        and "error" not in article["ai_responses"]
-                        else "error"
+                        "success" if "ai_responses" in article and "error" not in article["ai_responses"] else "error"
                     ),
                 }
 
@@ -426,9 +378,7 @@ class EnhancedComprehensivePipeline:
                         "credibility_score": agent_scores.get("credibility_score", 0),
                         "depth_score": agent_scores.get("depth_score", 0),
                         "relevance_agent_score": agent_scores.get("relevance_score", 0),
-                        "human_reasoning_score": agent_scores.get(
-                            "human_reasoning_score", 0
-                        ),
+                        "human_reasoning_score": agent_scores.get("human_reasoning_score", 0),
                         "overall_agent_score": agent_scores.get("overall_score", 0),
                     }
                 )
@@ -450,21 +400,13 @@ class EnhancedComprehensivePipeline:
                     "pipeline_version": "3.1.0",
                     "total_articles": len(processed_articles),
                     "processing_duration_seconds": (
-                        (
-                            self.stats["processing_end"]
-                            - self.stats["processing_start"]
-                        ).total_seconds()
-                        if self.stats["processing_end"]
-                        and self.stats["processing_start"]
+                        (self.stats["processing_end"] - self.stats["processing_start"]).total_seconds()
+                        if self.stats["processing_end"] and self.stats["processing_start"]
                         else 0
                     ),
                     "extraction_duration_seconds": (
-                        (
-                            self.stats["extraction_end"]
-                            - self.stats["extraction_start"]
-                        ).total_seconds()
-                        if self.stats["extraction_end"]
-                        and self.stats["extraction_start"]
+                        (self.stats["extraction_end"] - self.stats["extraction_start"]).total_seconds()
+                        if self.stats["extraction_end"] and self.stats["extraction_start"]
                         else 0
                     ),
                     "ai_agents_used": 13,
@@ -487,9 +429,7 @@ class EnhancedComprehensivePipeline:
             with open(txt_file, "w", encoding="utf-8") as f:
                 f.write("ENHANCED CRYPTO & MACRO NEWS ANALYSIS RESULTS\n")
                 f.write("=" * 60 + "\n\n")
-                f.write(
-                    f"Generation Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n"
-                )
+                f.write(f"Generation Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
                 f.write(f"Total Articles: {len(processed_articles)}\n")
                 f.write(f"Crypto Articles: {self.stats['crypto_articles']}\n")
                 f.write(f"Macro Articles: {self.stats['macro_articles']}\n")
@@ -507,19 +447,11 @@ class EnhancedComprehensivePipeline:
                     # Agent scores
                     agent_scores = article.get("agent_scores", {})
                     if agent_scores:
-                        f.write(
-                            f"Overall Score: {agent_scores.get('overall_score', 0):.1f}/10\n"
-                        )
-                        f.write(
-                            f"Context: {agent_scores.get('context_score', 0):.1f}/10\n"
-                        )
-                        f.write(
-                            f"Credibility: {agent_scores.get('credibility_score', 0):.1f}/10\n"
-                        )
+                        f.write(f"Overall Score: {agent_scores.get('overall_score', 0):.1f}/10\n")
+                        f.write(f"Context: {agent_scores.get('context_score', 0):.1f}/10\n")
+                        f.write(f"Credibility: {agent_scores.get('credibility_score', 0):.1f}/10\n")
                         f.write(f"Depth: {agent_scores.get('depth_score', 0):.1f}/10\n")
-                        f.write(
-                            f"Relevance: {agent_scores.get('relevance_score', 0):.1f}/10\n"
-                        )
+                        f.write(f"Relevance: {agent_scores.get('relevance_score', 0):.1f}/10\n")
 
                     f.write(f"Content Preview: {article.get('content', '')[:200]}...\n")
                     f.write("\n")
@@ -528,16 +460,12 @@ class EnhancedComprehensivePipeline:
             logger.info(f"📄 Human-readable TXT created: {txt_file}")
 
             # 4. Agent Responses Summary
-            agent_summary_file = (
-                f"{self.output_dir}/agent_responses_summary_{self.timestamp}.txt"
-            )
+            agent_summary_file = f"{self.output_dir}/agent_responses_summary_{self.timestamp}.txt"
             with open(agent_summary_file, "w", encoding="utf-8") as f:
                 f.write("AI AGENT RESPONSES SUMMARY\n")
                 f.write("=" * 50 + "\n\n")
                 f.write(f"Total Articles Processed: {len(processed_articles)}\n")
-                f.write(
-                    f"Total Agent Responses: {self.stats['agent_responses_captured']}\n"
-                )
+                f.write(f"Total Agent Responses: {self.stats['agent_responses_captured']}\n")
                 f.write(
                     f"Average Responses per Article: {self.stats['agent_responses_captured'] / len(processed_articles) if processed_articles else 0:.1f}\n\n"
                 )
@@ -557,9 +485,7 @@ class EnhancedComprehensivePipeline:
             report_file = f"{self.output_dir}/pipeline_report_{self.timestamp}.md"
             with open(report_file, "w", encoding="utf-8") as f:
                 f.write("# Enhanced Crypto & Macro News Pipeline Report\n\n")
-                f.write(
-                    f"**Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n"
-                )
+                f.write(f"**Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
                 f.write(f"**Pipeline Version:** 3.1.0\n")
                 f.write(f"**Target Articles:** {self.target_articles}\n\n")
 
@@ -567,25 +493,19 @@ class EnhancedComprehensivePipeline:
                 f.write(f"- **Total Articles:** {len(processed_articles)}\n")
                 f.write(f"- **Crypto Articles:** {self.stats['crypto_articles']}\n")
                 f.write(f"- **Macro Articles:** {self.stats['macro_articles']}\n")
-                f.write(
-                    f"- **Processing Errors:** {self.stats['articles_with_errors']}\n"
-                )
+                f.write(f"- **Processing Errors:** {self.stats['articles_with_errors']}\n")
                 f.write(
                     f"- **Success Rate:** {((len(processed_articles) - self.stats['articles_with_errors']) / len(processed_articles)) * 100:.1f}%\n\n"
                 )
 
                 f.write("## Performance Metrics\n\n")
                 extraction_time = (
-                    (
-                        self.stats["extraction_end"] - self.stats["extraction_start"]
-                    ).total_seconds()
+                    (self.stats["extraction_end"] - self.stats["extraction_start"]).total_seconds()
                     if self.stats["extraction_end"] and self.stats["extraction_start"]
                     else 0
                 )
                 processing_time = (
-                    (
-                        self.stats["processing_end"] - self.stats["processing_start"]
-                    ).total_seconds()
+                    (self.stats["processing_end"] - self.stats["processing_start"]).total_seconds()
                     if self.stats["processing_end"] and self.stats["processing_start"]
                     else 0
                 )
@@ -602,18 +522,10 @@ class EnhancedComprehensivePipeline:
                 f.write("## Memory Agent Statistics\n\n")
                 if self.memory_agent:
                     memory_stats = await self.memory_agent.get_statistics()
-                    f.write(
-                        f"- **Total Memories:** {memory_stats.get('total_memories', 0)}\n"
-                    )
-                    f.write(
-                        f"- **Pattern Memories:** {memory_stats.get('pattern_memories', 0)}\n"
-                    )
-                    f.write(
-                        f"- **Context Memories:** {memory_stats.get('context_memories', 0)}\n"
-                    )
-                    f.write(
-                        f"- **Fact Memories:** {memory_stats.get('fact_memories', 0)}\n"
-                    )
+                    f.write(f"- **Total Memories:** {memory_stats.get('total_memories', 0)}\n")
+                    f.write(f"- **Pattern Memories:** {memory_stats.get('pattern_memories', 0)}\n")
+                    f.write(f"- **Context Memories:** {memory_stats.get('context_memories', 0)}\n")
+                    f.write(f"- **Fact Memories:** {memory_stats.get('fact_memories', 0)}\n")
                 else:
                     f.write("- **Memory Agents:** Not available\n")
 
@@ -630,9 +542,7 @@ class EnhancedComprehensivePipeline:
             logger.error(f"❌ Error generating outputs: {e}")
             return {}
 
-    def _extract_agent_scores(
-        self, agent_responses: Dict[str, Any]
-    ) -> Dict[str, float]:
+    def _extract_agent_scores(self, agent_responses: Dict[str, Any]) -> Dict[str, float]:
         """Extract agent scores from responses for easier access"""
 
         scores = {}
@@ -674,9 +584,7 @@ class EnhancedComprehensivePipeline:
                 "human_reasoning_score": 0.10,
             }
 
-            weighted_sum = sum(
-                scores.get(key, 0) * weight for key, weight in weights.items()
-            )
+            weighted_sum = sum(scores.get(key, 0) * weight for key, weight in weights.items())
             scores["overall_score"] = weighted_sum
 
         return scores
@@ -698,12 +606,8 @@ async def main():
             print("=" * 80)
             print(f"⏱️  Total Execution Time: {result['total_duration']:.1f} seconds")
             print(f"📊 Articles Processed: {result['articles_processed']}")
-            print(
-                f"📝 Agent Responses: {result['statistics']['agent_responses_captured']}"
-            )
-            print(
-                f"🗄️  Archive Location: {result['archive_path'].split('/')[-1] if result['archive_path'] else 'N/A'}"
-            )
+            print(f"📝 Agent Responses: {result['statistics']['agent_responses_captured']}")
+            print(f"🗄️  Archive Location: {result['archive_path'].split('/')[-1] if result['archive_path'] else 'N/A'}")
             print(f"📄 Output Files: {len(result['output_files'])}")
 
             # Memory Agent Statistics
@@ -711,12 +615,8 @@ async def main():
                 memory_stats = await pipeline.memory_agent.get_statistics()
                 print(f"\n🧠 MEMORY AGENT STATISTICS:")
                 print(f"   📚 Total Memories: {memory_stats.get('total_memories', 0)}")
-                print(
-                    f"   🔍 Pattern Memories: {memory_stats.get('pattern_memories', 0)}"
-                )
-                print(
-                    f"   💭 Context Memories: {memory_stats.get('context_memories', 0)}"
-                )
+                print(f"   🔍 Pattern Memories: {memory_stats.get('pattern_memories', 0)}")
+                print(f"   💭 Context Memories: {memory_stats.get('context_memories', 0)}")
                 print(f"   📊 Fact Memories: {memory_stats.get('fact_memories', 0)}")
 
             # Output files

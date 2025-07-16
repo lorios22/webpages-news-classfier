@@ -67,9 +67,7 @@ async def main():
             print("=" * 80)
             print(f"⏱️  Total Execution Time: {total_duration:.1f} seconds")
             print(f"📊 Articles Processed: {result.get('articles_processed', 0)}")
-            print(
-                f"📝 Agent Responses: {result.get('statistics', {}).get('agent_responses_captured', 0)}"
-            )
+            print(f"📝 Agent Responses: {result.get('statistics', {}).get('agent_responses_captured', 0)}")
             print(f"🗄️  Archive Location: {result.get('archive_path', 'N/A')}")
             print(f"📄 Output Files: {len(result.get('output_files', {}))}")
             print()
@@ -79,12 +77,8 @@ async def main():
                 memory_stats = await pipeline.memory_agent.get_statistics()
                 print("🧠 MEMORY AGENT STATISTICS:")
                 print(f"   📚 Total Memories: {memory_stats.get('total_memories', 0)}")
-                print(
-                    f"   🔍 Pattern Memories: {memory_stats.get('pattern_memories', 0)}"
-                )
-                print(
-                    f"   💭 Context Memories: {memory_stats.get('context_memories', 0)}"
-                )
+                print(f"   🔍 Pattern Memories: {memory_stats.get('pattern_memories', 0)}")
+                print(f"   💭 Context Memories: {memory_stats.get('context_memories', 0)}")
                 print(f"   📊 Fact Memories: {memory_stats.get('fact_memories', 0)}")
                 print()
 

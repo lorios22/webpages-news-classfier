@@ -65,9 +65,7 @@ class TestArticleEntity:
 
     def test_article_creation_invalid_content(self):
         """Test article creation fails with invalid content"""
-        with pytest.raises(
-            ValueError, match="Article content must be at least 10 characters"
-        ):
+        with pytest.raises(ValueError, match="Article content must be at least 10 characters"):
             Article(
                 id="test-123",
                 url="https://example.com/article",
@@ -117,9 +115,7 @@ class TestArticleEntity:
             content="Valid content for testing.",
         )
 
-        score = Score.create_with_agent(
-            value=7.5, agent_name="fact_checker", reasoning="High credibility content"
-        )
+        score = Score.create_with_agent(value=7.5, agent_name="fact_checker", reasoning="High credibility content")
 
         article.add_score("fact_checker", score)
 
@@ -184,9 +180,7 @@ class TestArticleEntity:
             content="Valid content for testing.",
         )
 
-        with pytest.raises(
-            ValueError, match="Classification must be a Classification instance"
-        ):
+        with pytest.raises(ValueError, match="Classification must be a Classification instance"):
             article.set_classification("invalid_classification")
 
     def test_mark_as_skipped(self):
@@ -259,9 +253,7 @@ class TestArticleEntity:
             content="Valid content for testing.",
         )
 
-        score = Score.create_with_agent(
-            value=6.8, agent_name="depth_analyzer", reasoning="Moderate technical depth"
-        )
+        score = Score.create_with_agent(value=6.8, agent_name="depth_analyzer", reasoning="Moderate technical depth")
         article.add_score("depth_analyzer", score)
 
         retrieved_score = article.get_score_by_agent("depth_analyzer")
@@ -344,9 +336,7 @@ class TestArticleEntity:
         score = Score.create_with_agent(value=7.0, agent_name="test_agent")
         article.add_score("test_agent", score)
 
-        classification = Classification.create_from_score(
-            final_score=7.0, summary="Good article", rationale="Well-written"
-        )
+        classification = Classification.create_from_score(final_score=7.0, summary="Good article", rationale="Well-written")
         article.set_classification(classification)
 
         article_dict = article.to_dict()

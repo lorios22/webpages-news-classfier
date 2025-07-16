@@ -158,11 +158,7 @@ class Score:
         Returns:
             Score instance
         """
-        timestamp = (
-            datetime.fromisoformat(data.get("timestamp"))
-            if data.get("timestamp")
-            else datetime.now()
-        )
+        timestamp = datetime.fromisoformat(data.get("timestamp")) if data.get("timestamp") else datetime.now()
 
         return cls(
             value=float(data["value"]),

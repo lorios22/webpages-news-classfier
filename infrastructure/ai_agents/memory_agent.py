@@ -100,9 +100,7 @@ class MemAgent:
         expires_in_days: Optional[int] = None,
     ) -> str:
         """Store a new memory entry"""
-        memory_id = hashlib.md5(
-            f"{agent_id}_{content}_{datetime.now().isoformat()}".encode()
-        ).hexdigest()
+        memory_id = hashlib.md5(f"{agent_id}_{content}_{datetime.now().isoformat()}".encode()).hexdigest()
 
         now = datetime.now()
         expires_at = now + timedelta(days=expires_in_days) if expires_in_days else None
@@ -203,9 +201,7 @@ class MemAgent:
                 (datetime.now().isoformat(), memory_id),
             )
 
-    def search_memories(
-        self, agent_id: str, query: str, limit: int = 5
-    ) -> List[MemoryEntry]:
+    def search_memories(self, agent_id: str, query: str, limit: int = 5) -> List[MemoryEntry]:
         """Search memories by content similarity"""
         memories = self.retrieve_memories(agent_id, limit=100)
 
@@ -215,9 +211,7 @@ class MemAgent:
 
         for memory in memories:
             content_words = set(memory.content.lower().split())
-            similarity = len(query_words.intersection(content_words)) / len(
-                query_words.union(content_words)
-            )
+            similarity = len(query_words.intersection(content_words)) / len(query_words.union(content_words))
             if similarity > 0.1:  # Minimum similarity threshold
                 scored_memories.append((memory, similarity))
 

@@ -26,7 +26,7 @@ def check_pipeline_status():
             pipelines_running.append("Crypto Macro Extractor")
 
         return pipelines_running
-    except:
+    except Exception:
         return []
 
 
@@ -44,21 +44,11 @@ def get_extraction_progress():
                 progress[log_file] = {
                     "total_lines": len(lines),
                     "last_10_lines": lines[-10:] if lines else [],
-                    "articles_extracted": sum(
-                        1 for line in lines if "✅ Added" in line
-                    ),
-                    "crypto_articles": sum(
-                        1 for line in lines if "✅ Added crypto article" in line
-                    ),
-                    "macro_articles": sum(
-                        1 for line in lines if "✅ Added macro article" in line
-                    ),
-                    "sources_processed": sum(
-                        1 for line in lines if "articles extracted" in line
-                    ),
-                    "errors": sum(
-                        1 for line in lines if "ERROR" in line or "❌" in line
-                    ),
+                    "articles_extracted": sum(1 for line in lines if "✅ Added" in line),
+                    "crypto_articles": sum(1 for line in lines if "✅ Added crypto article" in line),
+                    "macro_articles": sum(1 for line in lines if "✅ Added macro article" in line),
+                    "sources_processed": sum(1 for line in lines if "articles extracted" in line),
+                    "errors": sum(1 for line in lines if "ERROR" in line or "❌" in line),
                 }
 
         return progress
@@ -84,9 +74,7 @@ def check_results():
                 "file_count": len(files),
                 "files": files,
                 "total_size": sum(
-                    os.path.getsize(os.path.join(dir_name, f))
-                    for f in files
-                    if os.path.isfile(os.path.join(dir_name, f))
+                    os.path.getsize(os.path.join(dir_name, f)) for f in files if os.path.isfile(os.path.join(dir_name, f))
                 ),
             }
         else:
@@ -127,12 +115,8 @@ def main():
         for line in log_data["last_10_lines"][-5:]:
             if line.strip():
                 timestamp = line.split(" - ")[0] if " - " in line else ""
-                message = (
-                    line.split(" - ")[-1].strip() if " - " in line else line.strip()
-                )
-                print(
-                    f"   {timestamp.split()[1] if timestamp else ''}: {message[:80]}..."
-                )
+                message = line.split(" - ")[-1].strip() if " - " in line else line.strip()
+                print(f"   {timestamp.split()[1] if timestamp else ''}: {message[:80]}...")
     else:
         print("   📝 No extraction log found yet")
     print()
@@ -146,9 +130,7 @@ def main():
 
     for dir_name, dir_data in results.items():
         file_count = dir_data["file_count"]
-        size_mb = (
-            dir_data["total_size"] / (1024 * 1024) if dir_data["total_size"] > 0 else 0
-        )
+        size_mb = dir_data["total_size"] / (1024 * 1024) if dir_data["total_size"] > 0 else 0
 
         print(f"   📂 {dir_name}/: {file_count} files ({size_mb:.1f} MB)")
 
@@ -171,10 +153,7 @@ def main():
         result = subprocess.run(["ps", "aux"], capture_output=True, text=True)
         lines = result.stdout.split("\n")
         python_processes = [
-            line
-            for line in lines
-            if "python" in line.lower()
-            and ("enhanced" in line or "comprehensive" in line)
+            line for line in lines if "python" in line.lower() and ("enhanced" in line or "comprehensive" in line)
         ]
 
         if python_processes:
@@ -185,12 +164,10 @@ def main():
                     mem = parts[3]
                     time_str = parts[9]
                     command = " ".join(parts[10:])
-                    print(
-                        f"   🔄 CPU: {cpu}% | MEM: {mem}% | TIME: {time_str} | {command[:50]}..."
-                    )
+                    print(f"   🔄 CPU: {cpu}% | MEM: {mem}% | TIME: {time_str} | {command[:50]}...")
         else:
             print("   💤 No relevant processes found")
-    except:
+    except Exception:
         print("   ❓ Could not check process information")
 
     print()

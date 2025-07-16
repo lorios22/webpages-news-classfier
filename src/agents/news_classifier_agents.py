@@ -72,9 +72,7 @@ class NewsClassifierAgents:
         # Initialize LLM
         openai_api_key = os.getenv("OPENAI_API_KEY")
         if openai_api_key:
-            self.llm = ChatOpenAI(
-                model="gpt-4o-mini", temperature=0.3, api_key=openai_api_key
-            )
+            self.llm = ChatOpenAI(model="gpt-4o-mini", temperature=0.3, api_key=openai_api_key)
             print("🤖 Using OpenAI GPT-4o-mini for detailed analysis")
         else:
             self.llm = ChatOllama(model="llama3.2:latest", temperature=0.3)
@@ -168,9 +166,7 @@ class NewsClassifierAgents:
 
         print(f"🔧 Initialized {len(self.agent_configs)} enhanced agents")
 
-    async def call_agent(
-        self, agent_name: str, content: str, context: Dict[str, Any] = None
-    ) -> Dict[str, Any]:
+    async def call_agent(self, agent_name: str, content: str, context: Dict[str, Any] = None) -> Dict[str, Any]:
         """Call a specific agent with enhanced error handling and scoring"""
 
         start_time = datetime.now()
@@ -184,9 +180,7 @@ class NewsClassifierAgents:
             # Prepare context if available
             context_info = ""
             if context:
-                context_info = (
-                    f"\n\nContext Information:\n{json.dumps(context, indent=2)}"
-                )
+                context_info = f"\n\nContext Information:\n{json.dumps(context, indent=2)}"
 
             # Create messages
             messages = [
@@ -238,9 +232,7 @@ class NewsClassifierAgents:
                 }
             }
 
-    def extract_score_from_response(
-        self, response: Dict[str, Any], agent_name: str
-    ) -> float:
+    def extract_score_from_response(self, response: Dict[str, Any], agent_name: str) -> float:
         """Extract score from agent response with enhanced accuracy"""
 
         # Score field mappings for different agents
@@ -264,9 +256,7 @@ class NewsClassifierAgents:
         expected_score_field = score_mappings.get(agent_name, f"{agent_name}_score")
 
         # Debug logging
-        logger.debug(
-            f"Extracting score for {agent_name}, looking for field: {expected_score_field}"
-        )
+        logger.debug(f"Extracting score for {agent_name}, looking for field: {expected_score_field}")
         logger.debug(f"Response keys: {list(response.keys())}")
 
         # Try multiple extraction strategies in order of preference
@@ -314,23 +304,15 @@ class NewsClassifierAgents:
                 score = float(score)
                 # Ensure score is in valid range
                 if 1.0 <= score <= 10.0:
-                    logger.info(
-                        f"✅ {agent_name}: Score {score} extracted via {extraction_method}"
-                    )
+                    logger.info(f"✅ {agent_name}: Score {score} extracted via {extraction_method}")
                     return score
                 else:
-                    logger.warning(
-                        f"⚠️ {agent_name}: Score {score} out of range (1-10), using fallback"
-                    )
+                    logger.warning(f"⚠️ {agent_name}: Score {score} out of range (1-10), using fallback")
             except (ValueError, TypeError):
-                logger.warning(
-                    f"⚠️ {agent_name}: Score {score} not convertible to float, using fallback"
-                )
+                logger.warning(f"⚠️ {agent_name}: Score {score} not convertible to float, using fallback")
 
         # Only use fallback if absolutely necessary
-        logger.warning(
-            f"⚠️ {agent_name}: No valid score found in response, using fallback"
-        )
+        logger.warning(f"⚠️ {agent_name}: No valid score found in response, using fallback")
         logger.debug(f"Full response for debugging: {json.dumps(response, indent=2)}")
 
         # Use a more reasonable fallback based on agent type
@@ -432,9 +414,7 @@ class NewsClassifierAgents:
         for agent_name in consolidation_agents:
             try:
                 context_content = f"{content}\n\nPrevious Analysis Results:\n{json.dumps(individual_results, indent=2)}"
-                result = await self.call_agent(
-                    agent_name, context_content, consolidation_context
-                )
+                result = await self.call_agent(agent_name, context_content, consolidation_context)
                 individual_results[agent_name] = result
             except Exception as e:
                 logger.error(f"Error in consolidation agent {agent_name}: {e}")
@@ -452,9 +432,7 @@ class NewsClassifierAgents:
 
         for agent_name in self.agent_configs.keys():
             if agent_name in individual_results:
-                score = self.extract_score_from_response(
-                    individual_results[agent_name], agent_name
-                )
+                score = self.extract_score_from_response(individual_results[agent_name], agent_name)
                 agent_scores[agent_name] = score
                 print(f"   {agent_name}: {score:.1f}/10")
 
@@ -479,14 +457,10 @@ class NewsClassifierAgents:
                 score = agent_scores[agent_name]
                 weighted_scores[score_key] = score * weight
                 total_weight += weight
-                print(
-                    f"   💰 {agent_name}: {score:.1f} * {weight:.2f} = {score * weight:.3f}"
-                )
+                print(f"   💰 {agent_name}: {score:.1f} * {weight:.2f} = {score * weight:.3f}")
 
         # Calculate final weighted score
-        final_weighted_score = (
-            sum(weighted_scores.values()) / total_weight if total_weight > 0 else 5.0
-        )
+        final_weighted_score = sum(weighted_scores.values()) / total_weight if total_weight > 0 else 5.0
 
         # Get final validator score
         validator_score = agent_scores.get("validator", 5.0)
@@ -523,9 +497,7 @@ class NewsClassifierAgents:
                 logger.warning(f"Context analysis failed: {e}")
 
         print(f"✅ Final weighted score: {final_weighted_score:.2f}/10")
-        print(
-            f"✅ Article processed successfully - Score: {final_weighted_score:.2f}/10"
-        )
+        print(f"✅ Article processed successfully - Score: {final_weighted_score:.2f}/10")
         return result
 
 

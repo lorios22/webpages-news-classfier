@@ -1,7 +1,10 @@
+import logging
 import re
 from typing import Dict, List, Union
 
 from bs4 import BeautifulSoup
+
+logger = logging.getLogger(__name__)
 
 
 def clean_and_structure_content(content: str) -> Dict:
@@ -27,22 +30,14 @@ def clean_and_structure_content(content: str) -> Dict:
         text = " ".join(text.split())
 
         # Basic structure detection
-        is_news_article = any(
-            indicator in text.lower() for indicator in ["news", "report", "announced"]
-        )
-        is_blog_post = any(
-            indicator in text.lower() for indicator in ["blog", "opinion", "thoughts"]
-        )
+        is_news_article = any(indicator in text.lower() for indicator in ["news", "report", "announced"])
+        is_blog_post = any(indicator in text.lower() for indicator in ["blog", "opinion", "thoughts"])
 
         return {
             "cleaned_content": text,
             "metadata": {
                 "title": title,
-                "content_type": (
-                    "news_article"
-                    if is_news_article
-                    else "blog_post" if is_blog_post else "unknown"
-                ),
+                "content_type": ("news_article" if is_news_article else "blog_post" if is_blog_post else "unknown"),
                 "estimated_length": len(text.split()),
             },
         }
@@ -89,9 +84,7 @@ def transcribe_audio_video(url: str) -> Dict:
                 "poster": "",
                 "technical": {},
             },
-            "transcript": [
-                {"timestamp": "00:00:00", "content": "", "type": "speech", "notes": ""}
-            ],
+            "transcript": [{"timestamp": "00:00:00", "content": "", "type": "speech", "notes": ""}],
             "technical_log": [],
         }
     except Exception as e:
@@ -121,6 +114,7 @@ def extract_claims(text: str) -> List[str]:
         # For now, return a simple structure
         return ["Claim 1", "Claim 2"]
     except Exception as e:
+        logger.warning(f"Failed to extract claims: {e}")
         return []
 
 
@@ -164,16 +158,12 @@ class ScoringPitfallsValidator:
         Validates if the score properly considers common transition pitfalls and content type limits.
         """
         warnings = []
-        content_type = agent_outputs.get("content_metadata", {}).get(
-            "type", "blog_post"
-        )
+        content_type = agent_outputs.get("content_metadata", {}).get("type", "blog_post")
 
         # Check content type limits
         type_limit = self.content_type_limits.get(content_type, 7.0)
         if score > type_limit:
-            warnings.append(
-                f"{content_type} score exceeding typical limit of {type_limit}"
-            )
+            warnings.append(f"{content_type} score exceeding typical limit of {type_limit}")
 
         # Check depth vs score alignment
         if isinstance(agent_outputs["depth_analysis"], dict):
@@ -247,9 +237,7 @@ def consolidate_score(agent_outputs: Dict) -> Dict:
     # Apply historical adjustment (capped at ±1.5)
     adjusted_score = raw_score + max(min(historical_adjustment, 1.5), -1.5)
     # Validate against common pitfalls
-    validation_result = validator.validate_score_transition(
-        adjusted_score, agent_outputs
-    )
+    validation_result = validator.validate_score_transition(adjusted_score, agent_outputs)
 
     if validation_result["requires_review"]:
         guidance = validator.get_boundary_guidance(adjusted_score)
@@ -271,9 +259,7 @@ def consolidate_score(agent_outputs: Dict) -> Dict:
     }
 
 
-def human_like_adjustment(
-    score: float, content_type: str
-) -> Dict[str, Union[float, str, List[str]]]:
+def human_like_adjustment(score: float, content_type: str) -> Dict[str, Union[float, str, List[str]]]:
     """
     Applies human-like heuristics to adjust scores based on content type.
 
@@ -415,8 +401,6 @@ def extract_urls(content: str) -> list:
     Returns:
         list: List of extracted URLs
     """
-    import re
-
     # Regex pattern for URLs
     url_pattern = r"https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+"
 

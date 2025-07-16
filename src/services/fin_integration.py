@@ -107,22 +107,16 @@ class FINIntegration:
         """Get credibility score for a domain"""
         try:
             domain = urlparse(url).netloc.lower()
-            return self.domain_credibility.get(
-                domain, self.domain_credibility["default"]
-            )
-        except:
+            return self.domain_credibility.get(domain, self.domain_credibility["default"])
+        except Exception:
             return self.domain_credibility["default"]
 
     def analyze_sentiment(self, content: str) -> Dict:
         """Analyze sentiment of the content"""
         content_lower = content.lower()
 
-        positive_count = sum(
-            1 for keyword in self.positive_keywords if keyword in content_lower
-        )
-        negative_count = sum(
-            1 for keyword in self.negative_keywords if keyword in content_lower
-        )
+        positive_count = sum(1 for keyword in self.positive_keywords if keyword in content_lower)
+        negative_count = sum(1 for keyword in self.negative_keywords if keyword in content_lower)
 
         if positive_count > negative_count:
             sentiment = "bullish"
@@ -145,12 +139,8 @@ class FINIntegration:
         """Assess potential market impact"""
         content_lower = content.lower()
 
-        high_impact_count = sum(
-            1 for keyword in self.high_impact_keywords if keyword in content_lower
-        )
-        medium_impact_count = sum(
-            1 for keyword in self.medium_impact_keywords if keyword in content_lower
-        )
+        high_impact_count = sum(1 for keyword in self.high_impact_keywords if keyword in content_lower)
+        medium_impact_count = sum(1 for keyword in self.medium_impact_keywords if keyword in content_lower)
 
         if high_impact_count >= 2:
             return "high"
@@ -213,9 +203,7 @@ class FINIntegration:
             "source_credibility": {
                 "source_credibility": domain_credibility,
                 "domain": urlparse(url).netloc,
-                "classification": (
-                    "news_outlet" if domain_credibility > 80 else "unknown"
-                ),
+                "classification": ("news_outlet" if domain_credibility > 80 else "unknown"),
             },
             "sentiment_analysis": {
                 "sentiment": sentiment_analysis["sentiment"],
@@ -230,9 +218,7 @@ class FINIntegration:
             },
             "fact_check": {
                 "fact_check_score": int(final_credibility),
-                "classification": (
-                    "verified" if final_credibility > 70 else "unverified"
-                ),
+                "classification": ("verified" if final_credibility > 70 else "unverified"),
                 "timestamp": datetime.now().isoformat(),
             },
             "analysis_timestamp": datetime.now().isoformat(),

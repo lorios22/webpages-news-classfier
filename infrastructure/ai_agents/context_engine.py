@@ -54,7 +54,7 @@ class ContextElement:
         try:
             encoding = tiktoken.encoding_for_model("gpt-4")
             return len(encoding.encode(text))
-        except:
+        except Exception:
             # Fallback estimation
             return len(text.split()) * 1.3
 
@@ -69,9 +69,7 @@ class ContextBudget:
     available_tokens: int = field(init=False)
 
     def __post_init__(self):
-        self.available_tokens = (
-            self.total_tokens - self.system_reserve - self.output_reserve
-        )
+        self.available_tokens = self.total_tokens - self.system_reserve - self.output_reserve
 
 
 class ContextEngine:
@@ -110,7 +108,7 @@ class ContextEngine:
         """Get tiktoken encoding"""
         try:
             return tiktoken.encoding_for_model("gpt-4")
-        except:
+        except Exception:
             return tiktoken.get_encoding("cl100k_base")
 
     def add_context_element(
@@ -192,9 +190,7 @@ class ContextEngine:
         """Optimize context to fit within budget"""
         # Step 1: Remove low-priority, low-importance elements
         self.context_elements = [
-            elem
-            for elem in self.context_elements
-            if not (elem.priority == Priority.LOW and elem.importance_score < 0.3)
+            elem for elem in self.context_elements if not (elem.priority == Priority.LOW and elem.importance_score < 0.3)
         ]
 
         # Step 2: Compress compressible elements
@@ -262,32 +258,22 @@ class ContextEngine:
                         running_total += element.token_count
                     elif zone_config.get("compressible", True):
                         # Try to compress and fit
-                        needed_compression = (
-                            1 - (max_tokens - running_total) / element.token_count
-                        )
+                        needed_compression = 1 - (max_tokens - running_total) / element.token_count
                         if needed_compression < 0.8:  # Don't over-compress
-                            element.content = self._compress_text(
-                                element.content, 1 - needed_compression
-                            )
-                            element.token_count = len(
-                                self.encoding.encode(element.content)
-                            )
+                            element.content = self._compress_text(element.content, 1 - needed_compression)
+                            element.token_count = len(self.encoding.encode(element.content))
                             kept_elements.append(element)
                             running_total += element.token_count
                         break
 
                 # Update context_elements
-                self.context_elements = [
-                    elem for elem in self.context_elements if elem.zone != zone
-                ]
+                self.context_elements = [elem for elem in self.context_elements if elem.zone != zone]
                 self.context_elements.extend(kept_elements)
 
     def _emergency_truncation(self):
         """Emergency truncation as last resort"""
         # Sort all elements by priority and importance
-        self.context_elements.sort(
-            key=lambda x: (x.priority.value, -x.importance_score)
-        )
+        self.context_elements.sort(key=lambda x: (x.priority.value, -x.importance_score))
 
         running_total = 0
         kept_elements = []
@@ -349,8 +335,7 @@ class ContextEngine:
             "token_count": final_token_count,
             "budget_utilization": final_token_count / self.budget.available_tokens,
             "zones_used": list(zone_content.keys()),
-            "optimization_applied": final_token_count
-            < sum(elem.token_count for elem in self.context_elements),
+            "optimization_applied": final_token_count < sum(elem.token_count for elem in self.context_elements),
         }
 
     def detect_context_bleed(self, content: str) -> Dict[str, Any]:
@@ -429,9 +414,7 @@ class ContextEngine:
                 main_content.append(section)
 
                 # Stop if we hit another article
-                if len(main_content) > 5 and re.search(
-                    r"related\s+articles?|more\s+stories", section.lower()
-                ):
+                if len(main_content) > 5 and re.search(r"related\s+articles?|more\s+stories", section.lower()):
                     break
 
         return "\n\n".join(main_content)
