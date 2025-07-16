@@ -215,18 +215,18 @@ class NewsClassifierAgents:
                         response=parsed_response,
                         processing_time=processing_time
                     )
-    except Exception as e:
+                except Exception as e:
                     logger.warning(f"Failed to store memory for {agent_name}: {e}")
             
             return parsed_response
         
-    except Exception as e:
+        except Exception as e:
             logger.error(f"Error in {agent_name}: {e}")
             
             # Return fallback response with random score
             fallback_score = agent_config["fallback_score"]()
 
-    return {
+            return {
                 f"{agent_name}_state": {
                     "error": str(e),
                     "fallback_score": fallback_score,

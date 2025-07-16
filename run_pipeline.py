@@ -17,6 +17,7 @@ Features:
 
 import sys
 import os
+import asyncio
 
 # Add src directory to Python path for imports
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
@@ -32,8 +33,8 @@ def main():
         
         print("✅ Enhanced runner loaded successfully")
         
-        # Execute using the enhanced runner
-        run_enhanced_main()
+        # Execute using the enhanced runner (async function)
+        asyncio.run(run_enhanced_main())
         
     except ImportError as e:
         print(f"❌ Import Error: {e}")

@@ -1,0 +1,429 @@
+ENHANCED CRYPTO & MACRO NEWS ANALYSIS RESULTS
+============================================================
+
+Generation Time: 2025-07-14 23:32:33
+Total Articles: 30
+Crypto Articles: 25
+Macro Articles: 5
+Processing Errors: 0
+
+ARTICLE 1
+----------------------------------------
+Title: Bitcoin Market Top Is 'Nowhere Near,' Say Analysts as Price Pauses at $120K
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 20:26:45 +0000
+URL: https://www.coindesk.com/markets/2025/07/14/bitcoin-market-top-is-nowhere-near-say-analysts-as-price-pauses-at-120k
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailBitcoin Market Top Is Nowhere Near, Say Analysts as Price Pauses at 120KXRP, SUI and UNI outperformed as the broader crypto...
+
+ARTICLE 2
+----------------------------------------
+Title: It's Crypto Week. Congress Can Future-Proof the U.S. Financial System: Summer Mersinger
+Source: coindesk
+Category: macro
+Published: Mon, 14 Jul 2025 19:46:59 +0000
+URL: https://www.coindesk.com/opinion/2025/07/14/its-crypto-week-congress-can-future-proof-the-us-financial-system-summer-mersinger
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: OpinionShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailIts Crypto Week. Congress Can Future-Proof the U.S. Financial System: Summer MersingerThe head of the Blockchain Associatio...
+
+ARTICLE 3
+----------------------------------------
+Title: U.S. Banking Regulators Issue Crypto 'Safekeeping' Statement, Not Pushing New Policy
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 19:04:48 +0000
+URL: https://www.coindesk.com/policy/2025/07/14/u-s-banking-regulators-issue-crypto-safekeeping-statement-not-pushing-new-policy
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: PolicyShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailU.S. Banking Regulators Issue Crypto Safekeeping Statement, Not Pushing New PolicyThe federal agencies that oversee the U.S....
+
+ARTICLE 4
+----------------------------------------
+Title: Anti-Bitcoin Vanguard Might Be the Largest Institutional Holder of MSTR Stock
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 18:45:16 +0000
+URL: https://www.coindesk.com/business/2025/07/14/vanguard-accidentally-becomes-largest-holder-of-strategy-stock-despite-anti-bitcoin-stance
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: FinanceShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailAnti-Bitcoin Vanguard Might Be the Largest Institutional Holder of MSTR StockInstitutional dementia, said the top digital a...
+
+ARTICLE 5
+----------------------------------------
+Title: The Node: GENIUS, Clarity and a CBDC Ban
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 18:41:32 +0000
+URL: https://www.coindesk.com/opinion/2025/07/14/the-node-genius-clarity-and-a-cbdc-ban
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: OpinionShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailThe Node: GENIUS, Clarity and a CBDC BanWeve got a big week ahead of us in terms of U.S. crypto legislation, so I asked Kat...
+
+ARTICLE 6
+----------------------------------------
+Title: Crypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: Wintermute
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 18:10:41 +0000
+URL: https://www.coindesk.com/markets/2025/07/14/crypto-markets-bifurcate-with-institutions-focusing-on-btc-and-eth-while-retail-chases-alts-wintermute
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailCrypto Markets Bifurcate With Institutions Focusing on BTC and ETH While Retail Chases Alts: WintermuteEven inside altcoins...
+
+ARTICLE 7
+----------------------------------------
+Title: ICP Rebounds Toward $5.50 After Early Morning Surge and Midday Volatility
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 18:00:38 +0000
+URL: https://www.coindesk.com/markets/2025/07/14/icp-rebounds-toward-550-after-early-morning-surge-and-midday-volatility
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailICP Rebounds Toward 5.50 After Early Morning Surge and Midday VolatilityStrong institutional volume pushes ICP higher, clea...
+
+ARTICLE 8
+----------------------------------------
+Title: House Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins Thursday
+Source: coindesk
+Category: macro
+Published: Mon, 14 Jul 2025 17:52:40 +0000
+URL: https://www.coindesk.com/policy/2025/07/14/house-gears-up-for-crypto-market-structure-vote-on-wednesday-stablecoins-thursday
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: PolicyShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailHouse Gears Up for Crypto Market Structure Vote on Wednesday, Stablecoins ThursdayThe Clarity Act is set for a Wednesday aft...
+
+ARTICLE 9
+----------------------------------------
+Title: Why Bittensor Is AI’s Best Next-Gen Incubator
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 17:33:35 +0000
+URL: https://www.coindesk.com/opinion/2025/07/14/why-bittensor-is-ais-best-next-gen-incubator
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: OpinionShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailWhy Bittensor Is AIs Best Next-Gen IncubatorWith competing AI projects and performance-based rewards, Bittensor represents ...
+
+ARTICLE 10
+----------------------------------------
+Title: AAVE Surges as Deposits Hit $50B; Poised to Benefit From U.S. Crypto Regulation
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 16:31:18 +0000
+URL: https://www.coindesk.com/markets/2025/07/14/aave-surges-as-deposits-hit-50b-poised-to-benefit-from-us-crypto-regulation
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailAAVE Surges as Deposits Hit 50B; Poised to Benefit From U.S. Crypto RegulationThe bluechip DeFi token hit its strongest pri...
+
+ARTICLE 11
+----------------------------------------
+Title: XRP's Implied Volatility Explodes, Suggests 13% Price Swing as Congress' Crypto Week Kicks Off
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 16:00:56 +0000
+URL: https://www.coindesk.com/markets/2025/07/14/xrp-s-implied-volatility-explodes-suggests-13-price-swing-as-congress-crypto-week-kicks-off
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailXRPs Implied Volatility Explodes, Suggests 13 Price Swing as Congress Crypto Week Kicks OffXRP is showing strong bullish mo...
+
+ARTICLE 12
+----------------------------------------
+Title: NEAR Surges 7% in Strong Bullish Recovery Rally
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 15:49:23 +0000
+URL: https://www.coindesk.com/markets/2025/07/14/near-surges-7-in-strong-bullish-recovery-rally
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailNEAR Surges 7 in Strong Bullish Recovery RallyNEAR Protocols exceptional trading volume of 5.82 million units signals susta...
+
+ARTICLE 13
+----------------------------------------
+Title: ATOM Experiences Sharp Volatility in 4% Recovery Rally
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 15:38:19 +0000
+URL: https://www.coindesk.com/markets/2025/07/14/atom-experiences-sharp-volatility-in-4-recovery-rally
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailATOM Experiences Sharp Volatility in 4 Recovery RallyThe volatility comes as BTC continues to make fresh record highs.ByOli...
+
+ARTICLE 14
+----------------------------------------
+Title: Superstate CEO Robert Leshner Buys Majority Stake in 'Shady' Liquor Vendor With BTC Strategy
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 15:29:00 +0000
+URL: https://www.coindesk.com/business/2025/07/14/superstate-ceo-robert-leshner-buys-majority-stake-in-shady-liquor-vendor-with-btc-strategy
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: FinanceShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailSuperstate CEO Robert Leshner Buys Majority Stake in Shady Liquor Vendor With BTC StrategyLeshner said he plans to dismiss ...
+
+ARTICLE 15
+----------------------------------------
+Title: BitMine Immersion Surges 40% After Revealing $500M ETH Treasury
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 15:04:17 +0000
+URL: https://www.coindesk.com/markets/2025/07/14/bitmine-immersion-surges-40-after-revealing-500m-eth-treasury
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailBitMine Immersion Surges 40 After Revealing 500M ETH TreasuryThe shares rose over 40 after revealing the large ETH holdings...
+
+ARTICLE 16
+----------------------------------------
+Title: Bitcoin Mining Stocks Lead Crypto Equity Gains After BTC Hits $122K
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 14:31:46 +0000
+URL: https://www.coindesk.com/markets/2025/07/14/bitcoin-mining-stocks-lead-crypto-equity-gains-after-btc-hits-122k
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailBitcoin Mining Stocks Lead Crypto Equity Gains After BTC Hits 122KBitcoin ascended to an all-time high just shy of 123,00 d...
+
+ARTICLE 17
+----------------------------------------
+Title: 'Regime Change' at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome Powell
+Source: coindesk
+Category: macro
+Published: Mon, 14 Jul 2025 14:22:50 +0000
+URL: https://www.coindesk.com/markets/2025/07/14/regime-change-at-fed-crypto-rallies-as-pressure-mounts-on-chairman-jerome-powell
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailRegime Change at Fed? Crypto Rallies as Pressure Mounts on Chairman Jerome PowellThe White Houses campaign for new Federal ...
+
+ARTICLE 18
+----------------------------------------
+Title: Democrats Must Embrace Crypto: Terry McAuliffe
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 14:18:43 +0000
+URL: https://www.coindesk.com/opinion/2025/07/14/democrats-must-embrace-crypto-terry-mcauliffe
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: OpinionShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailDemocrats Must Embrace Crypto: Terry McAuliffeToo many Democrats standing in the way of crypto and out of step with the ver...
+
+ARTICLE 19
+----------------------------------------
+Title: Grayscale Files Confidential Submission for IPO With SEC
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 13:14:39 +0000
+URL: https://www.coindesk.com/business/2025/07/14/grayscale-files-confidential-submission-for-ipo-with-sec
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: FinanceShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailGrayscale Files Confidential Submission for IPO With SECThe asset manager joins a number of crypto firms that are looking t...
+
+ARTICLE 20
+----------------------------------------
+Title: CoinDesk 20 Performance Update: Stellar (XLM) Surges 20.8% Over Weekend
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 13:08:08 +0000
+URL: https://www.coindesk.com/coindesk-indices/2025/07/14/coindesk-20-performance-update-stellar-xlm-surges-20-8-over-weekend
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: CoinDesk IndicesShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailCoinDesk 20 Performance Update: Stellar (XLM) Surges 20.8 Over WeekendHedera (HBAR) joined Stellar (XLM) as a top ...
+
+ARTICLE 21
+----------------------------------------
+Title: Right to Code? Tornado Cash Dev Roman Storm's Money Laundering Trial Kicks Off Monday
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 13:05:06 +0000
+URL: https://www.coindesk.com/policy/2025/07/14/right-to-code-tornado-cash-dev-roman-storm-s-money-laundering-trial-kicks-off-monday
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: PolicyShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailRight to Code? Tornado Cash Dev Roman Storms Money Laundering Trial Kicks Off MondayIf convicted on all three charges, Storm...
+
+ARTICLE 22
+----------------------------------------
+Title: Shiba Inu Gains 3% as Explosive Burn Rate Spurs Bullish Predictions
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 12:35:55 +0000
+URL: https://www.coindesk.com/markets/2025/07/14/shiba-inu-gains-3-as-explosive-burn-rate-spurs-bullish-predictions
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailShiba Inu Gains 3 as Explosive Burn Rate Spurs Bullish PredictionsSHIB has outperformed bitcoin this month with a 20 increa...
+
+ARTICLE 23
+----------------------------------------
+Title: Binance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme Partnership
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 12:15:49 +0000
+URL: https://www.coindesk.com/markets/2025/07/14/binance-wallet-takes-on-pumpfun-and-bonkfun-with-new-fourmeme-partnership
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailBinance Wallet Takes on Pump.fun and Bonk.fun With New Four.Meme PartnershipUsers can exit early by selling back into the b...
+
+ARTICLE 24
+----------------------------------------
+Title: Michael Saylor's Strategy Adds 4,225 Bitcoin, Bringing BTC Stack to 601,550
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 12:12:27 +0000
+URL: https://www.coindesk.com/markets/2025/07/14/michael-saylors-strategy-adds-4225-bitcoin-bringing-btc-stack-to-601550
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailMichael Saylors Strategy Adds 4,225 Bitcoin, Bringing BTC Stack to 601,550Sequans, K33, Tao Alpha and The Blockchain Group ...
+
+ARTICLE 25
+----------------------------------------
+Title: BONK Surges 12% as Grayscale Monitoring Sparks Institutional Momentum
+Source: coindesk
+Category: crypto
+Published: Mon, 14 Jul 2025 12:03:37 +0000
+URL: https://www.coindesk.com/markets/2025/07/14/bonk-surges-12-as-grayscale-monitoring-sparks-institutional-momentum
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailBONK Surges 12 as Grayscale Monitoring Sparks Institutional MomentumBONK rallies as Grayscale adds it to institutional moni...
+
+ARTICLE 26
+----------------------------------------
+Title: Coinbase Is the Real Trump Trade as Stock Set for Record Closing High
+Source: yahoo_finance_crypto
+Category: crypto
+Published: Tue, 15 Jul 2025 00:07:00 +0000
+URL: https://finance.yahoo.com/m/89d79105-4f63-35c8-be0f-b7c85e1061b1/coinbase-is-the-real-trump.html?.tsrc=rss
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: Coinbase Is the Real Trump Trade as Stock Set for Record Closing HighCoinbase Is the Real Trump Trade as Stock Set for Record Closing HighBarrons.comNate WolfMon, Jul 14, 2025, 9:07 PM3 min readIn Thi...
+
+ARTICLE 27
+----------------------------------------
+Title: Dollar holds near three-week high before CPI data; Bitcoin hovers above $120,000
+Source: yahoo_finance_crypto
+Category: macro
+Published: Tue, 15 Jul 2025 00:01:05 +0000
+URL: https://finance.yahoo.com/news/dollar-holds-near-three-week-000105319.html?.tsrc=rss
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: Dollar holds near three-week high before CPI data; Bitcoin hovers above 120,000Kevin BucklandMon, Jul 14, 2025, 8:01 PM3 min readIn This Article:BTC-USDUSDXAUDXBy Kevin BucklandTOKYO (Reuters) -The do...
+
+ARTICLE 28
+----------------------------------------
+Title: US House set to vote on landmark crypto bills this week
+Source: yahoo_finance_crypto
+Category: crypto
+Published: Mon, 14 Jul 2025 23:15:08 +0000
+URL: https://finance.yahoo.com/news/us-house-set-vote-landmark-231508186.html?.tsrc=rss
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: US House set to vote on landmark crypto bills this weekAFPMon, Jul 14, 2025, 8:15 PM3 min readIn This Article:USDXBTC-USDTRUMP35336-USDThe US legislation comes after years of suspicion against the cry...
+
+ARTICLE 29
+----------------------------------------
+Title: Tariff resiliency, wall of worry, crypto highs: Market takeaways
+Source: yahoo_finance_crypto
+Category: crypto
+Published: Mon, 14 Jul 2025 22:00:00 +0000
+URL: https://finance.yahoo.com/video/tariff-resiliency-wall-worry-crypto-220000460.html?.tsrc=rss
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: Tariff resiliency, wall of worry, crypto highs: Market takeawaysYahoo FinanceMon, Jul 14, 2025, 7:00 PMIn This Article:MOVERUTIXICDJIGSPCYahoo Finance Markets and Data EditorJared Blikrejoins Asking f...
+
+ARTICLE 30
+----------------------------------------
+Title: Trading Day: Resisting renewed tariff tensions
+Source: yahoo_finance_crypto
+Category: macro
+Published: Mon, 14 Jul 2025 21:04:49 +0000
+URL: https://ca.finance.yahoo.com/news/trading-day-resisting-renewed-tariff-210449044.html?.tsrc=rss
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 5.0/10
+Content Preview: Trading Day: Resisting renewed tariff tensionsGroundbreaking event and announcement of a major expansion of the International Transportation Service terminal at the Port of Long BeachReutersJamie McGe...
+

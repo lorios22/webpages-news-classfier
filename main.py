@@ -19,6 +19,7 @@ Features:
 
 import sys
 import os
+import asyncio
 
 # Add src directory to Python path for imports
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
@@ -39,7 +40,7 @@ def main():
         print("🔄 Starting execution...")
         
         # Execute the complete pipeline
-        pipeline.run()
+        asyncio.run(pipeline.run_complete_pipeline())
         
         print("🎉 Pipeline execution completed successfully!")
         print("📊 Check enhanced_results/ and historical_archives/ for outputs")

@@ -37,7 +37,7 @@ async def main():
     try:
         # Import and initialize the enhanced pipeline
         print("🔧 Initializing Enhanced Pipeline with Memory Agents...")
-        from src.pipelinesenhanced_comprehensive_pipeline import EnhancedComprehensivePipeline
+        from src.pipelines.enhanced_comprehensive_pipeline import EnhancedComprehensivePipeline
         
         # Create pipeline instance
         pipeline = EnhancedComprehensivePipeline(target_articles=30)
