@@ -81,6 +81,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Run Tests
     needs: code-quality
+    timeout-minutes: 45
     
     strategy:
       matrix:
@@ -101,12 +102,22 @@ jobs:
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ matrix.python-version }}-${{ hashFiles('**/requirements.txt') }}
         
+    - name: Cache Playwright browsers
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/ms-playwright
+        key: ${{ runner.os }}-playwright-${{ hashFiles('**/requirements.txt') }}
+        
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         pip install pytest pytest-cov pytest-asyncio pytest-mock
-        playwright install
+        
+    - name: Install Playwright browsers
+      run: |
+        playwright install chromium --with-deps
+      timeout-minutes: 10
         
     - name: Create test environment file
       run: |
@@ -149,6 +160,7 @@ jobs:
     runs-on: ubuntu-latest
     name: End-to-End Tests
     needs: test
+    timeout-minutes: 30
     if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/develop'
     
     steps:
@@ -160,11 +172,21 @@ jobs:
       with:
         python-version: ${{ env.PYTHON_VERSION }}
         
+    - name: Cache Playwright browsers (E2E)
+      uses: actions/cache@v4
+      with:
+        path: ~/.cache/ms-playwright
+        key: ${{ runner.os }}-playwright-${{ hashFiles('**/requirements.txt') }}
+        
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-        playwright install
+        
+    - name: Install Playwright browsers (E2E)
+      run: |
+        playwright install chromium --with-deps
+      timeout-minutes: 10
         
     - name: Create test environment
       run: |
