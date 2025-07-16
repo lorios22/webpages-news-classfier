@@ -138,7 +138,12 @@ jobs:
       env:
         PYTHONPATH: ${{ github.workspace }}
       run: |
-        python -m pytest tests/integration/ -v --tb=short
+        if [ "$(find tests/integration -name '*.py' -type f | wc -l)" -gt 0 ]; then
+          echo "Running integration tests..."
+          python -m pytest tests/integration/ -v --tb=short
+        else
+          echo "No integration tests found, skipping..."
+        fi
         
     - name: Upload coverage reports
       uses: codecov/codecov-action@v3
@@ -201,7 +206,12 @@ jobs:
       env:
         PYTHONPATH: ${{ github.workspace }}
       run: |
-        python -m pytest tests/e2e/ -v --tb=short --durations=10
+        if [ "$(find tests/e2e -name '*.py' -type f | wc -l)" -gt 0 ]; then
+          echo "Running e2e tests..."
+          python -m pytest tests/e2e/ -v --tb=short --durations=10
+        else
+          echo "No e2e tests found, skipping..."
+        fi
         
     - name: Upload E2E artifacts
       uses: actions/upload-artifact@v4
