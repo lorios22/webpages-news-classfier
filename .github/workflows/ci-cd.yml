@@ -68,7 +68,7 @@ jobs:
         mypy . --ignore-missing-imports --no-strict-optional
         
     - name: Upload security reports
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       if: always()
       with:
         name: security-reports
@@ -142,7 +142,7 @@ jobs:
         fail_ci_if_error: true
         
     - name: Upload test artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       if: always()
       with:
         name: test-results-${{ matrix.python-version }}
@@ -188,7 +188,7 @@ jobs:
         python -m pytest tests/e2e/ -v --tb=short --durations=10
         
     - name: Upload E2E artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       if: always()
       with:
         name: e2e-results
@@ -227,7 +227,7 @@ jobs:
         python -m memory_profiler scripts/performance_test.py
         
     - name: Upload performance reports
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: performance-results
         path: |
@@ -406,7 +406,7 @@ jobs:
         safety check --json --output dependency-scan.json || true
         
     - name: Upload security artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: security-scan-results
         path: |
