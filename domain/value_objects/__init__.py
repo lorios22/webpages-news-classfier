@@ -5,8 +5,7 @@ This package contains all value objects used in the news classification domain.
 Value objects are immutable objects that represent concepts without identity.
 """
 
-from .classification import (Classification, ClassificationCategory,
-                             QualityLevel)
+from .classification import Classification, ClassificationCategory, QualityLevel
 from .score import Score
 from .source import CredibilityLevel, Source, SourceType
 

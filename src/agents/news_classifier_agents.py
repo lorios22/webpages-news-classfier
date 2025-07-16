@@ -20,22 +20,26 @@ from langchain.schema import BaseMessage
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_core.output_parsers import JsonOutputParser
 from langchain_ollama import ChatOllama
+
 # LangChain imports
 from langchain_openai import ChatOpenAI
 
 # Local imports
-from assistant.prompts import (consensus_instructions,
-                               consolidation_instructions,
-                               context_evaluator_instructions,
-                               depth_analyzer_instructions,
-                               fact_checker_instructions,
-                               historical_reflection_instructions,
-                               human_reasoning_instructions,
-                               input_preprocessor_instructions,
-                               reflective_validator_instructions,
-                               relevance_analyzer_instructions,
-                               structure_analyzer_instructions,
-                               summary_instructions, validator_instructions)
+from assistant.prompts import (
+    consensus_instructions,
+    consolidation_instructions,
+    context_evaluator_instructions,
+    depth_analyzer_instructions,
+    fact_checker_instructions,
+    historical_reflection_instructions,
+    human_reasoning_instructions,
+    input_preprocessor_instructions,
+    reflective_validator_instructions,
+    relevance_analyzer_instructions,
+    structure_analyzer_instructions,
+    summary_instructions,
+    validator_instructions,
+)
 
 # Try to import memory agents
 try:

@@ -32,8 +32,9 @@ def main():
         print("📁 Loading components from organized structure...")
 
         # Import the enhanced comprehensive pipeline
-        from pipelines.enhanced_comprehensive_pipeline import \
-            EnhancedComprehensivePipeline
+        from pipelines.enhanced_comprehensive_pipeline import (
+            EnhancedComprehensivePipeline,
+        )
 
         # Create and run the pipeline
         pipeline = EnhancedComprehensivePipeline(target_articles=120)

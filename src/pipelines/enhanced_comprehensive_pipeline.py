@@ -48,9 +48,9 @@ warnings.filterwarnings("ignore", category=FutureWarning)
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from src.agents.news_classifier_agents import NewsClassifierAgents
+
 # Local imports
-from src.extractors.enhanced_crypto_macro_extractor import \
-    EnhancedCryptoMacroExtractor
+from src.extractors.enhanced_crypto_macro_extractor import EnhancedCryptoMacroExtractor
 from src.services.duplicate_detection import DuplicateDetector
 from src.services.historical_archive_manager import HistoricalArchiveManager
 
