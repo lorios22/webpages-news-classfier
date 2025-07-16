@@ -17,30 +17,33 @@ Features:
     - System resource monitoring
 """
 
-import sys
 import os
+import sys
 
 # Add src directory to Python path for imports
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "src"))
+
 
 def main():
     """Main monitoring function."""
     try:
         print("📊 Starting Pipeline Monitor...")
         print("🔍 Loading monitoring components...")
-        
+
         # Import the enhanced monitor
         from monitoring.enhanced_monitor import main as monitor_main
-        
+
         print("✅ Monitor initialized successfully")
         print("📈 Starting real-time monitoring...")
-        
+
         # Start monitoring
         monitor_main()
-        
+
     except ImportError as e:
         print(f"❌ Import Error: {e}")
-        print("💡 Make sure all dependencies are installed: pip install -r requirements.txt")
+        print(
+            "💡 Make sure all dependencies are installed: pip install -r requirements.txt"
+        )
         sys.exit(1)
     except KeyboardInterrupt:
         print("\n👋 Monitoring stopped by user")
@@ -50,5 +53,6 @@ def main():
         print("📋 Check logs for detailed error information")
         sys.exit(1)
 
+
 if __name__ == "__main__":
-    main() 
+    main()

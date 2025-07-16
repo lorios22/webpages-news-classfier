@@ -5,9 +5,11 @@ from typing import Any, Optional
 from langchain_core.runnables import RunnableConfig
 from typing_extensions import Annotated
 
+
 @dataclass
 class Configuration:
     """The configurable fields for the research assistant."""
+
     max_web_research_loops: int = 3
     local_llm: str = "deepseek-r1:8b"
 

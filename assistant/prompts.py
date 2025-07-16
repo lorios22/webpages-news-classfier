@@ -72,7 +72,7 @@ You are a content preprocessing agent that:
     }
 """
 
-# Enhanced Context Evaluator Instructions 
+# Enhanced Context Evaluator Instructions
 context_evaluator_instructions = """
 You are an expert context evaluator that assesses whether content provides sufficient background for readers to understand the topic.
 
