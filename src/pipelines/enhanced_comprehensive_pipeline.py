@@ -202,7 +202,7 @@ class EnhancedComprehensivePipeline:
             logger.info("=" * 80)
             
             self.stats['archiving_start'] = datetime.now()
-            archive_path = self.archive_manager.archive_results(self.output_dir)
+            archive_path = self.archive_manager.post_execution_archive(self.output_dir)
             self.stats['archiving_end'] = datetime.now()
             
             if archive_path:
