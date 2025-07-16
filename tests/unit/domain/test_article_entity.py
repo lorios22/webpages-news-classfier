@@ -336,7 +336,7 @@ class TestArticleEntity:
         score = Score.create_with_agent(value=7.0, agent_name="test_agent")
         article.add_score("test_agent", score)
 
-        classification = Classification.create_from_score(final_score=7.0, summary="Good article", rationale="Well-written")
+        classification = Classification.create_from_score(final_score=7.0, summary="Good article", rationale="This is a well-written article with good content and structure")
         article.set_classification(classification)
 
         article_dict = article.to_dict()
@@ -357,7 +357,7 @@ class TestArticleEntity:
             "id": "test-123",
             "url": "https://example.com/article",
             "title": "Test Article",
-            "content": "Valid content for testing.",
+            "content": "Breaking news from the financial markets. The CEO announced major changes today.",
             "description": "Test description",
             "status": "pending",
             "content_type": "news_article",
@@ -383,7 +383,7 @@ class TestArticleEntity:
             id="test-123",
             url="https://example.com/article",
             title="A Very Long Article Title That Should Be Truncated in String Representation",
-            content="Valid content for testing.",
+            content="Breaking news from the financial markets. The CEO announced major changes today.",
         )
 
         str_repr = str(article)
