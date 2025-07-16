@@ -336,7 +336,9 @@ class TestArticleEntity:
         score = Score.create_with_agent(value=7.0, agent_name="test_agent")
         article.add_score("test_agent", score)
 
-        classification = Classification.create_from_score(final_score=7.0, summary="Good article", rationale="This is a well-written article with good content and structure")
+        classification = Classification.create_from_score(
+            final_score=7.0, summary="Good article", rationale="This is a well-written article with good content and structure"
+        )
         article.set_classification(classification)
 
         article_dict = article.to_dict()
