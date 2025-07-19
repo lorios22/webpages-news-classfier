@@ -1,0 +1,351 @@
+AI AGENT RESPONSES SUMMARY
+==================================================
+
+Total Articles Processed: 86
+Total Agent Responses: 1118
+Average Responses per Article: 13.0
+
+Article 1: Trump Signs GENIUS Act Into Law, Elevating First M...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 2: Bitcoin Slips Below $118K, ETH, XRP Pare Big Gains...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 3: Trump to Sign the Historic GENIUS Act Into Law. Wh...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 4: NEAR Protocol Jumps 12% as AI Sector Takes Flight...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 5: Bit Digital Adds Nearly 20K ETH, Boosting Ether Tr...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 6: Weekly Recap: Congress Passes First Crypto Law!...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 7: Chainlink's LINK Gains on Joining SEC Crypto Task ...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 8: ATOM Sustains Bullish Momentum Despite Intraday Vo...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 9: Dinosaur Coins ETC, BCH and DOGE Roar Back as Altc...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 10: Monster Volume of 4.8T SHIB Sparks Bullish Move in...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 11: Litecoin Surges 10%; Will $100M Bet by Nasdaq-List...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 12: CoinDesk 20 Performance Update: Index Hits Record ...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 13: BONK Slumps 8% as Sellers Overwhelm Market After B...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 14: Ether Demand Driven by Institutional Buying in U.S...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 15: U.S. Dollar's Recent Recovery May Have Legs, but D...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 16: What Next as XRP Sets Record Highs, $4 Expected in...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 17: Decentralized Exchange dYdX Acquires Social Tradin...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 18: BNB Rises as Binance Dominates Q2 Volumes, Windtre...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 19: Bitcoin Treads Water as Traders Eye $140K: Crypto ...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 20: Bitcoin Traders Are Discussing BTC’s Record High, ...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 21: Satoshi-Era Bitcoin Whale Moves Final $4.8B to Gal...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 22: Is XRP Recharting The 2017 Mega Bull Run?...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 23: Public Companies Buying Altcoins: Animoca Brands R...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 24: DOGE Surges 14% as Open Interest, Treasury Bets Po...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 25: Dogecoin Open Futures Bets Surge to Record 16B DOG...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 26: Trump signs 'Genius Act,' delivering milestone law...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 27: Dollar Weakens as a Fed Official Calls for Rate Cu...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 28: Stablecoins get big boost as Trump signs Genius Ac...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 29: Trump signs stablecoin bill into law, capping stri...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 30: Crypto Market Value Tops $4 Trillion as Stablecoin...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 31: Bitcoin bubble? How much more is it expected to ri...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 32: A Weak Dollar Has Added Heft to S&P 500 Earnings. ...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 33: USD sees worst start in 50 years thanks in part to...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 34: Trump signs new stablecoin regulations into law, a...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 35: Dollar Falls on Dovish Comments from a Fed Officia...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 36: Trump Signs GENIUS Act Into Law, Ushering In Crypt...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 37: Schwab Wants to Offer Stablecoin Amid Expanding Cr...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 38: Ethereum Is Pumping, But Solana Will Still Outperf...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 39: Coinbase Doesn't Custody All of Strategy's Bitcoin...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 40: 'I Want to Cry': Dave Portnoy Says He Fumbled an X...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 41: CRYPTO MARKET CAP TOPS $4T, XRP HITS ATH, ETH TREA...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 42: Labour Call to Ban Crypto Political Donations an ‘...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 43: What Is Pump.fun? The Solana Meme Coin Factory...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 44: NCA Officer Who Stole Bitcoin From Crime Network J...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 45: ‘Early Signals’ of Altcoin Season as OG Tokens Pum...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 46: 'Short-Term Contraction' Expected as Hungary Adds ...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 47: Crypto Market Cap Tops $4 Trillion as Bitcoin, Eth...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 48: Bitcoin Back Above $120K as Clear Crypto Policy ‘I...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 49: Ex-Rugby Player Sentenced For $900K Crypto Mining ...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 50: ‘Blood Rushing Back’ Into Crypto as XRP, Dogecoin ...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 51: Kraken Opens US Futures Trading as Congress Advanc...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 52: E-Bike Maker’s Shares Soar 135% on $500 Million Bi...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 53: XRP and Ethereum Are Pumping: Is Solana Next? Here...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 54: Ethereum ETFs Set Daily Record With $726 Million i...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 55: XRP Price Hits New All-Time High After Seven Long ...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 56: OpenAI's ChatGPT Agent Launches With Expanded Powe...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 57: BlackRock Files With SEC to Include Staking in Eth...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 58: Why Banks Are on High Alert About Stablecoins...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 59: $HYPE Slides as Ethereum Soars and Hyperliquid Hit...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 60: Bitcoin Price Prediction 18 July, 2025: Can BTC Go...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 61: Grok Picks Top 4 Altcoins to 10x Before 2026...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 62: Netflix shares fall as weak dollar-driven forecast...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 63: Public Companies Increase ETH, XRP, SOL Holdings a...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 64: BTC’s Upwards Trajectory is Unshaken, But Few Altc...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 65: Waller’s Call for Rate Cut Weighs on Treasury Yiel...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 66: GENIUS Act Reshapes Stablecoin Strategy, Says Fore...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 67: Ancient Bitcoin Whale Completes $9.53B Selloff Aft...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 68: Caldera Price Prediction: Is ERA About to Pump in ...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 69: Polkadot Price Prediction: Can DOT Reach Double-Di...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 70: Ethereum Price Prediction: Can ETH Reach $10K in J...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 71: Why Is Crypto Up Today? – July 18, 2025...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 72: Update: Gold Rises on a Weaker Dollar and Falling ...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 73: Trump Signs GENIUS Stablecoin Act, Crypto Week Sco...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 74: BC-US Dollar...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 75: Wheat Holding Gains, as we Head into the Weekend...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 76: The Canadian Dollar is Trending Down as the U.S. D...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 77: Netflix Stock Falls After Solid Earnings. What’s B...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 78: XRP Price Prediction 18 July, 2025: As XRP Open In...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 79: Ex-Pump.fun Dev Behind $2M Theft Jailed in London ...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 80: dYdX Snaps Up Telegram Trading App That Hit $1B Vo...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 81: Backpack Launches FTX Debt Marketplace for Credito...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 82: Meme Coin Market Explodes 51% to $83B Since June, ...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 83: Ex-Rugby Star Jailed for $900K Crypto Ponzi Scheme...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 84: Pepe Price Prediction: Is PEPE Going To Follow XRP...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 85: UK Minister Urges Ban on Crypto Political Donation...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------
+Article 86: Thumzup Media, Backed by Donald Trump Jr., Greenli...
+Agent Responses: 13
+Agents: summary_agent, input_preprocessor, context_evaluator, fact_checker, depth_analyzer, relevance_analyzer, structure_analyzer, historical_reflection, reflective_validator, human_reasoning, score_consolidator, consensus_agent, validator
+----------------------------------------

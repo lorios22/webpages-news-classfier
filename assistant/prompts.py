@@ -6,14 +6,25 @@ summary_instructions = """You are a professional content summarizer. Create a co
     4. Uses clear, professional language
     5. Avoids speculation or editorial comments
     
+    Additionally, provide a quality score (1.0-10.0) based on:
+    - Content clarity and coherence
+    - Information completeness
+    - Writing quality and engagement
+    - Factual accuracy and reliability
+    
+    CRITICAL: Return ONLY valid JSON, no additional text before or after.
+    
     Format the response as a JSON with the following fields:
     {
         "title": "A clear, concise title",
         "summary": "The concise summary",
         "key_points": ["List of 2-3 key points"],
         "entities": ["Important entities mentioned"],
-        "statistics": ["Any relevant numbers/stats"]
+        "statistics": ["Any relevant numbers/stats"],
+        "summary_score": 7.5
     }
+    
+    IMPORTANT: The "summary_score" field is mandatory and must be a number between 1.0 and 10.0.
     """
 
 # Input Preprocessor Instructions
@@ -53,6 +64,12 @@ You are a content preprocessing agent that:
     Links: [List of related article links]
     Technical Elements: [Code blocks, charts, diagrams]
     
+    Additionally, provide a quality score (1.0-10.0) based on:
+    - Content extraction completeness
+    - Metadata accuracy and completeness  
+    - Technical element identification
+    - Overall preprocessing quality
+
     OUTPUT FORMAT:
     {
         "url": "<article_url>",
@@ -68,7 +85,8 @@ You are a content preprocessing agent that:
             "charts": [],
             "diagrams": []
         },
-        "related_links": []
+        "related_links": [],
+        "preprocessor_score": 7.0
     }
 """
 
@@ -563,9 +581,11 @@ SPECIFIC QUALITY FACTORS TO ASSESS:
 - Depth of analysis and insights
 - Source credibility and citations
 
+CRITICAL: Return ONLY valid JSON, no additional text before or after.
+
 Format as JSON:
 {
-    "human_score": number between 1.0 and 10.0,
+    "human_score": 7.5,
     "reasoning": {
         "readability": "high|medium|low",
         "practical_value": "high|medium|low", 
@@ -579,6 +599,8 @@ Format as JSON:
     },
     "explanation": "Detailed explanation focusing on reader experience, clarity, and practical value"
 }
+
+IMPORTANT: The "human_score" field is mandatory and must be a number between 1.0 and 10.0.
 """
 
 # Consensus Instructions

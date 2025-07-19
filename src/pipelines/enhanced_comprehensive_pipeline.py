@@ -24,7 +24,7 @@ Target Output:
 - Clean directory management with historical archiving
 
 Author: AI Assistant
-Version: 3.1.0
+Version: 4.0.0
 License: MIT
 """
 
@@ -397,7 +397,7 @@ class EnhancedComprehensivePipeline:
             json_data = {
                 "metadata": {
                     "generation_timestamp": datetime.now().isoformat(),
-                    "pipeline_version": "3.1.0",
+                    "pipeline_version": "4.0.0",
                     "total_articles": len(processed_articles),
                     "processing_duration_seconds": (
                         (self.stats["processing_end"] - self.stats["processing_start"]).total_seconds()
@@ -486,7 +486,7 @@ class EnhancedComprehensivePipeline:
             with open(report_file, "w", encoding="utf-8") as f:
                 f.write("# Enhanced Crypto & Macro News Pipeline Report\n\n")
                 f.write(f"**Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-                f.write(f"**Pipeline Version:** 3.1.0\n")
+                f.write(f"**Pipeline Version:** 4.0.0\n")
                 f.write(f"**Target Articles:** {self.target_articles}\n\n")
 
                 f.write("## Execution Statistics\n\n")

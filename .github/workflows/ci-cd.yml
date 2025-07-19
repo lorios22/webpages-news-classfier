@@ -140,7 +140,7 @@ jobs:
       run: |
         if [ "$(find tests/integration -name '*.py' -type f | wc -l)" -gt 0 ]; then
           echo "Running integration tests..."
-          python -m pytest tests/integration/ -v --tb=short
+        python -m pytest tests/integration/ -v --tb=short
         else
           echo "No integration tests found, skipping..."
         fi
@@ -208,7 +208,7 @@ jobs:
       run: |
         if [ "$(find tests/e2e -name '*.py' -type f | wc -l)" -gt 0 ]; then
           echo "Running e2e tests..."
-          python -m pytest tests/e2e/ -v --tb=short --durations=10
+        python -m pytest tests/e2e/ -v --tb=short --durations=10
         else
           echo "No e2e tests found, skipping..."
         fi
