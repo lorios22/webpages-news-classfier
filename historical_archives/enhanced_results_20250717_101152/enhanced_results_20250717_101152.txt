@@ -1,0 +1,1700 @@
+ENHANCED CRYPTO & MACRO NEWS ANALYSIS RESULTS
+============================================================
+
+Generation Time: 2025-07-17 13:40:30
+Total Articles: 120
+Crypto Articles: 119
+Macro Articles: 1
+Processing Errors: 0
+
+ARTICLE 1
+----------------------------------------
+Title: BONK Jumps 19% as Altcoin Market Surge Accelerates
+Source: coindesk
+Category: crypto
+Published: Thu, 17 Jul 2025 12:06:19 +0000
+URL: https://www.coindesk.com/markets/2025/07/17/bonk-jumps-19-as-altcoin-market-surge-accelerates
+Overall Score: 5.3/10
+Context: 4.0/10
+Credibility: 6.0/10
+Depth: 4.0/10
+Relevance: 7.5/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailBONK Jumps 19 as Altcoin Market Surge AcceleratesBONK saw 19 surge amid altcoin breakout and nearly 250M in daily trading v...
+
+ARTICLE 2
+----------------------------------------
+Title: DPRK-Linked Hacks Drive Potential Record Year for Crypto Thefts, Chainalysis Says
+Source: coindesk
+Category: crypto
+Published: Thu, 17 Jul 2025 12:00:00 +0000
+URL: https://www.coindesk.com/policy/2025/07/16/dprk-linked-hacks-drive-potential-record-year-for-crypto-thefts-chainalysis-says
+Overall Score: 6.5/10
+Context: 5.0/10
+Credibility: 7.5/10
+Depth: 6.0/10
+Relevance: 9.0/10
+Content Preview: PolicyShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailDPRK-Linked Hacks Drive Potential Record Year for Crypto Thefts, Chainalysis SaysHackers have already stolen 2.17 billion fr...
+
+ARTICLE 3
+----------------------------------------
+Title: Ripple Developers Propose Metadata Standard for XRPL Tokens to Boost Discoverability, Interoperability
+Source: coindesk
+Category: crypto
+Published: Thu, 17 Jul 2025 11:37:06 +0000
+URL: https://www.coindesk.com/tech/2025/07/17/ripple-developers-propose-metadata-standard-for-xrpl-tokens-to-boost-discoverability-interoperability
+Overall Score: 7.0/10
+Context: 5.0/10
+Credibility: 9.0/10
+Depth: 7.5/10
+Relevance: 8.5/10
+Content Preview: TechShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailRipple Developers Propose Metadata Standard for XRPL Tokens to Boost Discoverability, InteroperabilityXLS-0089d is backward-co...
+
+ARTICLE 4
+----------------------------------------
+Title: Early Bitcoin Investor Roger Ver Sues Spain to Prevent Extradition to the U.S.
+Source: coindesk
+Category: crypto
+Published: Thu, 17 Jul 2025 11:23:34 +0000
+URL: https://www.coindesk.com/policy/2025/07/17/early-bitcoin-investor-roger-ver-sues-spain-to-prevent-extradition-to-the-us
+Overall Score: 6.2/10
+Context: 5.0/10
+Credibility: 8.0/10
+Depth: 3.5/10
+Relevance: 7.5/10
+Content Preview: PolicyShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailEarly Bitcoin Investor Roger Ver Sues Spain to Prevent Extradition to the U.S.Spains order amounts to a clear denial of just...
+
+ARTICLE 5
+----------------------------------------
+Title: Altcoins Steal the Show as Bitcoin Builds Steam: Crypto Daybook Americas
+Source: coindesk
+Category: crypto
+Published: Thu, 17 Jul 2025 11:20:00 +0000
+URL: https://www.coindesk.com/daybook-us/2025/07/17/altcoins-steal-the-show-as-bitcoin-builds-steam-crypto-daybook-americas
+Overall Score: 5.9/10
+Context: 4.5/10
+Credibility: 6.0/10
+Depth: 5.0/10
+Relevance: 8.5/10
+Content Preview: Crypto Daybook AmericasShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailAltcoins Steal the Show as Bitcoin Builds Steam: Crypto Daybook AmericasYour day-ahead look for July 17, 20...
+
+ARTICLE 6
+----------------------------------------
+Title: Strategy Hits Record $128.5B Market Cap as Bitcoin Buying Prompts Equity Sales
+Source: coindesk
+Category: crypto
+Published: Thu, 17 Jul 2025 09:23:13 +0000
+URL: https://www.coindesk.com/markets/2025/07/17/strategy-hits-record-1285b-market-cap-as-bitcoin-buying-prompts-equity-sales
+Overall Score: 6.4/10
+Context: 4.0/10
+Credibility: 8.0/10
+Depth: 6.0/10
+Relevance: 8.5/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailStrategy Hits Record 128.5B Market Cap as Bitcoin Buying Prompts Equity SalesThe company has tripled the number of shares o...
+
+ARTICLE 7
+----------------------------------------
+Title: Biotech Company Windtree to Raise Up to $200M for BNB Treasury
+Source: coindesk
+Category: crypto
+Published: Thu, 17 Jul 2025 08:52:04 +0000
+URL: https://www.coindesk.com/business/2025/07/17/biotech-company-windtree-to-raise-up-to-200m-for-bnb-treasury
+Overall Score: 6.4/10
+Context: 5.0/10
+Credibility: 8.5/10
+Depth: 4.0/10
+Relevance: 8.5/10
+Content Preview: FinanceShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailBiotech Company Windtree to Raise Up to 200M for BNB TreasuryWindtree said it would become the first Nasdaq-listed company ...
+
+ARTICLE 8
+----------------------------------------
+Title: Pakistan, El Salvador Form Crypto-Focused Partnership
+Source: coindesk
+Category: crypto
+Published: Thu, 17 Jul 2025 08:18:56 +0000
+URL: https://www.coindesk.com/policy/2025/07/17/pakistan-el-salvador-form-crypto-focused-partnership
+Overall Score: 6.2/10
+Context: 5.0/10
+Credibility: 8.0/10
+Depth: 5.0/10
+Relevance: 8.5/10
+Content Preview: PolicyShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailPakistan, El Salvador Form Crypto-Focused PartnershipPakistan, despite IMF oversight, is exploring crypto integration, inclu...
+
+ARTICLE 9
+----------------------------------------
+Title: Ether ETFs Post Record $726M Daily Inflow as Analysts Signal ‘Deep Demand Shift’
+Source: coindesk
+Category: crypto
+Published: Thu, 17 Jul 2025 06:08:56 +0000
+URL: https://www.coindesk.com/markets/2025/07/17/ether-etfs-post-record-726m-daily-inflow-as-analysts-signal-deep-demand-shift
+Overall Score: 6.1/10
+Context: 4.0/10
+Credibility: 6.0/10
+Depth: 6.5/10
+Relevance: 9.0/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailEther ETFs Post Record 726M Daily Inflow as Analysts Signal Deep Demand ShiftBlackRocks ETHA led the charge with nearly 500...
+
+ARTICLE 10
+----------------------------------------
+Title: Ether Traders Eye Record Highs as ETH Jumps 8%; Bitcoin, BNB, SOL See Profit-Taking
+Source: coindesk
+Category: crypto
+Published: Thu, 17 Jul 2025 05:42:44 +0000
+URL: https://www.coindesk.com/markets/2025/07/17/ether-traders-eye-record-highs-as-eth-jumps-8-bitcoin-bnb-sol-see-profit-taking
+Overall Score: 5.9/10
+Context: 4.0/10
+Credibility: 6.0/10
+Depth: 5.5/10
+Relevance: 8.5/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailEther Traders Eye Record Highs as ETH Jumps 8; Bitcoin, BNB, SOL See Profit-TakingU.S. spot Bitcoin ETFs posted their tenth...
+
+ARTICLE 11
+----------------------------------------
+Title: Dogecoin Prints 12% Range Amid Whale-Led Rotation From XRP
+Source: coindesk
+Category: crypto
+Published: Thu, 17 Jul 2025 05:21:37 +0000
+URL: https://www.coindesk.com/markets/2025/07/17/dogecoin-prints-12-range-amid-whale-led-rotation-from-xrp
+Overall Score: 5.8/10
+Context: 4.0/10
+Credibility: 7.5/10
+Depth: 5.5/10
+Relevance: 8.5/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailDogecoin Prints 12 Range Amid Whale-Led Rotation From XRPByShaurya Malwa,CD AnalyticsUpdatedJul 17, 2025, 5:21 a.m.Publishe...
+
+ARTICLE 12
+----------------------------------------
+Title: XRP Breaks Above $3 With Volume Surge Ahead of Futures ETF Launch, Next Target $3.40
+Source: coindesk
+Category: crypto
+Published: Thu, 17 Jul 2025 05:15:59 +0000
+URL: https://www.coindesk.com/markets/2025/07/17/xrp-breaks-above-3-with-volume-surge-ahead-of-futures-etf-launch-next-target-340
+Overall Score: 6.0/10
+Context: 4.0/10
+Credibility: 6.0/10
+Depth: 6.0/10
+Relevance: 8.5/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailXRP Breaks Above 3 With Volume Surge Ahead of Futures ETF Launch, Next Target 3.40Institutional momentum confirmed as volum...
+
+ARTICLE 13
+----------------------------------------
+Title: Crypto Market Maker B2C2 Said to Be Raising up to $200M: Source
+Source: coindesk
+Category: crypto
+Published: Thu, 17 Jul 2025 05:08:34 +0000
+URL: https://www.coindesk.com/business/2025/07/17/crypto-market-maker-b2c2-said-to-be-raising-up-to-200m-source
+Overall Score: 5.9/10
+Context: 4.0/10
+Credibility: 7.0/10
+Depth: 3.5/10
+Relevance: 7.5/10
+Content Preview: FinanceShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailCrypto Market Maker B2C2 Said to Be Raising up to 200M: SourceThe transaction will allow majority holder SBI to reduce its ...
+
+ARTICLE 14
+----------------------------------------
+Title: 'Crypto Week' Back on Track After Lengthy House Do-Over Vote
+Source: coindesk
+Category: crypto
+Published: Thu, 17 Jul 2025 03:05:03 +0000
+URL: https://www.coindesk.com/policy/2025/07/16/crypto-week-back-on-track-after-lengthy-house-do-over-vote
+Overall Score: 6.1/10
+Context: 4.0/10
+Credibility: 9.0/10
+Depth: 4.0/10
+Relevance: 8.5/10
+Content Preview: PolicyShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailCrypto Week Back on Track After Lengthy House Do-Over VoteAfter a marathon nine-hour vote, Republicans advanced crypto legis...
+
+ARTICLE 15
+----------------------------------------
+Title: Asia Morning Briefing: Bitcoin Eyes $130K as Euphoria Builds, But ETH and SOL Steal the Show
+Source: coindesk
+Category: crypto
+Published: Thu, 17 Jul 2025 00:50:49 +0000
+URL: https://www.coindesk.com/markets/2025/07/17/asia-morning-briefing-bitcoin-eyes-130k-as-euphoria-builds-but-eth-and-sol-steal-the-show
+Overall Score: 6.0/10
+Context: 5.0/10
+Credibility: 6.5/10
+Depth: 5.5/10
+Relevance: 8.5/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailAsia Morning Briefing: Bitcoin Eyes 130K as Euphoria Builds, But ETH and SOL Steal the ShowPLUS: Coinbase rebrands Wallet i...
+
+ARTICLE 16
+----------------------------------------
+Title: Coinbase Wallet Becomes ‘Base App’ in Major Rebrand
+Source: coindesk
+Category: crypto
+Published: Wed, 16 Jul 2025 23:00:14 +0000
+URL: https://www.coindesk.com/tech/2025/07/17/coinbase-wallet-becomes-base-app-in-major-rebrand
+Overall Score: 6.8/10
+Context: 5.0/10
+Credibility: 9.0/10
+Depth: 6.0/10
+Relevance: 8.5/10
+Content Preview: TechShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailCoinbase Wallet Becomes Base App in Major RebrandThe company is introducing a suite of consumer and developer tools that expan...
+
+ARTICLE 17
+----------------------------------------
+Title: Bitcoin's 4-Year Cycles May Be Over as the Asset Matures, K33 Analysts Say
+Source: coindesk
+Category: crypto
+Published: Wed, 16 Jul 2025 21:25:10 +0000
+URL: https://www.coindesk.com/markets/2025/07/16/bitcoins-4-year-cycles-may-be-over-as-the-asset-matures-k33-analysts-say
+Overall Score: 6.4/10
+Context: 5.0/10
+Credibility: 6.5/10
+Depth: 6.0/10
+Relevance: 8.5/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailBitcoins 4-Year Cycles May Be Over as the Asset Matures, K33 Analysts SayMacroeconomic forces matter more now for BTC than ...
+
+ARTICLE 18
+----------------------------------------
+Title: CME Exploring 24/7 Crypto Trading Expansion, Says Memecoin Products Are Off the Table
+Source: coindesk
+Category: crypto
+Published: Wed, 16 Jul 2025 21:06:47 +0000
+URL: https://www.coindesk.com/markets/2025/07/16/cme-exploring-24-7-crypto-trading-expansion-says-memecoin-products-are-off-the-table
+Overall Score: 6.8/10
+Context: 5.0/10
+Credibility: 9.0/10
+Depth: 5.5/10
+Relevance: 8.5/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailCME Exploring 247 Crypto Trading Expansion, Says Memecoin Products Are Off the TableThough recently expanding into Solana a...
+
+ARTICLE 19
+----------------------------------------
+Title: Hack ‘Victims’ Say Tornado Cash Offered No Help in the Wake of Exploits: Day 2 of Roman Storm Trial
+Source: coindesk
+Category: crypto
+Published: Wed, 16 Jul 2025 19:40:48 +0000
+URL: https://www.coindesk.com/policy/2025/07/16/hack-victims-say-tornado-cash-offered-no-help-in-the-wake-of-exploits-day-2-of-roman-storm-trial
+Overall Score: 6.8/10
+Context: 5.0/10
+Credibility: 9.0/10
+Depth: 6.0/10
+Relevance: 8.5/10
+Content Preview: PolicyShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailHack Victims Say Tornado Cash Offered No Help in the Wake of Exploits: Day 2 of Roman Storm TrialTornado Cash developer Roma...
+
+ARTICLE 20
+----------------------------------------
+Title: The Node: The Plot to Fire Powell
+Source: coindesk
+Category: macro
+Published: Wed, 16 Jul 2025 19:38:07 +0000
+URL: https://www.coindesk.com/opinion/2025/07/16/the-node-the-plot-to-fire-powell
+Overall Score: 5.5/10
+Context: 4.0/10
+Credibility: 7.5/10
+Depth: 3.5/10
+Relevance: 5.0/10
+Content Preview: OpinionShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailThe Node: The Plot to Fire PowellThe White House is tightening the screws on Jerome Powell, the chairman of the Federal Res...
+
+ARTICLE 21
+----------------------------------------
+Title: Trump-Linked WLFI Token Clears Vote to Become Tradable
+Source: coindesk
+Category: crypto
+Published: Wed, 16 Jul 2025 19:33:49 +0000
+URL: https://www.coindesk.com/business/2025/07/16/trump-linked-wlfi-token-clears-vote-to-become-tradable
+Overall Score: 6.8/10
+Context: 5.5/10
+Credibility: 9.0/10
+Depth: 4.0/10
+Relevance: 8.5/10
+Content Preview: FinanceShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailTrump-Linked WLFI Token Clears Vote to Become TradableHolders voted 99 in favor of enabling transfers and exchange listings...
+
+ARTICLE 22
+----------------------------------------
+Title: 'Crypto Week' Is Stuck Again as House Procedural Vote Drags On
+Source: coindesk
+Category: crypto
+Published: Wed, 16 Jul 2025 19:13:29 +0000
+URL: https://www.coindesk.com/policy/2025/07/16/crypto-week-is-stuck-again-as-house-procedural-vote-drags-on
+Overall Score: 6.5/10
+Context: 4.0/10
+Credibility: 9.0/10
+Depth: 4.0/10
+Relevance: 8.5/10
+Content Preview: PolicyShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailCrypto Week Is Stuck Again as House Procedural Vote Drags OnThe House market structure bill was supposed to get a final vote...
+
+ARTICLE 23
+----------------------------------------
+Title: The Protocol: Layer-2 Eclipse’s Airdrop Goes Live
+Source: coindesk
+Category: crypto
+Published: Wed, 16 Jul 2025 17:32:10 +0000
+URL: https://www.coindesk.com/tech/2025/07/16/the-protocol-layer-2-eclipse-s-airdrop-goes-live
+Overall Score: 6.5/10
+Context: 4.0/10
+Credibility: 9.0/10
+Depth: 5.5/10
+Relevance: 8.5/10
+Content Preview: TechShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailThe Protocol: Layer-2 Eclipses Airdrop Goes LiveAlso: Risc Zeros Boundless Incentivized Testnet, A New Bitcoin Proposal, and T...
+
+ARTICLE 24
+----------------------------------------
+Title: NEAR Surges 8% as Altcoins Turn Bullish
+Source: coindesk
+Category: crypto
+Published: Wed, 16 Jul 2025 16:55:30 +0000
+URL: https://www.coindesk.com/markets/2025/07/16/near-surges-8-as-tokens-edge-closer-to-altcoin-season
+Overall Score: 5.8/10
+Context: 4.0/10
+Credibility: 9.0/10
+Depth: 4.0/10
+Relevance: 7.5/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailNEAR Surges 8 as Altcoins Turn BullishThe move comes amid a strong move across the entire altcoin market on Wednesday.ByOli...
+
+ARTICLE 25
+----------------------------------------
+Title: ICP Climbs With Broader Crypto Rally, Holds Gains Above $5.50
+Source: coindesk
+Category: crypto
+Published: Wed, 16 Jul 2025 16:43:21 +0000
+URL: https://www.coindesk.com/markets/2025/07/16/icp-climbs-with-broader-crypto-rally-holds-gains-above-550
+Overall Score: 5.9/10
+Context: 4.5/10
+Credibility: 8.0/10
+Depth: 4.0/10
+Relevance: 7.5/10
+Content Preview: MarketsShareShare this articleCopy linkX iconX (Twitter)LinkedInFacebookEmailICP Climbs With Broader Crypto Rally, Holds Gains Above 5.50ICP joins wider crypto breakout, rising 7 before stabilizing ab...
+
+ARTICLE 26
+----------------------------------------
+Title: Asia Emerges as Major Hotspot for Violent Crypto Crime: Chainalysis
+Source: decrypt
+Category: crypto
+Published: Thu, 17 Jul 2025 12:01:03 +0000
+URL: https://decrypt.co/330546/asia-emerges-as-hotspot-for-violent-crypto-crime-chainalysis
+Overall Score: 5.0/10
+Context: 3.0/10
+Credibility: 5.5/10
+Depth: 3.5/10
+Relevance: 8.5/10
+Content Preview: Coin PricesBTC117,951.00-0.54ETH3,428.588.14XRP3.2610.00BNB719.693.86SOL177.076.13USDC0.999677-0.02DOGE0.2160187.35STETH3,420.537.69TRX0.3115653.64ADA0.808957.99HYPE46.57-2.56WBTC117,899.00-0.57XLM0.4...
+
+ARTICLE 27
+----------------------------------------
+Title: Australian Regulator Flags Crypto as Top Threat in Financial Crime Crackdown
+Source: decrypt
+Category: crypto
+Published: Thu, 17 Jul 2025 11:05:02 +0000
+URL: https://decrypt.co/330548/austrac-crypto-top-threat
+Overall Score: 5.0/10
+Context: 2.0/10
+Credibility: 5.5/10
+Depth: 3.5/10
+Relevance: 8.5/10
+Content Preview: Coin PricesBTC117,951.00-0.54ETH3,428.588.14XRP3.2610.00BNB719.693.86SOL177.076.13USDC0.999677-0.02DOGE0.2160187.35STETH3,420.537.69TRX0.3115653.64ADA0.808957.99HYPE46.57-2.56WBTC117,899.00-0.57XLM0.4...
+
+ARTICLE 28
+----------------------------------------
+Title: ETH + DOGE LEAD CRYPTO, PENGU UP BIG, ETH ETF INFLOWS CATCHING BTC
+Source: decrypt
+Category: crypto
+Published: Thu, 17 Jul 2025 09:52:48 +0000
+URL: https://decrypt.co/videos/interviews/mObPY7xr/eth-doge-lead-crypto-pengu-up-big-eth-etf-inflows-catching-btc
+Overall Score: 5.1/10
+Context: 3.5/10
+Credibility: 4.0/10
+Depth: 4.0/10
+Relevance: 8.5/10
+Content Preview: Coin PricesBTC117,951.00-0.54ETH3,428.588.14XRP3.2610.00BNB719.693.86SOL177.076.13USDC0.999677-0.02DOGE0.2160187.35STETH3,420.537.69TRX0.3115653.64ADA0.808957.99HYPE46.57-2.56WBTC117,899.00-0.57XLM0.4...
+
+ARTICLE 29
+----------------------------------------
+Title: CRYPTO BILLS STUCK, ETH LEADS MAJORS, PUMP STARTS BUYBACKS
+Source: decrypt
+Category: crypto
+Published: Thu, 17 Jul 2025 09:35:17 +0000
+URL: https://decrypt.co/videos/interviews/kQJMUB87/crypto-bills-stuck-eth-leads-majors-pump-starts-buybacks
+Overall Score: 5.2/10
+Context: 3.0/10
+Credibility: 5.5/10
+Depth: 4.0/10
+Relevance: 8.5/10
+Content Preview: Coin PricesBTC117,951.00-0.54ETH3,428.588.14XRP3.2610.00BNB719.693.86SOL177.076.13USDC0.999677-0.02DOGE0.2160187.35STETH3,420.537.69TRX0.3115653.64ADA0.808957.99HYPE46.57-2.56WBTC117,899.00-0.57XLM0.4...
+
+ARTICLE 30
+----------------------------------------
+Title: Can Ethereum Breach New All-Time Highs This Year?
+Source: decrypt
+Category: crypto
+Published: Thu, 17 Jul 2025 06:29:35 +0000
+URL: https://decrypt.co/330543/can-ethereum-breach-new-all-time-highs-this-year
+Overall Score: 4.7/10
+Context: 2.0/10
+Credibility: 5.0/10
+Depth: 3.0/10
+Relevance: 8.5/10
+Content Preview: Coin PricesBTC117,951.00-0.54ETH3,428.588.14XRP3.2610.00BNB719.693.86SOL177.076.13USDC0.999677-0.02DOGE0.2160187.35STETH3,420.537.69TRX0.3115653.64ADA0.808957.99HYPE46.57-2.56WBTC117,899.00-0.57XLM0.4...
+
+ARTICLE 31
+----------------------------------------
+Title: Coinbase Unveils Its ‘Everything App,’ Merging Wallet, Social, and AI Tools
+Source: decrypt
+Category: crypto
+Published: Thu, 17 Jul 2025 05:52:51 +0000
+URL: https://decrypt.co/330518/coinbase-everything-app-wallet-social-ai-tools
+Overall Score: 4.9/10
+Context: 2.0/10
+Credibility: 5.5/10
+Depth: 3.5/10
+Relevance: 8.5/10
+Content Preview: Coin PricesBTC117,951.00-0.54ETH3,428.588.14XRP3.2610.00BNB719.693.86SOL177.076.13USDC0.999677-0.02DOGE0.2160187.35STETH3,420.537.69TRX0.3115653.64ADA0.808957.99HYPE46.57-2.56WBTC117,899.00-0.57XLM0.4...
+
+ARTICLE 32
+----------------------------------------
+Title: House Clears Key Crypto Bills for Final Vote After Record 9-Hour Standoff
+Source: decrypt
+Category: crypto
+Published: Thu, 17 Jul 2025 05:40:50 +0000
+URL: https://decrypt.co/330539/house-clears-key-crypto-bills-final-vote-record-9-hour-standoff
+Overall Score: 4.8/10
+Context: 2.0/10
+Credibility: 5.0/10
+Depth: 3.5/10
+Relevance: 8.5/10
+Content Preview: Coin PricesBTC117,903.00-0.61ETH3,424.007.78XRP3.259.48BNB719.303.80SOL176.725.96USDC0.999742-0.02DOGE0.2158487.21STETH3,411.307.31TRX0.3115753.64ADA0.8056557.46HYPE46.55-3.03WBTC117,648.00-0.78XLM0.4...
+
+ARTICLE 33
+----------------------------------------
+Title: Bank of America CEO Says Still Too Early For Stablecoin Plans as US Stalls on Key Crypto Rules
+Source: decrypt
+Category: crypto
+Published: Thu, 17 Jul 2025 04:38:07 +0000
+URL: https://decrypt.co/330519/bank-of-america-ceo-still-early-stablecoin-plans-us-stalls
+Overall Score: 5.1/10
+Context: 3.5/10
+Credibility: 5.0/10
+Depth: 3.5/10
+Relevance: 7.5/10
+Content Preview: Coin PricesBTC117,951.00-0.54ETH3,428.588.14XRP3.2610.00BNB719.693.86SOL177.076.13USDC0.999677-0.02DOGE0.2160187.35STETH3,420.537.69TRX0.3115653.64ADA0.808957.99HYPE46.57-2.56WBTC117,899.00-0.57XLM0.4...
+
+ARTICLE 34
+----------------------------------------
+Title: Whatever Happened to the Bitcoin and Ethereum Sweater Guys?
+Source: decrypt
+Category: crypto
+Published: Thu, 17 Jul 2025 03:46:33 +0000
+URL: https://decrypt.co/330515/whatever-happened-bitcoin-ethereum-sweater-guys
+Overall Score: 6.1/10
+Context: 5.0/10
+Credibility: 9.0/10
+Depth: 4.0/10
+Relevance: 4.0/10
+Content Preview: In briefMathieu Baril and Frédéric Fortier were featured in a viral NYT photo during cryptos first mainstream boom.Fortier has co-founded a decentralized derivatives exchange, while Baril now leads on...
+
+ARTICLE 35
+----------------------------------------
+Title: Trump-Backed World Liberty Ethereum Tokens Are Set to Hit the Market
+Source: decrypt
+Category: crypto
+Published: Thu, 17 Jul 2025 01:01:03 +0000
+URL: https://decrypt.co/330472/trump-backed-world-liberty-ethereum-tokens-hit-market
+Overall Score: 4.7/10
+Context: 3.0/10
+Credibility: 4.5/10
+Depth: 3.0/10
+Relevance: 7.0/10
+Content Preview: Coin PricesBTC117,951.00-0.54ETH3,428.588.14XRP3.2610.00BNB719.693.86SOL177.076.13USDC0.999677-0.02DOGE0.2160187.35STETH3,420.537.69TRX0.3115653.64ADA0.808957.99HYPE46.57-2.56WBTC117,899.00-0.57XLM0.4...
+
+ARTICLE 36
+----------------------------------------
+Title: Hate Making Phone Calls? Google’s AI Will Make Them for You
+Source: decrypt
+Category: crypto
+Published: Wed, 16 Jul 2025 23:04:58 +0000
+URL: https://decrypt.co/330478/phone-calls-google-ai-make-them-for-you
+Overall Score: 2.7/10
+Context: 2.0/10
+Credibility: 4.5/10
+Depth: 2.0/10
+Relevance: 2.0/10
+Content Preview: Coin PricesBTC117,951.00-0.54ETH3,428.588.14XRP3.2610.00BNB719.693.86SOL177.076.13USDC0.999677-0.02DOGE0.2160187.35STETH3,420.537.69TRX0.3115653.64ADA0.808957.99HYPE46.57-2.56WBTC117,899.00-0.57XLM0.4...
+
+ARTICLE 37
+----------------------------------------
+Title: SEC Delays Decision on Bitwise Bitcoin, Ethereum ETFs' In-kind Redemptions
+Source: decrypt
+Category: crypto
+Published: Wed, 16 Jul 2025 23:03:19 +0000
+URL: https://decrypt.co/330480/sec-decision-bitwise-bitcoin-ethereum-etfs-in-kind-redemptions
+Overall Score: 4.6/10
+Context: 2.0/10
+Credibility: 5.0/10
+Depth: 3.5/10
+Relevance: 7.5/10
+Content Preview: Coin PricesBTC117,903.00-0.61ETH3,424.007.78XRP3.259.48BNB719.303.80SOL176.725.96USDC0.999742-0.02DOGE0.2158487.21STETH3,411.307.31TRX0.3115753.64ADA0.8056557.46HYPE46.55-3.03WBTC117,648.00-0.78XLM0.4...
+
+ARTICLE 38
+----------------------------------------
+Title: Citi Considers Launching Stablecoin as TradFi Players Continue Crypto Embrace
+Source: decrypt
+Category: crypto
+Published: Wed, 16 Jul 2025 23:02:02 +0000
+URL: https://decrypt.co/330482/citi-considers-launching-stablecoin-tradfi-players-continue-crypto-embrace
+Overall Score: 5.0/10
+Context: 3.0/10
+Credibility: 5.0/10
+Depth: 3.5/10
+Relevance: 9.0/10
+Content Preview: Coin PricesBTC117,951.00-0.54ETH3,428.588.14XRP3.2610.00BNB719.693.86SOL177.076.13USDC0.999677-0.02DOGE0.2160187.35STETH3,420.537.69TRX0.3115653.64ADA0.808957.99HYPE46.57-2.56WBTC117,899.00-0.57XLM0.4...
+
+ARTICLE 39
+----------------------------------------
+Title: Coinbase and Strategy Set Stock Records Amid Bitcoin, Ethereum Spikes
+Source: decrypt
+Category: crypto
+Published: Wed, 16 Jul 2025 22:38:48 +0000
+URL: https://decrypt.co/330479/coinbase-strategy-stock-set-records-bitcoin-ethereum-spikes
+Overall Score: 4.9/10
+Context: 2.0/10
+Credibility: 7.0/10
+Depth: 3.0/10
+Relevance: 6.5/10
+Content Preview: Coin PricesBTC117,903.00-0.61ETH3,424.007.78XRP3.259.48BNB719.303.80SOL176.725.96USDC0.999742-0.02DOGE0.2158487.21STETH3,411.307.31TRX0.3115753.64ADA0.8056557.46HYPE46.55-3.03WBTC117,648.00-0.78XLM0.4...
+
+ARTICLE 40
+----------------------------------------
+Title: XRP Price Hits 6-Month High as Open Interest Soars to Record Levels
+Source: decrypt
+Category: crypto
+Published: Wed, 16 Jul 2025 21:01:54 +0000
+URL: https://decrypt.co/330473/xrp-price-hits-6-month-high-open-interest-soars-record
+Overall Score: 4.0/10
+Context: 3.0/10
+Credibility: 4.5/10
+Depth: 3.0/10
+Relevance: 8.5/10
+Content Preview: Coin PricesBTC117,903.00-0.61ETH3,424.007.78XRP3.259.48BNB719.303.80SOL176.725.96USDC0.999742-0.02DOGE0.2158487.21STETH3,411.307.31TRX0.3115753.64ADA0.8056557.46HYPE46.55-3.03WBTC117,648.00-0.78XLM0.4...
+
+ARTICLE 41
+----------------------------------------
+Title: ARK Invest Sells $8.7 Million Worth of Bitcoin ETF Shares Taking Profits
+Source: decrypt
+Category: crypto
+Published: Wed, 16 Jul 2025 20:13:39 +0000
+URL: https://decrypt.co/330461/ark-invest-sells-8-7-million-worth-bitcoin-etf-shares-taking-profits
+Overall Score: 4.6/10
+Context: 3.0/10
+Credibility: 4.0/10
+Depth: 3.0/10
+Relevance: 7.5/10
+Content Preview: Coin PricesBTC117,903.00-0.61ETH3,424.007.78XRP3.259.48BNB719.303.80SOL176.725.96USDC0.999742-0.02DOGE0.2158487.21STETH3,411.307.31TRX0.3115753.64ADA0.8056557.46HYPE46.55-3.03WBTC117,648.00-0.78XLM0.4...
+
+ARTICLE 42
+----------------------------------------
+Title: Ethereum Forms 'Golden Cross', With Bulls in Control: Analysis
+Source: decrypt
+Category: crypto
+Published: Wed, 16 Jul 2025 20:04:08 +0000
+URL: https://decrypt.co/330445/ethereum-price-golden-cross-eth-bulls-analysis
+Overall Score: 4.3/10
+Context: 3.0/10
+Credibility: 7.0/10
+Depth: 3.0/10
+Relevance: 7.5/10
+Content Preview: Coin PricesBTC117,903.00-0.61ETH3,424.007.78XRP3.259.48BNB719.303.80SOL176.725.96USDC0.999742-0.02DOGE0.2158487.21STETH3,411.307.31TRX0.3115753.64ADA0.8056557.46HYPE46.55-3.03WBTC117,648.00-0.78XLM0.4...
+
+ARTICLE 43
+----------------------------------------
+Title: Upexi Stock Surges as Solana Climbs—Why the Firm Is Bullish on SOL
+Source: decrypt
+Category: crypto
+Published: Wed, 16 Jul 2025 19:46:46 +0000
+URL: https://decrypt.co/330463/upexi-stock-surges-solana-climbs-why-bullish-sol
+Overall Score: 4.8/10
+Context: 3.0/10
+Credibility: 5.0/10
+Depth: 3.5/10
+Relevance: 6.5/10
+Content Preview: Coin PricesBTC117,903.00-0.61ETH3,424.007.78XRP3.259.48BNB719.303.80SOL176.725.96USDC0.999742-0.02DOGE0.2158487.21STETH3,411.307.31TRX0.3115753.64ADA0.8056557.46HYPE46.55-3.03WBTC117,648.00-0.78XLM0.4...
+
+ARTICLE 44
+----------------------------------------
+Title: Ethereum Shorts Rekt as ETH Price Keeps Climbing
+Source: decrypt
+Category: crypto
+Published: Wed, 16 Jul 2025 19:20:20 +0000
+URL: https://decrypt.co/330426/152-million-ethereum-shorts-rekt
+Overall Score: 5.1/10
+Context: 2.0/10
+Credibility: 7.0/10
+Depth: 3.0/10
+Relevance: 8.5/10
+Content Preview: Coin PricesBTC117,903.00-0.61ETH3,424.007.78XRP3.259.48BNB719.303.80SOL176.725.96USDC0.999742-0.02DOGE0.2158487.21STETH3,411.307.31TRX0.3115753.64ADA0.8056557.46HYPE46.55-3.03WBTC117,648.00-0.78XLM0.4...
+
+ARTICLE 45
+----------------------------------------
+Title: 'Bitcoin Jesus' Roger Ver Sues Spain to Block Extradition Over US Tax Charges: Bloomberg
+Source: decrypt
+Category: crypto
+Published: Wed, 16 Jul 2025 19:11:41 +0000
+URL: https://decrypt.co/330431/bitcoin-jesus-ver-sues-spain-block-extradition-us-tax-charges
+Overall Score: 4.1/10
+Context: 3.0/10
+Credibility: 5.0/10
+Depth: 3.0/10
+Relevance: 7.5/10
+Content Preview: Coin PricesBTC117,951.00-0.54ETH3,428.588.14XRP3.2610.00BNB719.693.86SOL177.076.13USDC0.999677-0.02DOGE0.2160187.35STETH3,420.537.69TRX0.3115653.64ADA0.808957.99HYPE46.57-2.56WBTC117,899.00-0.57XLM0.4...
+
+ARTICLE 46
+----------------------------------------
+Title: Talos to Buy Coin Metrics Amid Surge in Crypto M&#038;A Activity
+Source: decrypt
+Category: crypto
+Published: Wed, 16 Jul 2025 18:40:50 +0000
+URL: https://decrypt.co/330428/talos-buy-coin-metrics-surge-crypto-ma-activity
+Overall Score: 4.5/10
+Context: 2.0/10
+Credibility: 4.0/10
+Depth: 3.0/10
+Relevance: 8.5/10
+Content Preview: Coin PricesBTC117,903.00-0.61ETH3,424.007.78XRP3.259.48BNB719.303.80SOL176.725.96USDC0.999742-0.02DOGE0.2158487.21STETH3,411.307.31TRX0.3115753.64ADA0.8056557.46HYPE46.55-3.03WBTC117,648.00-0.78XLM0.4...
+
+ARTICLE 47
+----------------------------------------
+Title: EU Anti-Money Laundering Authority Warns Crypto Firms of New Regulations
+Source: decrypt
+Category: crypto
+Published: Wed, 16 Jul 2025 18:31:02 +0000
+URL: https://decrypt.co/330410/eu-anti-money-laundering-warns-crypto-firms
+Overall Score: 4.1/10
+Context: 3.0/10
+Credibility: 5.0/10
+Depth: 3.0/10
+Relevance: 8.5/10
+Content Preview: Coin PricesBTC117,903.00-0.61ETH3,424.007.78XRP3.259.48BNB719.303.80SOL176.725.96USDC0.999742-0.02DOGE0.2158487.21STETH3,411.307.31TRX0.3115753.64ADA0.8056557.46HYPE46.55-3.03WBTC117,648.00-0.78XLM0.4...
+
+ARTICLE 48
+----------------------------------------
+Title: Bitcoin Wavers After Trump Says He's 'Not Planning' to Fire Fed Chair
+Source: decrypt
+Category: crypto
+Published: Wed, 16 Jul 2025 17:46:41 +0000
+URL: https://decrypt.co/330418/bitcoin-wavers-trump-says-not-planning-fire-fed-chair
+Overall Score: 4.9/10
+Context: 3.5/10
+Credibility: 5.5/10
+Depth: 3.5/10
+Relevance: 6.5/10
+Content Preview: Coin PricesBTC117,903.00-0.61ETH3,424.007.78XRP3.259.48BNB719.303.80SOL176.725.96USDC0.999742-0.02DOGE0.2158487.21STETH3,411.307.31TRX0.3115753.64ADA0.8056557.46HYPE46.55-3.03WBTC117,648.00-0.78XLM0.4...
+
+ARTICLE 49
+----------------------------------------
+Title: Crypto Bills in Limbo After Dramatic Standoff on House Floor
+Source: decrypt
+Category: crypto
+Published: Wed, 16 Jul 2025 17:43:46 +0000
+URL: https://decrypt.co/330419/crypto-week-bills-congress-dramatic-standoff-house-floor
+Overall Score: 3.5/10
+Context: 2.0/10
+Credibility: 4.0/10
+Depth: 3.0/10
+Relevance: 6.5/10
+Content Preview: Coin PricesBTC117,903.00-0.61ETH3,424.007.78XRP3.259.48BNB719.303.80SOL176.725.96USDC0.999742-0.02DOGE0.2158487.21STETH3,411.307.31TRX0.3115753.64ADA0.8056557.46HYPE46.55-3.03WBTC117,648.00-0.78XLM0.4...
+
+ARTICLE 50
+----------------------------------------
+Title: Dogecoin Rises as Pump.fun Token, Official Trump and Melania Meme Coins Jump
+Source: decrypt
+Category: crypto
+Published: Wed, 16 Jul 2025 15:28:53 +0000
+URL: https://decrypt.co/330406/dogecoin-rises-pump-fun-token-trump-melania-meme-coins-jump
+Overall Score: 4.4/10
+Context: 3.0/10
+Credibility: 6.0/10
+Depth: 3.0/10
+Relevance: 5.5/10
+Content Preview: Coin PricesBTC117,903.00-0.61ETH3,424.007.78XRP3.259.48BNB719.303.80SOL176.725.96USDC0.999742-0.02DOGE0.2158487.21STETH3,411.307.31TRX0.3115753.64ADA0.8056557.46HYPE46.55-3.03WBTC117,648.00-0.78XLM0.4...
+
+ARTICLE 51
+----------------------------------------
+Title: DEA, FBI Have Seized $10 Million in Crypto From Mexican Drug Cartel Sinaloa This Year
+Source: decrypt
+Category: crypto
+Published: Wed, 16 Jul 2025 14:25:28 +0000
+URL: https://decrypt.co/330388/dea-seized-10-million-crypto-mexican-drug-cartel-sinaloa
+Overall Score: 4.5/10
+Context: 2.0/10
+Credibility: 4.0/10
+Depth: 3.5/10
+Relevance: 8.5/10
+Content Preview: Coin PricesBTC117,951.00-0.54ETH3,428.588.14XRP3.2610.00BNB719.693.86SOL177.076.13USDC0.999677-0.02DOGE0.2160187.35STETH3,420.537.69TRX0.3115653.64ADA0.808957.99HYPE46.57-2.56WBTC117,899.00-0.57XLM0.4...
+
+ARTICLE 52
+----------------------------------------
+Title: Bank of England Governor Doubts the UK Needs a 'Britcoin' CBDC
+Source: decrypt
+Category: crypto
+Published: Wed, 16 Jul 2025 13:53:15 +0000
+URL: https://decrypt.co/330374/bank-of-england-unconvinced-britcoin-cbdc
+Overall Score: 5.2/10
+Context: 3.0/10
+Credibility: 7.0/10
+Depth: 3.5/10
+Relevance: 7.5/10
+Content Preview: Coin PricesBTC117,903.00-0.61ETH3,424.007.78XRP3.259.48BNB719.303.80SOL176.725.96USDC0.999742-0.02DOGE0.2158487.21STETH3,411.307.31TRX0.3115753.64ADA0.8056557.46HYPE46.55-3.03WBTC117,648.00-0.78XLM0.4...
+
+ARTICLE 53
+----------------------------------------
+Title: California Forms Tech Task Force With Ripple, Coinbase Participation
+Source: decrypt
+Category: crypto
+Published: Wed, 16 Jul 2025 13:18:41 +0000
+URL: https://decrypt.co/330358/california-forms-tech-task-force-with-ripple-coinbase-participation
+Overall Score: 5.4/10
+Context: 3.0/10
+Credibility: 7.0/10
+Depth: 4.0/10
+Relevance: 8.5/10
+Content Preview: Coin PricesBTC117,903.00-0.61ETH3,424.007.78XRP3.259.48BNB719.303.80SOL176.725.96USDC0.999742-0.02DOGE0.2158487.21STETH3,411.307.31TRX0.3115753.64ADA0.8056557.46HYPE46.55-3.03WBTC117,648.00-0.78XLM0.4...
+
+ARTICLE 54
+----------------------------------------
+Title: ChangeNOW Redefines Crypto Speed Standards with Sub-2-Minute Swaps
+Source: beincrypto
+Category: crypto
+Published: Thu, 17 Jul 2025 13:00:00 +0000
+URL: https://beincrypto.com/changenow-redefines-crypto-speed-standards-with-sub-2-minute-swaps/
+Overall Score: 4.8/10
+Context: 5.0/10
+Credibility: 4.0/10
+Depth: 4.0/10
+Relevance: 7.5/10
+Content Preview: ByAdvertorial17 July 2025, 13:00 GMT0000Updated byDmitriy Maiorov17 July 2025, 13:00 GMT0000Join our Trading Community on TelegramShare on TwitterShare on EmailShare on LinkedinShare on Google NewsEdi...
+
+ARTICLE 55
+----------------------------------------
+Title: Ethereum Momentum Fuels Meme Coin Surge While PENGU and PUMP Stumble
+Source: beincrypto
+Category: crypto
+Published: Thu, 17 Jul 2025 12:31:25 +0000
+URL: https://beincrypto.com/ethereum-meme-coins-soar-pengu-pump-drop/
+Overall Score: 5.5/10
+Context: 5.0/10
+Credibility: 4.5/10
+Depth: 5.0/10
+Relevance: 8.5/10
+Content Preview: ByLockridge Okoth17 July 2025, 12:31 GMT0000Updated byAnn Maria Shibu17 July 2025, 12:31 GMT0000Join our Trading Community on TelegramShare on TwitterShare on EmailShare on LinkedinShare on Google New...
+
+ARTICLE 56
+----------------------------------------
+Title: 2025 on Track to Become the Worst Year for Cryptocurrency Theft, Chainalysis Reveals
+Source: beincrypto
+Category: crypto
+Published: Thu, 17 Jul 2025 12:00:00 +0000
+URL: https://beincrypto.com/crypto-crime-2025-rising-thefts-violence/
+Overall Score: 5.5/10
+Context: 5.0/10
+Credibility: 4.0/10
+Depth: 6.0/10
+Relevance: 9.0/10
+Content Preview: ByKamina Bashir17 July 2025, 12:00 GMT0000Updated byHarsh Notariya17 July 2025, 12:00 GMT0000Join our Trading Community on TelegramShare on TwitterShare on EmailShare on LinkedinShare on Google NewsIn...
+
+ARTICLE 57
+----------------------------------------
+Title: 3 Undervalued Altcoins Analysts Think Are About to Break Out in July
+Source: beincrypto
+Category: crypto
+Published: Thu, 17 Jul 2025 11:45:40 +0000
+URL: https://beincrypto.com/3-altcoins-break-out-in-july/
+Overall Score: 5.6/10
+Context: 5.0/10
+Credibility: 5.5/10
+Depth: 5.0/10
+Relevance: 6.5/10
+Content Preview: ByNhat Hoang17 July 2025, 11:45 GMT0000Updated byAnn Maria Shibu17 July 2025, 11:45 GMT0000Join our Trading Community on TelegramShare on TwitterShare on EmailShare on LinkedinShare on Google NewsIn B...
+
+ARTICLE 58
+----------------------------------------
+Title: BNB Chain Targets 20,000 TPS and Native Privacy in 2026
+Source: beincrypto
+Category: crypto
+Published: Thu, 17 Jul 2025 11:12:50 +0000
+URL: https://beincrypto.com/bnb-chains-infrastructure-upgrade/
+Overall Score: 7.0/10
+Context: 5.0/10
+Credibility: 9.0/10
+Depth: 6.0/10
+Relevance: 8.5/10
+Content Preview: ByLinh Bùi17 July 2025, 11:12 GMT0000Updated byAnn Maria Shibu17 July 2025, 11:12 GMT0000Join our Trading Community on TelegramShare on TwitterShare on EmailShare on LinkedinShare on Google NewsIn Bri...
+
+ARTICLE 59
+----------------------------------------
+Title: Bitget Wallet Report Reveals Gaming and Travel Are Top Crypto Payment Interests
+Source: beincrypto
+Category: crypto
+Published: Thu, 17 Jul 2025 11:00:00 +0000
+URL: https://beincrypto.com/bitget-wallet-report-reveals-gaming-and-travel-are-top-crypto-payment-interests/
+Overall Score: 6.0/10
+Context: 6.0/10
+Credibility: 5.5/10
+Depth: 4.0/10
+Relevance: 8.5/10
+Content Preview: ByAdvertorial17 July 2025, 11:00 GMT0000Updated byDmitriy Maiorov17 July 2025, 11:00 GMT0000Join our Trading Community on TelegramShare on TwitterShare on EmailShare on LinkedinShare on Google NewsEdi...
+
+ARTICLE 60
+----------------------------------------
+Title: Upbit to Follow Binance in Listing Caldera, ERA Soars 60%
+Source: beincrypto
+Category: crypto
+Published: Thu, 17 Jul 2025 10:45:40 +0000
+URL: https://beincrypto.com/upbit-listing-fuels-caldera-surge/
+Overall Score: 5.8/10
+Context: 5.0/10
+Credibility: 6.0/10
+Depth: 5.5/10
+Relevance: 8.5/10
+Content Preview: ByLockridge Okoth17 July 2025, 10:45 GMT0000Updated byAnn Maria Shibu17 July 2025, 10:46 GMT0000Join our Trading Community on TelegramShare on TwitterShare on EmailShare on LinkedinShare on Google New...
+
+ARTICLE 61
+----------------------------------------
+Title: 3 Signs Meme Coin Season Could Be Making a Comeback This July
+Source: beincrypto
+Category: crypto
+Published: Thu, 17 Jul 2025 10:07:27 +0000
+URL: https://beincrypto.com/meme-coin-season-return-july/
+Overall Score: 5.0/10
+Context: 5.0/10
+Credibility: 4.0/10
+Depth: 4.0/10
+Relevance: 6.5/10
+Content Preview: ByNhat Hoang17 July 2025, 10:07 GMT0000Updated byAnn Maria Shibu17 July 2025, 10:07 GMT0000Join our Trading Community on TelegramShare on TwitterShare on EmailShare on LinkedinShare on Google NewsIn B...
+
+ARTICLE 62
+----------------------------------------
+Title: Ether.fi Reinvents Itself as a Crypto Neobank—Genius Strategy or Risky Bet?
+Source: beincrypto
+Category: crypto
+Published: Thu, 17 Jul 2025 09:43:33 +0000
+URL: https://beincrypto.com/ether-fi-reinvents-itself-as-a-crypto-neobank/
+Overall Score: 6.8/10
+Context: 5.0/10
+Credibility: 9.0/10
+Depth: 6.0/10
+Relevance: 8.5/10
+Content Preview: ByLinh Bùi17 July 2025, 09:43 GMT0000Updated byHarsh Notariya17 July 2025, 09:43 GMT0000Join our Trading Community on TelegramShare on TwitterShare on EmailShare on LinkedinShare on Google NewsIn Brie...
+
+ARTICLE 63
+----------------------------------------
+Title: $1.5 Billion ETF Inflows Could Push Bitcoin Price 4% to New All-Time High
+Source: beincrypto
+Category: crypto
+Published: Thu, 17 Jul 2025 09:21:27 +0000
+URL: https://beincrypto.com/etf-inflows-push-bitcoin-price-to-new-all-time-high/
+Overall Score: 5.1/10
+Context: 4.0/10
+Credibility: 5.0/10
+Depth: 5.0/10
+Relevance: 8.5/10
+Content Preview: ByAaryamann Shrivastava17 July 2025, 09:21 GMT0000Updated byHarsh Notariya17 July 2025, 10:04 GMT0000Join our Trading Community on TelegramShare on TwitterShare on EmailShare on LinkedinShare on Googl...
+
+ARTICLE 64
+----------------------------------------
+Title: Pump Dips 23% Within Hours as Selling Intensifies: Will it Drop More?
+Source: beincrypto
+Category: crypto
+Published: Thu, 17 Jul 2025 08:30:00 +0000
+URL: https://beincrypto.com/pump-price-dips-within-hours-as-selling-intensifies/
+Overall Score: 6.7/10
+Context: 4.0/10
+Credibility: 9.0/10
+Depth: 6.0/10
+Relevance: 7.5/10
+Content Preview: ByAnanda Banerjee17 July 2025, 08:30 GMT0000Updated byHarsh Notariya17 July 2025, 08:30 GMT0000Join our Trading Community on TelegramShare on TwitterShare on EmailShare on LinkedinShare on Google News...
+
+ARTICLE 65
+----------------------------------------
+Title: Coinbase Launches New All-in-One Crypto App: Here’s What You Need to Know
+Source: beincrypto
+Category: crypto
+Published: Thu, 17 Jul 2025 07:00:17 +0000
+URL: https://beincrypto.com/coinbase-base-app-social-trading/
+Overall Score: 6.9/10
+Context: 5.0/10
+Credibility: 9.0/10
+Depth: 6.0/10
+Relevance: 8.5/10
+Content Preview: ByLockridge Okoth17 July 2025, 07:00 GMT0000Updated byAnn Maria Shibu17 July 2025, 08:57 GMT0000Join our Trading Community on TelegramShare on TwitterShare on EmailShare on LinkedinShare on Google New...
+
+ARTICLE 66
+----------------------------------------
+Title: Why is the Crypto Market Up Today?
+Source: beincrypto
+Category: crypto
+Published: Thu, 17 Jul 2025 05:18:47 +0000
+URL: https://beincrypto.com/why-is-the-crypto-market-up-today/
+Overall Score: 5.7/10
+Context: 5.0/10
+Credibility: 4.0/10
+Depth: 4.0/10
+Relevance: 8.5/10
+Content Preview: ByAaryamann Shrivastava17 July 2025, 05:18 GMT0000Updated byHarsh Notariya17 July 2025, 05:41 GMT0000Join our Trading Community on TelegramShare on TwitterShare on EmailShare on LinkedinShare on Googl...
+
+ARTICLE 67
+----------------------------------------
+Title: Ethereum Breaks $3,400: Investors Split Between Accumulation and Profit-Taking
+Source: beincrypto
+Category: crypto
+Published: Thu, 17 Jul 2025 05:12:01 +0000
+URL: https://beincrypto.com/ethereum-price-rally-whale-strategies/
+Overall Score: 6.2/10
+Context: 5.0/10
+Credibility: 6.5/10
+Depth: 5.0/10
+Relevance: 8.5/10
+Content Preview: ByKamina Bashir17 July 2025, 05:12 GMT0000Updated byHarsh Notariya17 July 2025, 05:12 GMT0000Join our Trading Community on TelegramShare on TwitterShare on EmailShare on LinkedinShare on Google NewsIn...
+
+ARTICLE 68
+----------------------------------------
+Title: Big Bitcoin Secret Revealed by Michael Saylor
+Source: utoday
+Category: crypto
+Published: Thu, 17 Jul 2025 13:12:00 +0000
+URL: https://u.today/big-bitcoin-secret-revealed-by-michael-saylor
+Overall Score: 4.5/10
+Context: 4.0/10
+Credibility: 5.5/10
+Depth: 3.0/10
+Relevance: 4.0/10
+Content Preview: ...HomeNewsMichael SaylorBig Bitcoin Secret Revealed by Michael SaylorNewsByYuri MolchanThu, 17072025 - 13:12Vocal BTC evangelist Saylor has revealed the only thing thats better than BitcoinAdvertisem...
+
+ARTICLE 69
+----------------------------------------
+Title: 449,671,393 SHIB Scam Alert Issued by SHIB Team: Details
+Source: utoday
+Category: crypto
+Published: Thu, 17 Jul 2025 12:33:00 +0000
+URL: https://u.today/449671393-shib-scam-alert-issued-by-shib-team-details
+Overall Score: 5.7/10
+Context: 4.0/10
+Credibility: 7.0/10
+Depth: 4.0/10
+Relevance: 6.0/10
+Content Preview: ...HomeNewsShiba Inu (SHIB) News449,671,393 SHIB Scam Alert Issued by SHIB Team: DetailsNewsByYuri MolchanThu, 17072025 - 12:33SHIB team has issued a crucial scam warning to their communityAdvertiseme...
+
+ARTICLE 70
+----------------------------------------
+Title: XRP Ultra-Rare Bull Signal Emerges; $5 Next?
+Source: utoday
+Category: crypto
+Published: Thu, 17 Jul 2025 12:23:00 +0000
+URL: https://u.today/xrp-ultra-rare-bull-signal-emerges-5-next
+Overall Score: 4.9/10
+Context: 4.0/10
+Credibility: 4.0/10
+Depth: 3.5/10
+Relevance: 5.5/10
+Content Preview: ...HomeNewsXRP NewsXRP Ultra-Rare Bull Signal Emerges; 5 Next?NewsByTomiwabold OlajideThu, 17072025 - 12:23XRP price saw sharp surge, recently reaching 3.28AdvertisementCover image viawww.freepik.comD...
+
+ARTICLE 71
+----------------------------------------
+Title: Top Trader Can't Believe This XRP Versus Bitcoin Chart
+Source: utoday
+Category: crypto
+Published: Thu, 17 Jul 2025 12:04:00 +0000
+URL: https://u.today/top-trader-cant-believe-this-xrp-versus-bitcoin-chart
+Overall Score: 4.8/10
+Context: 4.0/10
+Credibility: 4.0/10
+Depth: 3.5/10
+Relevance: 5.0/10
+Content Preview: ...HomeNewsXRPTop Trader Cant Believe This XRP Versus Bitcoin ChartNewsByGamza KhanzadaevThu, 17072025 - 12:04XRP vs. Bitcoin breakout? Chart leaves pro trader speechlessAdvertisementCover image viaww...
+
+ARTICLE 72
+----------------------------------------
+Title: Binance's CZ Reacts to Sen Warren's New Major Anti-Crypto Initiative: Details
+Source: utoday
+Category: crypto
+Published: Thu, 17 Jul 2025 10:52:00 +0000
+URL: https://u.today/binances-cz-reacts-to-sen-warrens-new-major-anti-crypto-initiative-details
+Overall Score: 5.5/10
+Context: 4.0/10
+Credibility: 5.5/10
+Depth: 3.5/10
+Relevance: 7.5/10
+Content Preview: ...HomeNewsChangpeng ZhaoBinances CZ Reacts to Sen Warrens New Major Anti-Crypto Initiative: DetailsNewsByYuri MolchanThu, 17072025 - 10:52Former Binance CEO sides with top tech companies and their sw...
+
+ARTICLE 73
+----------------------------------------
+Title: $528,000,000 in Ethereum (ETH) Sold: Who's Dumping?
+Source: utoday
+Category: crypto
+Published: Thu, 17 Jul 2025 10:22:00 +0000
+URL: https://u.today/528000000-in-ethereum-eth-sold-whos-dumping
+Overall Score: 5.4/10
+Context: 4.0/10
+Credibility: 5.0/10
+Depth: 4.0/10
+Relevance: 7.5/10
+Content Preview: ...HomeNewsEthereum528,000,000 in Ethereum (ETH) Sold: Whos Dumping?NewsByArman ShirinyanThu, 17072025 - 10:22Ethereum seeing massive pressure spike, suggesting rapid market reversalAdvertisementCover...
+
+ARTICLE 74
+----------------------------------------
+Title: Shiba Inu Skyrockets 50% in Volume, Where's Price Heading?
+Source: utoday
+Category: crypto
+Published: Thu, 17 Jul 2025 09:41:00 +0000
+URL: https://u.today/shiba-inu-skyrockets-50-in-volume-wheres-price-heading
+Overall Score: 4.8/10
+Context: 4.0/10
+Credibility: 5.5/10
+Depth: 3.5/10
+Relevance: 5.5/10
+Content Preview: ...HomeNewsShiba InuShiba Inu Skyrockets 50 in Volume, Wheres Price Heading?NewsByGodfrey BenjaminThu, 17072025 - 9:41Shiba Inu trading volume jumps 50 amid positive shift in broader market sentimentA...
+
+ARTICLE 75
+----------------------------------------
+Title: Shiba Inu (SHIB) on Verge of Breaking Seven-Month Downtrend
+Source: utoday
+Category: crypto
+Published: Thu, 17 Jul 2025 09:19:00 +0000
+URL: https://u.today/shiba-inu-shib-on-verge-of-breaking-seven-month-downtrend
+Overall Score: 4.6/10
+Context: 4.0/10
+Credibility: 4.0/10
+Depth: 4.0/10
+Relevance: 6.5/10
+Content Preview: ...HomeNewsShiba InuShiba Inu (SHIB) on Verge of Breaking Seven-Month DowntrendNewsByArman ShirinyanThu, 17072025 - 9:19Shiba Inu could finally be ready for long-term reversal following breakout of 20...
+
+ARTICLE 76
+----------------------------------------
+Title: Legendary Trader Peter Brandt Announces Altcoin Season’s Start
+Source: utoday
+Category: crypto
+Published: Thu, 17 Jul 2025 08:47:00 +0000
+URL: https://u.today/legendary-trader-peter-brandt-announces-altcoin-seasons-start
+Overall Score: 5.3/10
+Context: 4.0/10
+Credibility: 5.5/10
+Depth: 3.5/10
+Relevance: 6.5/10
+Content Preview: ...HomeNewsPeter BrandtLegendary Trader Peter Brandt Announces Altcoin Seasons StartNewsByYuri MolchanThu, 17072025 - 8:47Savvy trader Brandt says altcoin season has arrived, spotting bullish pattern ...
+
+ARTICLE 77
+----------------------------------------
+Title: Senator Warren Warns Crypto Could Destroy US Economy
+Source: utoday
+Category: crypto
+Published: Thu, 17 Jul 2025 07:27:41 +0000
+URL: https://u.today/senator-warren-warns-crypto-could-destroy-us-economy
+Overall Score: 4.9/10
+Context: 4.0/10
+Credibility: 6.0/10
+Depth: 3.5/10
+Relevance: 7.5/10
+Content Preview: ...HomeNewsStablecoinSenator Warren Warns Crypto Could Destroy US EconomyNewsByAlex DovbnyaThu, 17072025 - 7:27Crypto could be used to blow up entire US economy, Senator Elizabeth Warren suggestsAdver...
+
+ARTICLE 78
+----------------------------------------
+Title: Cracking Satoshi’s Wallets? Elon Musk Weighs In
+Source: utoday
+Category: crypto
+Published: Thu, 17 Jul 2025 05:49:03 +0000
+URL: https://u.today/cracking-satoshis-wallets-elon-musk-weighs-in
+Overall Score: 4.9/10
+Context: 3.0/10
+Credibility: 7.0/10
+Depth: 2.0/10
+Relevance: 3.0/10
+Content Preview: ...HomeNewsElon MuskCracking Satoshis Wallets? Elon Musk Weighs InNewsByAlex DovbnyaThu, 17072025 - 5:49Elon Musk has shared joke about cracking wallets of Bitcoin creator Satoshi NakamotoAdvertisemen...
+
+ARTICLE 79
+----------------------------------------
+Title: Satoshi-Era Whale Moves $4.77 Billion in BTC
+Source: utoday
+Category: crypto
+Published: Thu, 17 Jul 2025 05:03:36 +0000
+URL: https://u.today/satoshi-era-whale-moves-477-billion-in-btc
+Overall Score: 4.4/10
+Context: 4.0/10
+Credibility: 4.0/10
+Depth: 3.0/10
+Relevance: 7.5/10
+Content Preview: ...HomeNewsBitcoin NewsSatoshi-Era Whale Moves 4.77 Billion in BTCNewsByAlex DovbnyaThu, 17072025 - 5:03The Satoshi-era whale who sent shockwaves across the market on July 15 might be selling againAdv...
+
+ARTICLE 80
+----------------------------------------
+Title: XRP out of 1,000,000,000 Club, Ethereum (ETH) Now Eyes $4,000, Is Bitcoin (BTC) in Trouble?
+Source: utoday
+Category: crypto
+Published: Thu, 17 Jul 2025 00:01:00 +0000
+URL: https://u.today/xrp-out-of-1000000000-club-ethereum-eth-now-eyes-4000-is-bitcoin-btc-in-trouble
+Overall Score: 5.3/10
+Context: 4.0/10
+Credibility: 5.5/10
+Depth: 4.0/10
+Relevance: 5.5/10
+Content Preview: ...HomeNewsCrypto Market ReviewBitcoinOriginal U.Today articleXRP out of 1,000,000,000 Club, Ethereum (ETH) Now Eyes 4,000, Is Bitcoin (BTC) in Trouble?NewsCrypto Market ReviewByArman ShirinyanThu, 17...
+
+ARTICLE 81
+----------------------------------------
+Title: XRP on Verge of Ultra-Rare Golden Cross, 41.04% of SHIB Supply Held By Single Wallet, Enormous Satoshi-Era Bitcoin Whale Starts Selling: Crypto News Digest by U.Today
+Source: utoday
+Category: crypto
+Published: Wed, 16 Jul 2025 22:53:53 +0000
+URL: https://u.today/xrp-on-verge-of-ultra-rare-golden-cross-4104-of-shib-supply-held-by-single-wallet-enormous-satoshi
+Overall Score: 5.6/10
+Context: 4.0/10
+Credibility: 6.5/10
+Depth: 3.5/10
+Relevance: 6.5/10
+Content Preview: ...HomeCrypto News DigestBitcoinXRP on Verge of Ultra-Rare Golden Cross, 41.04 of SHIB Supply Held By Single Wallet, Enormous Satoshi-Era Bitcoin Whale Starts Selling: Crypto News Digest by U.TodayCry...
+
+ARTICLE 82
+----------------------------------------
+Title: Ethereum (ETH) Tops $3,300 as Holder Numbers Break Records
+Source: utoday
+Category: crypto
+Published: Wed, 16 Jul 2025 19:55:51 +0000
+URL: https://u.today/ethereum-eth-tops-3300-as-holder-numbers-break-records
+Overall Score: 5.6/10
+Context: 4.0/10
+Credibility: 5.5/10
+Depth: 3.5/10
+Relevance: 8.5/10
+Content Preview: ...HomeNewsEthereum Price PredictionEthereum (ETH) Tops 3,300 as Holder Numbers Break RecordsNewsByAlex DovbnyaWed, 16072025 - 19:55Ethereum (ETH) has successfully managed to outperform other major cr...
+
+ARTICLE 83
+----------------------------------------
+Title: $374 Million in ETH Moved in Mere Hours, What Are Whales Up To?
+Source: utoday
+Category: crypto
+Published: Wed, 16 Jul 2025 16:21:58 +0000
+URL: https://u.today/374-million-in-eth-moved-in-mere-hours-what-are-whales-up-to
+Overall Score: 6.7/10
+Context: 5.0/10
+Credibility: 9.0/10
+Depth: 4.0/10
+Relevance: 8.5/10
+Content Preview: ...HomeNewsEthereum374 Million in ETH Moved in Mere Hours, What Are Whales Up To?NewsByCaroline AmosunWed, 16072025 - 16:21Ethereum whale activity surges as whales move thousands of ETH tokens in less...
+
+ARTICLE 84
+----------------------------------------
+Title: Tether Mints 2 Billion USDT as Bitcoin Price Reclaims $119,000
+Source: utoday
+Category: crypto
+Published: Wed, 16 Jul 2025 16:07:00 +0000
+URL: https://u.today/tether-mints-2-billion-usdt-as-bitcoin-price-reclaims-119000
+Overall Score: 5.1/10
+Context: 4.0/10
+Credibility: 3.5/10
+Depth: 4.0/10
+Relevance: 8.5/10
+Content Preview: ...HomeNewsTetherTether Mints 2 Billion USDT as Bitcoin Price Reclaims 119,000NewsByGodfrey BenjaminWed, 16072025 - 16:07Tether injects 2,000,000,000 USDT as crypto rally picks up momentumAdvertisemen...
+
+ARTICLE 85
+----------------------------------------
+Title: XRP Tops $3 on Reports of Fed Chair Powell's Likely Ouster
+Source: utoday
+Category: crypto
+Published: Wed, 16 Jul 2025 15:50:57 +0000
+URL: https://u.today/xrp-tops-3-on-reports-of-fed-chair-powells-likely-ouster
+Overall Score: 5.2/10
+Context: 4.0/10
+Credibility: 5.5/10
+Depth: 3.0/10
+Relevance: 6.5/10
+Content Preview: ...HomeNewsXRP Price PredictionXRP Tops 3 on Reports of Fed Chair Powells Likely OusterNewsByAlex DovbnyaWed, 16072025 - 15:50Cryptocurrencies have reacted positively to reports of potential Powell ou...
+
+ARTICLE 86
+----------------------------------------
+Title: Ripple Exec Breaks Silence on Game-Changing Custody Move: Details
+Source: utoday
+Category: crypto
+Published: Wed, 16 Jul 2025 15:37:00 +0000
+URL: https://u.today/ripple-exec-breaks-silence-on-game-changing-custody-move-details
+Overall Score: 5.7/10
+Context: 4.0/10
+Credibility: 6.0/10
+Depth: 4.0/10
+Relevance: 8.5/10
+Content Preview: ...HomeNewsRipple NewsRipple Exec Breaks Silence on Game-Changing Custody Move: DetailsNewsByTomiwabold OlajideWed, 16072025 - 15:37Ripple executive reacts to move set to boost XRP LedgerAdvertisement...
+
+ARTICLE 87
+----------------------------------------
+Title: Abnormal 51,209% Liquidation Imbalance Absolutely Stuns XRP Bears
+Source: utoday
+Category: crypto
+Published: Wed, 16 Jul 2025 15:24:00 +0000
+URL: https://u.today/abnormal-51209-liquidation-imbalance-absolutely-stuns-xrp-bears
+Overall Score: 4.0/10
+Context: 4.0/10
+Credibility: 3.5/10
+Depth: 4.0/10
+Relevance: 6.5/10
+Content Preview: ...HomeNewsXRPAbnormal 51,209 Liquidation Imbalance Absolutely Stuns XRP BearsNewsByGamza KhanzadaevWed, 16072025 - 15:24XRP rockets 51,209 in abnormal liquidation imbalance as bulls take chargeAdvert...
+
+ARTICLE 88
+----------------------------------------
+Title: Crucial 10-Year Bitcoin Warning Issued by Jeremie Davinci
+Source: utoday
+Category: crypto
+Published: Wed, 16 Jul 2025 15:14:00 +0000
+URL: https://u.today/crucial-10-year-bitcoin-warning-issued-by-jeremie-davinci
+Overall Score: 5.1/10
+Context: 4.0/10
+Credibility: 5.5/10
+Depth: 3.5/10
+Relevance: 4.5/10
+Content Preview: ...HomeNewsBitcoinCrucial 10-Year Bitcoin Warning Issued by Jeremie DavinciNewsByYuri MolchanWed, 16072025 - 15:14Bitcoin OG Davinci gives important advice for next decade to potential BTC holdersAdve...
+
+ARTICLE 89
+----------------------------------------
+Title: U.S.-Listed Bitcoin Miners Reach New Peak Share of Global Hashrate
+Source: utoday
+Category: crypto
+Published: Wed, 16 Jul 2025 14:38:43 +0000
+URL: https://u.today/us-listed-bitcoin-miners-reach-new-peak-share-of-global-hashrate
+Overall Score: 5.6/10
+Context: 4.0/10
+Credibility: 5.5/10
+Depth: 4.0/10
+Relevance: 8.5/10
+Content Preview: ...HomeNewsBitcoin NewsU.S.-Listed Bitcoin Miners Reach New Peak Share of Global HashrateNewsByAlex DovbnyaWed, 16072025 - 14:38US-listed Bitcoin miners have increased their dominance, according to mo...
+
+ARTICLE 90
+----------------------------------------
+Title: Ethereum 'God Candle' Incoming: Will ETH Price Reach $4,000?
+Source: utoday
+Category: crypto
+Published: Wed, 16 Jul 2025 14:31:00 +0000
+URL: https://u.today/ethereum-god-candle-incoming-will-eth-price-reach-4000
+Overall Score: 4.5/10
+Context: 4.0/10
+Credibility: 4.5/10
+Depth: 3.5/10
+Relevance: 5.5/10
+Content Preview: ...HomeNewsEthereum NewsEthereum God Candle Incoming: Will ETH Price Reach 4,000?NewsByTomiwabold OlajideWed, 16072025 - 14:31Ethereum key measures suggest traders positioningAdvertisementCover image ...
+
+ARTICLE 91
+----------------------------------------
+Title: $1,260,000,000 Locked in Cardano Open Interest, But There's a Catch
+Source: utoday
+Category: crypto
+Published: Wed, 16 Jul 2025 14:24:00 +0000
+URL: https://u.today/1260000000-locked-in-cardano-open-interest-but-theres-a-catch
+Overall Score: 5.0/10
+Context: 4.0/10
+Credibility: 6.5/10
+Depth: 4.0/10
+Relevance: 6.5/10
+Content Preview: ...HomeNewsCardano1,260,000,000 Locked in Cardano Open Interest, But Theres a CatchNewsByGodfrey BenjaminWed, 16072025 - 14:24Cardano open interest is bullish, with more than 1.68 billion ADA locked i...
+
+ARTICLE 92
+----------------------------------------
+Title: Bitcoin (BTC) Price Analysis for July 16
+Source: utoday
+Category: crypto
+Published: Wed, 16 Jul 2025 14:17:00 +0000
+URL: https://u.today/bitcoin-btc-price-analysis-for-july-16
+Overall Score: 4.0/10
+Context: 3.5/10
+Credibility: 4.0/10
+Depth: 3.5/10
+Relevance: 4.0/10
+Content Preview: ...HomePrice AnalysisBitcoin Price PredictionOriginal U.Today articleBitcoin (BTC) Price Analysis for July 16Price AnalysisByDenys SerhiichukWed, 16072025 - 14:17How long is sideways trading of Bitcoi...
+
+ARTICLE 93
+----------------------------------------
+Title: XRP Burns Surge 100%: What Does This Mean?
+Source: utoday
+Category: crypto
+Published: Wed, 16 Jul 2025 14:09:00 +0000
+URL: https://u.today/xrp-burns-surge-100-what-does-this-mean
+Overall Score: 5.2/10
+Context: 4.0/10
+Credibility: 4.5/10
+Depth: 5.0/10
+Relevance: 6.5/10
+Content Preview: ...HomeNewsXRPXRP Burns Surge 100: What Does This Mean?NewsByArman ShirinyanWed, 16072025 - 14:09XRP sees massive 100 surge in metric that many forget aboutAdvertisementCover image viawww.freepik.comD...
+
+ARTICLE 94
+----------------------------------------
+Title: Strategy's Saylor Issues One-Word Verdict for Bitcoin
+Source: utoday
+Category: crypto
+Published: Wed, 16 Jul 2025 13:53:00 +0000
+URL: https://u.today/strategys-saylor-issues-one-word-verdict-for-bitcoin-0
+Overall Score: 5.1/10
+Context: 4.0/10
+Credibility: 5.5/10
+Depth: 3.0/10
+Relevance: 5.0/10
+Content Preview: ...HomeNewsMichael SaylorStrategys Saylor Issues One-Word Verdict for BitcoinNewsByGamza KhanzadaevWed, 16072025 - 13:53Strategys CEO Michael Saylor channels his inner dude from Big Lebowski in new on...
+
+ARTICLE 95
+----------------------------------------
+Title: Dogecoin One-Fifth of Way to $1 Price Milestone, Wen Moon?
+Source: utoday
+Category: crypto
+Published: Wed, 16 Jul 2025 13:44:00 +0000
+URL: https://u.today/dogecoin-one-fifth-of-way-to-1-price-milestone-wen-moon
+Overall Score: 5.4/10
+Context: 4.0/10
+Credibility: 6.5/10
+Depth: 3.5/10
+Relevance: 4.5/10
+Content Preview: ...HomeNewsDogecoin NewsDogecoin One-Fifth of Way to 1 Price Milestone, Wen Moon?NewsByTomiwabold OlajideWed, 16072025 - 13:44Dogecoin price surged toward this target in 2021, with many now hoping for...
+
+ARTICLE 96
+----------------------------------------
+Title: 95% Shiba Inu (SHIB) Drop: What Just Happened?
+Source: utoday
+Category: crypto
+Published: Wed, 16 Jul 2025 13:35:00 +0000
+URL: https://u.today/95-shiba-inu-shib-drop-what-just-happened
+Overall Score: 5.1/10
+Context: 4.0/10
+Credibility: 4.0/10
+Depth: 4.5/10
+Relevance: 6.5/10
+Content Preview: ...HomeNewsShiba Inu95 Shiba Inu (SHIB) Drop: What Just Happened?NewsByArman ShirinyanWed, 16072025 - 13:35Shiba Inu seeing large drop in inflows on market, hinting at potential rally reversalAdvertis...
+
+ARTICLE 97
+----------------------------------------
+Title: XRP to $6.90: Top Trader Confirms His Ultimate XRP Price Target
+Source: utoday
+Category: crypto
+Published: Wed, 16 Jul 2025 13:24:00 +0000
+URL: https://u.today/xrp-to-690-top-trader-confirms-his-ultimate-xrp-price-target
+Overall Score: 4.6/10
+Context: 3.5/10
+Credibility: 4.0/10
+Depth: 3.5/10
+Relevance: 4.5/10
+Content Preview: ...HomeNewsXRPXRP to 6.90: Top Trader Confirms His Ultimate XRP Price TargetNewsByGamza KhanzadaevWed, 16072025 - 13:24XRP price to rocket 135 if this XRP price prediction from top trader comes trueAd...
+
+ARTICLE 98
+----------------------------------------
+Title: Crypto Week Could Unlock “Trillions” as U.S. Bills Seek to Clarify Digital Assets
+Source: cryptonews
+Category: crypto
+Published: Thu, 17 Jul 2025 01:21:58 +0000
+URL: https://cryptonews.com/news/crypto-week-us-bills-unlock-trillions-digital-assets/
+Overall Score: 5.0/10
+Context: 4.0/10
+Credibility: 5.0/10
+Depth: 4.0/10
+Relevance: 8.5/10
+Content Preview: <p>During Crypto Week, U.S. representatives have advanced the CLARITY, GENIUS and Anti-CBDC acts, steps that would clarify SEC or CFTC oversight, require one-to-one stablecoin backing and ban a Federa...
+
+ARTICLE 99
+----------------------------------------
+Title: Senator Cynthia Lummis ‘Alarmed’ By Alleged U.S. Bitcoin Reserve Holdings
+Source: cryptonews
+Category: crypto
+Published: Wed, 16 Jul 2025 23:11:50 +0000
+URL: https://cryptonews.com/news/new-docs-allegedly-show-the-u-s-government-holds-significant/
+Overall Score: 4.3/10
+Context: 3.0/10
+Credibility: 3.5/10
+Depth: 3.0/10
+Relevance: 5.0/10
+Content Preview: <p><strong>Cynthia Lummis</strong> has expressed alarm after newly released U.S. Marshals Service records valued the federal Bitcoin reserve at just $3.44 billion, or roughly 29 000 BTC—about 85 perce...
+
+ARTICLE 100
+----------------------------------------
+Title: Crypto Price Prediction Today 16 July – XRP, Solana, Pepe
+Source: cryptonews
+Category: crypto
+Published: Wed, 16 Jul 2025 23:25:15 +0000
+URL: https://cryptonews.com/news/crypto-price-prediction-today-16-july-xrp-solana-pepe/
+Overall Score: 4.2/10
+Context: 4.0/10
+Credibility: 4.0/10
+Depth: 3.5/10
+Relevance: 4.5/10
+Content Preview: <p>Crypto price prediction today reports Bitcoin remaining just 3.3% below its record $122,838 and analyses whether XRP’s post-SEC victory momentum, Solana’s ETF prospects, Pepe’s bullish wedge and ne...
+
+ARTICLE 101
+----------------------------------------
+Title: FLOKI Rallies 30% In 24 Hours, BOME, FARTCOIN Follow | Meme Coins To Watch
+Source: beincrypto
+Category: crypto
+Published: Thu, 17 Jul 2025 13:04:05 +0000
+URL: https://beincrypto.com/meme-coins-to-watch-fartcoin-bome-floki/
+Overall Score: 5.7/10
+Context: 5.0/10
+Credibility: 5.5/10
+Depth: 4.0/10
+Relevance: 5.5/10
+Content Preview: ByAaryamann Shrivastava17 July 2025, 13:04 GMT0000Updated byHarsh Notariya17 July 2025, 13:04 GMT0000Join our Trading Community on TelegramShare on TwitterShare on EmailShare on LinkedinShare on Googl...
+
+ARTICLE 102
+----------------------------------------
+Title: Dogecoin (DOGE) Just Inch Away From 'Breakout of the Year'
+Source: utoday
+Category: crypto
+Published: Thu, 17 Jul 2025 09:36:00 +0000
+URL: https://u.today/dogecoin-doge-just-inch-away-from-breakout-of-the-year
+Overall Score: 4.7/10
+Context: 4.0/10
+Credibility: 5.0/10
+Depth: 3.5/10
+Relevance: 5.5/10
+Content Preview: ...HomeNewsDogecoin Price PredictionDogecoin (DOGE) Just Inch Away From Breakout of the YearNewsByGamza KhanzadaevThu, 17072025 - 9:36Dogecoin (DOGE) to 0.50? Meme coin king gears up for Breakout of t...
+
+ARTICLE 103
+----------------------------------------
+Title: Sudden New ETH Shuffle by Ethereum Foundation Raises Big Question
+Source: utoday
+Category: crypto
+Published: Wed, 16 Jul 2025 13:49:00 +0000
+URL: https://u.today/sudden-new-eth-shuffle-by-ethereum-foundation-raises-big-question
+Overall Score: 5.1/10
+Context: 4.0/10
+Credibility: 5.5/10
+Depth: 4.0/10
+Relevance: 8.5/10
+Content Preview: ...HomeNewsEthereum NewsSudden New ETH Shuffle by Ethereum Foundation Raises Big QuestionNewsByGamza KhanzadaevWed, 16072025 - 13:4922,000,000 ETH lands in mysterious wallet tied to Ethereum Foundatio...
+
+ARTICLE 104
+----------------------------------------
+Title: “Bitcoin Jesus” Faces 109-Year Sentence as $48M Tax Extradition Battle Hits Europe
+Source: cryptonews
+Category: crypto
+Published: Wed, 16 Jul 2025 23:46:23 +0000
+URL: https://cryptonews.com/news/bitcoin-jesus-109-year-tax-extradition/
+Overall Score: 4.6/10
+Context: 4.0/10
+Credibility: 5.0/10
+Depth: 3.0/10
+Relevance: 6.5/10
+Content Preview: <p>Early Bitcoin investor Roger Ver has asked the European Court of Human Rights to block his U.S. <strong>Tax Extradition</strong>. He has said Spain ignored legal safeguards in approving transfer on...
+
+ARTICLE 105
+----------------------------------------
+Title: Altcoin Season Heats Up: AI Flags LINK, ADA, AVAX for Explosive Breakouts
+Source: cryptonews
+Category: crypto
+Published: Wed, 16 Jul 2025 22:21:34 +0000
+URL: https://cryptonews.com/news/altcoin-season-ai-link-ada-avax-explosive-gains/
+Overall Score: 5.3/10
+Context: 4.0/10
+Credibility: 5.0/10
+Depth: 3.5/10
+Relevance: 6.5/10
+Content Preview: <p>Altcoin season momentum has accelerated as AI-driven technical research has shown Chainlink, Cardano, and Avalanche have formed bullish consolidation patterns. The analysis projects 44 %–264 % upsi...
+
+ARTICLE 106
+----------------------------------------
+Title: ChatGPT Predicts the Price of XRP, Dogecoin and Shiba Inu by the End of 2025
+Source: cryptonews
+Category: crypto
+Published: Wed, 16 Jul 2025 23:28:40 +0000
+URL: https://cryptonews.com/news/chatgpt-predicts-the-price-of-xrp-dogecoin-and-shiba-inu-by-the-end-of-2025/
+Overall Score: 4.4/10
+Context: 4.0/10
+Credibility: 4.0/10
+Depth: 3.5/10
+Relevance: 4.5/10
+Content Preview: <p>ChatGPT predicts Bitcoin's $122,838 record could ignite a new bull phase, lifting altcoins. It has forecast XRP to top $10, DOGE to $1.50 and SHIB to rise sevenfold by late 2025, citing clearer reg...
+
+ARTICLE 107
+----------------------------------------
+Title: [LIVE] Crypto News Today: Latest Updates for July 17, 2025 – Altcoin Mania is Here, ETH Crosses $3.3K, XRP Holds Above $3
+Source: cryptonews
+Category: crypto
+Published: Thu, 17 Jul 2025 04:46:32 +0000
+URL: https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-july-17-2025/
+Overall Score: 3.5/10
+Context: 2.0/10
+Credibility: 4.5/10
+Depth: 2.0/10
+Relevance: 4.0/10
+Content Preview: <p>Follow up to the hour updates on what is happening in crypto today, July 17. Market movements, crypto news, and more!</p>
+<p>The post <a href="https://cryptonews.com/news/live-crypto-news-today-lat...
+
+ARTICLE 108
+----------------------------------------
+Title: SharpLink Adds Another 20,279 ETH, Surpasses Ethereum Foundation
+Source: cryptonews
+Category: crypto
+Published: Thu, 17 Jul 2025 08:19:16 +0000
+URL: https://cryptonews.com/news/sharplink-adds-another-20279-eth-surpasses-ethereum-foundation/
+Overall Score: 3.8/10
+Context: 2.0/10
+Credibility: 5.5/10
+Depth: 2.0/10
+Relevance: 5.0/10
+Content Preview: <p>According Lookonchain, SharpLink has bought another 20,279 Ethereum (ETH) on Thursday, worth $68.38 million.</p>
+<p>The post <a href="https://cryptonews.com/news/sharplink-adds-another-20279-eth-su...
+
+ARTICLE 109
+----------------------------------------
+Title: Ethereum ETFs Smash Records with $727M Single-Day Inflow Surge
+Source: cryptonews
+Category: crypto
+Published: Thu, 17 Jul 2025 05:43:36 +0000
+URL: https://cryptonews.com/news/ethereum-etf-smash-records-727m-single-day-inflow/
+Overall Score: 5.0/10
+Context: 3.0/10
+Credibility: 5.0/10
+Depth: 2.0/10
+Relevance: 7.5/10
+Content Preview: <p>Ethereum ETFs saw a record $726.74M inflow on July 16, marking a major turnaround and pushing total net inflows to $6.48B.</p>
+<p>The post <a href="https://cryptonews.com/news/ethereum-etf-smash-re...
+
+ARTICLE 110
+----------------------------------------
+Title: UK Crime Officer Jailed for Stealing 50 Bitcoins Worth £4.4M During Silk Road Investigation
+Source: cryptonews
+Category: crypto
+Published: Thu, 17 Jul 2025 09:03:01 +0000
+URL: https://cryptonews.com/news/uk-crime-officer-jailed-for-stealing-50-bitcoins-worth-4-4m-during-silk-road-investigation/
+Overall Score: 4.2/10
+Context: 3.0/10
+Credibility: 5.0/10
+Depth: 2.0/10
+Relevance: 5.0/10
+Content Preview: <p class="whitespace-normal break-words">Former National Crime Agency officer Paul Chowles has been sentenced to 5.5 years in prison for stealing 50 Bitcoin worth £4.4 million from evidence seized dur...
+
+ARTICLE 111
+----------------------------------------
+Title: Thailand Plans Crypto Sandbox Allowing Tourists to Convert Crypto into Local Currency
+Source: cryptonews
+Category: crypto
+Published: Thu, 17 Jul 2025 07:44:11 +0000
+URL: https://cryptonews.com/news/thailand-plans-crypto-sandbox-allowing-tourists-to-convert-crypto-into-local-currency/
+Overall Score: 4.7/10
+Context: 3.0/10
+Credibility: 5.5/10
+Depth: 3.0/10
+Relevance: 7.5/10
+Content Preview: <p>Thailand is preparing to launch a regulatory crypto sandbox that will enable foreign tourists to convert their crypto assets into baht for spending locally. </p>
+<p>The post <a href="https://crypto...
+
+ARTICLE 112
+----------------------------------------
+Title: Bank of America Trying to Understand Client Demand Before Stablecoin Rollout: CEO
+Source: cryptonews
+Category: crypto
+Published: Thu, 17 Jul 2025 05:07:55 +0000
+URL: https://cryptonews.com/news/bofa-to-understand-client-demand-before-stablecoin-rollout/
+Overall Score: 3.8/10
+Context: 3.0/10
+Credibility: 4.0/10
+Depth: 3.0/10
+Relevance: 5.5/10
+Content Preview: <p>BofA has “done a lot of work” on launching its own stablecoin and is trying to understand customer demand in the space, which isn’t high currently.</p>
+<p>The post <a href="https://cryptonews.com/n...
+
+ARTICLE 113
+----------------------------------------
+Title: Coinbase Wallet Morphs into the ‘Everything’ Base App
+Source: cryptonews
+Category: crypto
+Published: Wed, 16 Jul 2025 23:00:00 +0000
+URL: https://cryptonews.com/news/coinbase-wallet-morphs-into-the-base-app/
+Overall Score: 4.9/10
+Context: 3.0/10
+Credibility: 6.0/10
+Depth: 2.0/10
+Relevance: 6.0/10
+Content Preview: <p>Coinbase has transformed its Coinbase Wallet into the novel Base App, describing it as “an everything app” that supports trading, payments, social, apps, and chat.</p>
+<p>The post <a href="https://...
+
+ARTICLE 114
+----------------------------------------
+Title: XRP Price Prediction 17 July, 2025: Is Ripple Price Going to $4 Today After Launch of UXRP ETF?
+Source: cryptonews
+Category: crypto
+Published: Thu, 17 Jul 2025 12:06:39 +0000
+URL: https://cryptonews.com/news/xrp-price-prediction-17-july-2025-is-ripple-price-going-to-4-today-after-launch-of-uxrp-etf/
+Overall Score: 4.2/10
+Context: 3.0/10
+Credibility: 4.5/10
+Depth: 3.0/10
+Relevance: 5.0/10
+Content Preview: <p>XRP (XRP) has gone up by 11% in the past 24 hours and has broken through the $3 barrier, which favors a bullish XRP price prediction.This rally seems to have been ignited by the approval of the fir...
+
+ARTICLE 115
+----------------------------------------
+Title: [LIVE] XRP Price Tracker July 17, 2025: Rally Continues, Is Ripple Going to Reach a New ATH Today?
+Source: cryptonews
+Category: crypto
+Published: Thu, 17 Jul 2025 09:18:36 +0000
+URL: https://cryptonews.com/news/xrp-price-tracker-july-17-2025-new-ath-coming-today/
+Overall Score: 3.4/10
+Context: 2.0/10
+Credibility: 4.5/10
+Depth: 2.0/10
+Relevance: 4.0/10
+Content Preview: <p>Is the XRP price about to hit a new all-time high today? Stay on top of the markets with our live XRP price tracker for July 17, 2025. As Ripple’s bullish momentum continues, traders and investors ...
+
+ARTICLE 116
+----------------------------------------
+Title: Bonk Price Prediction: Can BONK Shed A Zero And Hit a New ATH In July 2025?
+Source: cryptonews
+Category: crypto
+Published: Thu, 17 Jul 2025 12:33:33 +0000
+URL: https://cryptonews.com/news/bonk-price-prediction-can-bonk-shed-a-zero-and-hit-a-new-ath-in-july-2025/
+Overall Score: 4.4/10
+Context: 3.0/10
+Credibility: 4.5/10
+Depth: 2.0/10
+Relevance: 4.0/10
+Content Preview: <p>Institutional recognition and continued adoption have positioned BONK as the speculative play of choice, breaking into the meme coin top 5 amid a fresh wave of retail liquidity.</p>
+<p>The post <a ...
+
+ARTICLE 117
+----------------------------------------
+Title: XRP Perpetual Futures Open Interest Hits Record $8.8B Amid Market Surge — XRP Rally Incoming?
+Source: cryptonews
+Category: crypto
+Published: Thu, 17 Jul 2025 10:31:33 +0000
+URL: https://cryptonews.com/news/xrp-perpetual-futures-open-interest-hits-record-8-8b-amid-market-surge-xrp-rally-incoming/
+Overall Score: 4.2/10
+Context: 3.0/10
+Credibility: 5.0/10
+Depth: 3.0/10
+Relevance: 5.0/10
+Content Preview: <p>XRP’s price surged to a six-month high on Wednesday, fueled by a spike in notional open interest for its perpetual futures contracts.</p>
+<p>The post <a href="https://cryptonews.com/news/xrp-perpet...
+
+ARTICLE 118
+----------------------------------------
+Title: Crypto Market Maker B2C2 Plans to Raise Up to $200 Million from External Investors
+Source: cryptonews
+Category: crypto
+Published: Thu, 17 Jul 2025 06:10:26 +0000
+URL: https://cryptonews.com/news/crypto-market-maker-b2c2-plans-to-raise-up-to-200-million/
+Overall Score: 3.8/10
+Context: 2.0/10
+Credibility: 5.0/10
+Depth: 2.0/10
+Relevance: 5.0/10
+Content Preview: <p>B2C2, a crypto market maker based in London and 90% owned by SBI Holdings, is reportedly preparing to raise up to $200 million from external investors.</p>
+<p>The post <a href="https://cryptonews.c...
+
+ARTICLE 119
+----------------------------------------
+Title: Trump-Linked World Liberty Tokens Set to Trade, May Inflate President’s Digital Asset Wealth
+Source: cryptonews
+Category: crypto
+Published: Thu, 17 Jul 2025 03:48:20 +0000
+URL: https://cryptonews.com/news/trump-linked-world-liberty-financial-token-set-to-trade/
+Overall Score: 3.3/10
+Context: 2.0/10
+Credibility: 4.5/10
+Depth: 2.0/10
+Relevance: 4.5/10
+Content Preview: <p>Trump-linked WLFI token will become tradable after 99.94% of holders voted in favor, potentially boosting the president’s crypto wealth.</p>
+<p>The post <a href="https://cryptonews.com/news/trump-l...
+
+ARTICLE 120
+----------------------------------------
+Title: Russian Lawmakers Pass Digital Ruble Bill as CBDC Rollout Draws Near
+Source: cryptonews
+Category: crypto
+Published: Wed, 16 Jul 2025 23:30:00 +0000
+URL: https://cryptonews.com/news/russian-lawmakers-pass-digital-ruble-bill-as-cbdc-rollout-draws-near/
+Overall Score: 5.0/10
+Context: 3.0/10
+Credibility: 5.5/10
+Depth: 2.0/10
+Relevance: 7.0/10
+Content Preview: <p>Russian lawmakers have voted in favour of a digital ruble bill that mandates a September 2026 rollout for the CBDC.</p>
+<p>The post <a href="https://cryptonews.com/news/russian-lawmakers-pass-digit...
+
