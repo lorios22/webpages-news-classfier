@@ -19,6 +19,8 @@ A comprehensive, production-ready cryptocurrency and macroeconomic news extracti
 ## 📚 Documentation
 
 ### **System Documentation**
+- **[MCP Workflow Mapping Guide](./docs/MCP_WORKFLOW_MAPPING_GUIDE.md)** - Complete technical mapping of MCPs to workflows
+- **[MCP Executive Summary](./docs/MCP_EXECUTIVE_SUMMARY.md)** - Business overview of FastMCP integration
 - **[Complete System Improvements](./COMPLETE_SYSTEM_IMPROVEMENTS_DOCUMENTATION.md)** - Detailed technical improvements and transformations
 - **[Enhanced Results Files Guide](./ENHANCED_RESULTS_FILES_DOCUMENTATION.md)** - Comprehensive guide to all output formats
 - **[Prompt Improvements Summary](./PROMPT_IMPROVEMENTS_SUMMARY.md)** - AI agent enhancement details
